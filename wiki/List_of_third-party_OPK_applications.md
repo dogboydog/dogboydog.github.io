@@ -1,17 +1,3 @@
-## Anonymous
-
-### Not logged in
-
-* [English](#)
-* [Talk](/wiki/Special:MyTalk "Discussion about edits from this IP address [n]")
-* [Contributions](/wiki/Special:MyContributions "A list of edits made from this IP address [y]")
-* [Create account](/w/index.php?title=Special:CreateAccount&returnto=List+of+third-party+OPK+applications%2Fzh "You are encouraged to create an account and log in; however, it is not mandatory")
-* [Log in](/w/index.php?title=Special:UserLogin&returnto=List+of+third-party+OPK+applications%2Fzh "You are encouraged to log in; however, it is not mandatory [o]")
-
-[The FunKey Wiki](/wiki/Main_Page)
-
-### Search
-
 # 第三方OPK应用程序清单
 
 From The FunKey Wiki
@@ -259,96 +245,8 @@ Make note of the following information for the following games:
 
 <br>
 
-![](https://wiki.funkey-project.com/wiki/Special:CentralAutoLogin/start?type=1x1) Retrieved from "[https://wiki.funkey-project.com/w/index.php?title=List_of_third-party_OPK_applications/zh&oldid=20781](https://wiki.funkey-project.com/w/index.php?title=List_of_third-party_OPK_applications/zh&oldid=20781) "Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+!
 
-## Navigation
 
-### General
-
-* [Main Page](/wiki/Main_Page)
-* [Knowledge Center](/wiki/FunKey_Wiki_Knowledge_Center)
-* [The FunKey Times](/wiki/The_FunKey_Times)
-
-### Wiki Network
-
-* [EverSD Wiki](https://eversd.miraheze.org/wiki/Main_Page)
-
-### Articles
-
-* [FunKey S](/wiki/FunKey_S)
-* [FunKey-OS](/wiki/FunKey-OS)
-* [Keymu](/wiki/Keymu)
-
-### Community
-
-* [Discord](/wiki/FunKey_Community_Discord_Server)
-* [Polls](/wiki/FunKey_Community_Poll)
-* [Speedruning](/wiki/FunKey_Speedrun_Leaderboards)
-
-### Videos
-
-* [Gameplay](/wiki/List_of_games_with_FunKey_S_gameplay_footage)
-* [Reviews](/wiki/The_FunKey_Times#Media_Reviews)
-
-### Lists (FunKey S)
-
-* [Accessories](/wiki/List_of_FunKey_S_compatible_keychain_accessories)
-* [KEY files](/wiki/List_of_pre-configured_KEY_files)
-* [Launcher themes](/wiki/List_of_third-party_launcher_themes)
-* [Native apps](/wiki/List_of_third-party_OPK_applications)
-
-### Lists (Emulation)
-
-* [Freeware](/wiki/List_of_emulatable_games_(freeware))
-* [Multiplayer](/wiki/List_of_games_with_hotseat_multiplayer)
-* [ROM hacks](/wiki/List_of_recommended_ROM_hacks)
-* [Utilities](/wiki/List_of_emulatable_utilities)
-
-## Wiki tools
-
-### Wiki tools
-
-* [Special pages](/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Cite this page](/w/index.php?title=Special:CiteThisPage&page=List_of_third-party_OPK_applications%2Fzh&id=20781&wpFormIdentifier=titleform "Information on how to cite this page")
-* [Get shortened URL](/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fwiki.funkey-project.com%2Fwiki%2FList_of_third-party_OPK_applications%2Fzh)
-
-## Page tools
-
-### Page tools
-
-### Userpage tools
-
-### More
-
-* [What links here](/wiki/Special:WhatLinksHere/List_of_third-party_OPK_applications/zh "A list of all wiki pages that link here [j]")
-* [Related changes](/wiki/Special:RecentChangesLinked/List_of_third-party_OPK_applications/zh "Recent changes in pages linked from this page [k]")
-* [Printable version](javascript:print(); "Printable version of this page [p]")
-* [Permanent link](/w/index.php?title=List_of_third-party_OPK_applications/zh&oldid=20781 "Permanent link to this revision of the page")
-* [Page information](/w/index.php?title=List_of_third-party_OPK_applications/zh&action=info "More information about this page")
-* [Page logs](/w/index.php?title=Special:Log&page=List+of+third-party+OPK+applications%2Fzh)
-
-## Other projects
-
-### Variants
-
-* [不转换](/w/index.php?title=List_of_third-party_OPK_applications/zh&variant=zh)
-* [简体](/w/index.php?title=List_of_third-party_OPK_applications/zh&variant=zh-hans)
-* [繁體](/w/index.php?title=List_of_third-party_OPK_applications/zh&variant=zh-hant)
-* [大陆简体](/w/index.php?title=List_of_third-party_OPK_applications/zh&variant=zh-cn)
-* [香港繁體](/w/index.php?title=List_of_third-party_OPK_applications/zh&variant=zh-hk)
-* [澳門繁體](/w/index.php?title=List_of_third-party_OPK_applications/zh&variant=zh-mo)
-* [大马简体](/w/index.php?title=List_of_third-party_OPK_applications/zh&variant=zh-my)
-* [新加坡简体](/w/index.php?title=List_of_third-party_OPK_applications/zh&variant=zh-sg)
-* [臺灣正體](/w/index.php?title=List_of_third-party_OPK_applications/zh&variant=zh-tw)
-
-* Content is available under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise noted.
-
-* [Privacy policy](https://meta.miraheze.org/wiki/Privacy_Policy "m:Privacy Policy")
-* [About The FunKey Wiki](/wiki/The_FunKey_Wiki_About "The FunKey Wiki_About")
-* [Disclaimers](/wiki/The_FunKey_Wiki_General_disclaimer "The FunKey Wiki_General disclaimer")
-* [Terms of Use](https://meta.miraheze.org/wiki/Terms_of_Use "m:Terms of Use")
-* [Donate to Miraheze](https://meta.miraheze.org/wiki/Donate "m:Donate")
-* [Dark mode](#)
-* [Mobile view](https://wiki.funkey-project.com/w/index.php?title=List_of_third-party_OPK_applications/zh&mobileaction=toggle_view_mobile)
 
 ![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_third-party_OPK_applications/zh)

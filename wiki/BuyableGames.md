@@ -1,17 +1,3 @@
-## Anonymous
-
-### Not logged in
-
-* [English](#)
-* [Talk](/wiki/Special:MyTalk "Discussion about edits from this IP address [n]")
-* [Contributions](/wiki/Special:MyContributions "A list of edits made from this IP address [y]")
-* [Create account](/w/index.php?title=Special:CreateAccount&returnto=List+of+emulatable+games+%28commercial%29 "You are encouraged to create an account and log in; however, it is not mandatory")
-* [Log in](/w/index.php?title=Special:UserLogin&returnto=List+of+emulatable+games+%28commercial%29 "You are encouraged to log in; however, it is not mandatory [o]")
-
-[The FunKey Wiki](/wiki/Main_Page)
-
-### Search
-
 # List of emulatable games (commercial)
 
 From The FunKey Wiki
@@ -1134,48 +1120,8 @@ This section lists commercially available emulated games that do not have their 
 [Return to top of section](#na-c)
 
 [Return to top of article](#top)
-![](https://wiki.funkey-project.com/wiki/Special:CentralAutoLogin/start?type=1x1) Retrieved from "[https://wiki.funkey-project.com/w/index.php?title=List_of_emulatable_games_(commercial)&oldid=12603](https://wiki.funkey-project.com/w/index.php?title=List_of_emulatable_games_(commercial)&oldid=12603) "Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+!
 
-## Navigation
 
-### Navigation
-
-* [Main page](/wiki/Main_Page "Visit the main page [z]")
-* [Recent changes](/wiki/Special:RecentChanges "A list of recent changes in the wiki [r]")
-* [Random page](/wiki/Special:Random "Load a random page [x]")
-* [Help about MediaWiki](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents)
-
-## Wiki tools
-
-### Wiki tools
-
-* [Special pages](/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Cite this page](/w/index.php?title=Special:CiteThisPage&page=List_of_emulatable_games_%28commercial%29&id=12603&wpFormIdentifier=titleform "Information on how to cite this page")
-* [Get shortened URL](/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fwiki.funkey-project.com%2Fwiki%2FList_of_emulatable_games_%28commercial%29)
-
-## Page tools
-
-### Page tools
-
-### Userpage tools
-
-### More
-
-* [What links here](/wiki/Special:WhatLinksHere/List_of_emulatable_games_(commercial) "A list of all wiki pages that link here [j]")
-* [Related changes](/wiki/Special:RecentChangesLinked/List_of_emulatable_games_(commercial) "Recent changes in pages linked from this page [k]")
-* [Printable version](javascript:print(); "Printable version of this page [p]")
-* [Permanent link](/w/index.php?title=List_of_emulatable_games_(commercial)&oldid=12603 "Permanent link to this revision of the page")
-* [Page information](/w/index.php?title=List_of_emulatable_games_(commercial)&action=info "More information about this page")
-* [Page logs](/w/index.php?title=Special:Log&page=List+of+emulatable+games+%28commercial%29)
-
-* Content is available under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise noted.
-
-* [Privacy policy](https://meta.miraheze.org/wiki/Privacy_Policy "m:Privacy Policy")
-* [About The FunKey Wiki](/wiki/The_FunKey_Wiki_About "The FunKey Wiki_About")
-* [Disclaimers](/wiki/The_FunKey_Wiki_General_disclaimer "The FunKey Wiki_General disclaimer")
-* [Terms of Use](https://meta.miraheze.org/wiki/Terms_of_Use "m:Terms of Use")
-* [Donate to Miraheze](https://meta.miraheze.org/wiki/Donate "m:Donate")
-* [Dark mode](#)
-* [Mobile view](https://wiki.funkey-project.com/w/index.php?title=List_of_emulatable_games_(commercial)&mobileaction=toggle_view_mobile)
 
 ![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_emulatable_games_(commercial))

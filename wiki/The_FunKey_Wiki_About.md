@@ -1,17 +1,3 @@
-## Anonymous
-
-### Not logged in
-
-* [English](#)
-* [Talk](/wiki/Special:MyTalk "Discussion about edits from this IP address [n]")
-* [Contributions](/wiki/Special:MyContributions "A list of edits made from this IP address [y]")
-* [Create account](/w/index.php?title=Special:CreateAccount&returnto=Main+Page "You are encouraged to create an account and log in; however, it is not mandatory")
-* [Log in](/w/index.php?title=Special:UserLogin&returnto=Main+Page "You are encouraged to log in; however, it is not mandatory [o]")
-
-[The FunKey Wiki](/wiki/Main_Page)
-
-### Search
-
 # Main Page
 
 From The FunKey Wiki
@@ -379,7 +365,7 @@ The FunKey Team
 
 <br>
 
-![](https://wiki.funkey-project.com/wiki/Special:CentralAutoLogin/start?type=1x1) Retrieved from "[https://wiki.funkey-project.com/w/index.php?title=Main_Page&oldid=20757#What_is_the_purpose_of_this_wiki?](https://wiki.funkey-project.com/w/index.php?title=Main_Page&oldid=20757#What_is_the_purpose_of_this_wiki?) "Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+!
 
 ## Navigation
 
