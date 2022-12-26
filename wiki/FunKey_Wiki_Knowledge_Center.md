@@ -457,8 +457,3 @@ The FunKey Wiki is powered by [MediaWiki](https://en.wikipedia.org/wiki/MediaWik
 
 <br>
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=FunKey_Wiki_Knowledge_Center)

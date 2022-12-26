@@ -73,8 +73,3 @@ Differences between the Keymu and the later FunKey branded systems include the u
 
 <br>
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=FunKey_S)

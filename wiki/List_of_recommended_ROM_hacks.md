@@ -469,8 +469,3 @@ This section lists game patches that modify a game to an extent that essentially
 | <u>Pokémon Sors</u> | Pokémon FireRed | GBA | - New region and story- Implementation of Pokémon from later generations | [Link](https://www.pokecommunity.com/showthread.php?t=433238) |
 | <u>Pokémon Unbound</u> | [Link](https://www.pokecommunity.com/showthread.php?t=382178) |
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_recommended_ROM_hacks)

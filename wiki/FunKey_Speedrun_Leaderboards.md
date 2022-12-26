@@ -54,8 +54,3 @@ This section lists games that have at least one recorded speedrun completed usin
 | 1st | CoolieCoolster | 3:42:42 | [Link](https://youtu.be/lactMkmo4vo) |
 | --- | CoolieCoolster | 4:07:03 | [Link](https://youtu.be/C1x16j_yDRk) |
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=FunKey_Speedrun_Leaderboards)

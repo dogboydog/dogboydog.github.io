@@ -127,8 +127,3 @@ This sections lists emulatable utilities that cannot be categorized in any of th
 | GBA Scrabble Dictionary App | GBA | Scrabble dictionary | [Link](https://www.gbadev.org/demos.php?showinfo=545) |
 | StopWatch | GB | Stopwatch | [Link](https://www.nesworld.com/gb/homebrew/application/stopwatch-v1.zip) |
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_emulatable_utilities)

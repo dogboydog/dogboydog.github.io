@@ -517,8 +517,3 @@ Of the following 266 games with hotseat functionality **13** are homebrew, with 
 | Twisted! | [Link](https://en.wikipedia.org/wiki/WarioWare:_Twisted! "w:WarioWare: Twisted!") |
 | Yar's Revenge + Asteroids + Pong |  |
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_games_with_hotseat_multiplayer)

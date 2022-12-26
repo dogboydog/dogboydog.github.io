@@ -331,8 +331,3 @@ No videos featuring Atari Lynx gameplay on the FunKey S have yet been released.
 | Zoids: Legacy | 5m 00s | CoolieCoolster | [Link](https://www.youtube.com/watch?v=QnfhU1o3ZFg&t=757s) |
 | Zooo | 1m 15s | [Link](https://www.youtube.com/watch?v=BB7pozC4WCQ&t=582s) |
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_games_with_FunKey_S_gameplay_footage)

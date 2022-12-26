@@ -109,8 +109,3 @@ The following PlayStation games are known to have cheat codes that require the u
 | <u>Right + A + B + Y + L2 + R2Right + B + R + L2</u> | START → R2 L ↔ L2 R → START R2 → R | [Download](https://static.miraheze.org/funkeywiki/2/2f/Syphon_Filter_Key_File_Three.zip) |
 | Tomb Raider: The Last Revelation | [Link](https://en.wikipedia.org/wiki/Tomb_Raider:_The_Last_Revelation "w:Tomb Raider: The Last Revelation") | <u>L + R + L2 + R2 + Up/Down + X</u> | FN → L START → R L → L+Y R → L+B L2 → L+LEFT R2 → L+A Volume + → START Volume - → FN Brightness + → L+START Brightness - → L+FN Aspect ratio → L+RIGHT Screenshot → L+R System statistics → L+FN+START No zoom shortcuts | [Download](https://static.miraheze.org/funkeywiki/3/33/Tomb_Raider_-_The_Last_Revelation_Key_File.zip) |
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_pre-configured_KEY_files)

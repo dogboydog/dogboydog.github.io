@@ -98,8 +98,3 @@ To use one of the Gmenu2x skins listed below, begin by downloading and extractin
 | Windows XP |  |  |  | [Link](https://static.miraheze.org/funkeywiki/d/df/Windows_XP_%28L%29.zip) | [Link](https://static.miraheze.org/funkeywiki/a/a1/Windows_XP_%28M%29.zip) | [Link](https://static.miraheze.org/funkeywiki/b/bc/Windows_XP_%28S%29.zip) |
 | Zelda |  |  |  | [Link](https://static.miraheze.org/funkeywiki/5/56/Zelda_%28L%29.zip) | [Link](https://static.miraheze.org/funkeywiki/9/9f/Zelda_%28M%29.zip) | [Link](https://static.miraheze.org/funkeywiki/9/9e/Zelda_%28S%29.zip) |
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_third-party_launcher_themes)

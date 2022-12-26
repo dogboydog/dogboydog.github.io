@@ -45,8 +45,3 @@ While the comparatively low hardware specifications of the FunKey S leaves FunKe
 
 <br>
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=FunKey-OS)

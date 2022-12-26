@@ -512,8 +512,3 @@ Funkey S - World's Smallest Handheld Console [Unboxing & Review]
 
 <br>
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=The_FunKey_Times)

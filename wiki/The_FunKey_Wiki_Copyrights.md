@@ -18,8 +18,3 @@ From The FunKey Wiki
 * [History](/w/index.php?title=The_FunKey_Wiki_Copyrights&action=history "Past revisions of this page [h]")
 
 The FunKey Wiki uses the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) for its content.
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=The_FunKey_Wiki_Copyrights)

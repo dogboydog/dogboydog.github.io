@@ -47,8 +47,3 @@ Additional sticker distribution events will be listed here after they are planne
 
 <br>
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=FunKey_Community_Discord_Server)

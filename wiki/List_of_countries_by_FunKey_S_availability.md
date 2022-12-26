@@ -261,8 +261,3 @@ This section is split into two lists; countries that the FunKey S can or cannot 
 | Uruguay |
 | Venezuela |
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_countries_by_FunKey_S_availability)

@@ -357,8 +357,3 @@ Welcome to The FunKey Wiki, the host of information, tutorials, and user-generat
 
 <br>
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=Main_Page)

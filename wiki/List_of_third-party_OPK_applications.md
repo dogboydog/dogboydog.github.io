@@ -245,8 +245,3 @@ Make note of the following information for the following games:
 
 <br>
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_third-party_OPK_applications/zh)

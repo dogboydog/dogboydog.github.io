@@ -109,8 +109,3 @@ This article lists utilities that can be emulated or run natively on the FunKey 
 | GBA Scrabble Dictionary App | [Link](https://www.gbadev.org/demos.php?showinfo=545) | Scrabble Dictionary | GBA |  |  |
 | StopWatch Version 1 | [Link](https://www.nesworld.com/gb/homebrew/application/stopwatch-v1.zip) | Stopwatch | GB |  |  |
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_utilities)

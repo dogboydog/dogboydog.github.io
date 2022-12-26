@@ -166,8 +166,3 @@ Note that a suggestion having a blank status cell does not indicate that it can 
 | <u>Addition of Bluetooth receiver</u> | - Compatibility with Micro-USB bluetooth input | - Ability to connect bluetooth headphones, speakers, and controllers |
 | <u>Use of USB-C rather than Micro-USB</u> |  | - A more common connector that would reduce the need to keep several types of cables |
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=FunKey_Wiki_Suggestion_Center)

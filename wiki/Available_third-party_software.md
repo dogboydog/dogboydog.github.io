@@ -166,8 +166,3 @@ This section links to a list of utilities that can be emulated on the FunKey S. 
 [ Utilities](/wiki/List_of_emulatable_utilities "List of emulatable utilities")
 
 [ Utilities](/wiki/List_of_emulatable_utilities "List of emulatable utilities")
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=Available_third-party_software)

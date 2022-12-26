@@ -64,8 +64,3 @@ For a more immediate reply to your inquiry, it is suggested that you ask it on t
 | [Template:SystemsComparison](/wiki/Template:SystemsComparison "Template:SystemsComparison") | Template |  |  |  |  |
 | [The FunKey Times](/wiki/The_FunKey_Times "The FunKey Times") | Other |  |  |  |  |
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=FunKey_Wiki_Translation_Center)

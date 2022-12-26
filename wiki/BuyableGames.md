@@ -1120,8 +1120,3 @@ This section lists commercially available emulated games that do not have their 
 [Return to top of section](#na-c)
 
 [Return to top of article](#top)
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_emulatable_games_(commercial))

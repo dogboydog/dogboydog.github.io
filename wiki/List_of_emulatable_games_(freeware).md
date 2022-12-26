@@ -1440,8 +1440,3 @@ This list currently includes 325 games. As the games highlighted in yellow below
 [ Return to top of table](#game-boy-advance)
 
 [Return to top of article](#top)
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_emulatable_games_(freeware))

@@ -1316,8 +1316,3 @@ Published by SNK, the _Samurai Shodown NeoGeo Collection_ includes **7** eventua
 [Return to top of section](#na-c)
 
 [Return to top of article](#top)
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_emulatable_games_(commercial))

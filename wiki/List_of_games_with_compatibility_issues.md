@@ -1110,9 +1110,3 @@ The following PlayStation games have compatibility issues if the official PlaySt
 | Game | Article | Description |
 | Final Fantasy VIII | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VIII "w:Final Fantasy VIII") | Crashes sporadically when battles begin |
 | Vib-Ribbon | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VIII "w:Final Fantasy VIII") | Crashes when any game mode is selected |
-
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_games_with_compatibility_issues)

@@ -219,8 +219,3 @@ To reduce redundancy, products that appear to be exact duplicates (aside from th
 
 <br>
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=List_of_FunKey_S_compatible_keychain_accessories)

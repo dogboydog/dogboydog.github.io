@@ -68,8 +68,3 @@ Lasting from July 10 until July 14, 2021, the poll asked members: "If you were t
 
 <br>
 
-!
-
-
-
-![](https://matomo.miraheze.org/matomo.php?idsite=6355&rec=1&action_name=FunKey_Community_Poll)
