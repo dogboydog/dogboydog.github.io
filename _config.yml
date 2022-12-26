@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Funkey S Wiki
 description: Wiki for the Funkey S emulation handheld
-
+remote_theme: just-the-docs/just-the-docs
