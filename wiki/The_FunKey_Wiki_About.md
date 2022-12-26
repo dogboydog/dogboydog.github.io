@@ -2,30 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Main page](/wiki/Main_Page "View the content page [c]")
-* [Discussion](/wiki/Talk:Main_Page "Discussion about the content page [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/Main_Page)
-* [Edit](/w/index.php?title=Main_Page&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=Main_Page&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=Main_Page&action=history "Past revisions of this page [h]")
-
-(Redirected from [The FunKey Wiki_About](/w/index.php?title=The_FunKey_Wiki_About&redirect=no "The FunKey Wiki_About")) [Translate this page](/w/index.php?title=Special:Translate&group=page-Main+Page&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [español](/wiki/Main_Page/es "Main Page/es (3% translated)")
-* [français](/wiki/Main_Page/fr "Main Page/fr (100% translated)")
-* [italiano](/wiki/Main_Page/it "Main Page/it (15% translated)")
-* [polski](/wiki/Main_Page/pl "Main Page/pl (9% translated)")
-* [中文（中国大陆）‎](/wiki/Main_Page/zh-cn "Main Page/zh-cn (21% translated)")
 
 ***
 

@@ -2,27 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/Available_third-party_software "View the content page [c]")
-* [Discussion](/wiki/Talk:Available_third-party_software "Discussion about the content page [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/Available_third-party_software)
-* [Edit](/w/index.php?title=Available_third-party_software&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=Available_third-party_software&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=Available_third-party_software&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-Available+third-party+software&action=page&filter= "Special:Translate"); This page contains [changes](https://wiki.funkey-project.com/w/index.php?title=Available_third-party_software&oldid=20037&diff=20991) which are not marked for translation. Other languages:
-
-* English
-* [français](/wiki/Available_third-party_software/fr "Logiciels tiers disponibles (91% translated)")
-* [polski](/wiki/Available_third-party_software/pl "Dostępne oprogramowanie osób trzecich (3% translated)")
 
 This article is a compilation of different lists of software available for FunKey S users. For direct access to the list articles, use the following wikilinks: [third-party OPK applications](/wiki/List_of_third-party_OPK_applications "List of third-party OPK applications"), [emulatable freeware games](/wiki/List_of_emulatable_games_(freeware) "List of emulatable games (freeware)"), [emulatable commercial games](/wiki/List_of_emulatable_games_(commercial) "List of emulatable games (commercial)"), or [emulatable utilities](/wiki/List_of_emulatable_utilities "List of emulatable utilities"). This page also hosts this wiki's inclusion criteria that define which types of programs are and are not included in the linked-to lists. As the default emulators of the FunKey S are not perfect, users interested in the device's out of the box incompatible games should consult [this list](/wiki/List_of_games_with_compatibility_issues#Incompatible_games "List of games with compatibility issues").
 

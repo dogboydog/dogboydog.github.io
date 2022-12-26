@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/List_of_FunKey_S_compatible_keychain_accessories "View the content page [c]")
-* [Discussion](/wiki/Talk:List_of_FunKey_S_compatible_keychain_accessories "Discussion about the content page [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/List_of_FunKey_S_compatible_keychain_accessories)
-* [Edit](/w/index.php?title=List_of_FunKey_S_compatible_keychain_accessories&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=List_of_FunKey_S_compatible_keychain_accessories&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=List_of_FunKey_S_compatible_keychain_accessories&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-List+of+FunKey+S+compatible+keychain+accessories&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/List_of_FunKey_S_compatible_keychain_accessories/fr "Liste des accessoires porte-clés compatibles avec la FunKey S (4% translated)")
 
 This article lists various existing products that can be used in conjunction with the FunKey S for a variety of purposes. Note that as the information for the majority of products listed is sourced from the U.S. Amazon website, some products may be unavailable in other markets.
 

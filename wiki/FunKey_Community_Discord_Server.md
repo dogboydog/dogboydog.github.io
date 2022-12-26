@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/FunKey_Community_Discord_Server "View the content page [c]")
-* [Discussion](/wiki/Talk:FunKey_Community_Discord_Server "Discussion about the content page [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/FunKey_Community_Discord_Server)
-* [Edit](/w/index.php?title=FunKey_Community_Discord_Server&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=FunKey_Community_Discord_Server&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=FunKey_Community_Discord_Server&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-FunKey+Community+Discord+Server&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/FunKey_Community_Discord_Server/fr "Serveur Discord de la Communauté FunKey (100% translated)")
 
 The **FunKey Community Discord Server** is a community-operated discussion forum for the [FunKey S](/wiki/FunKey_S "FunKey S") that was founded following the launch of the device's Kickstarter campaign in July 2020. While the [members of the FunKey Team](/wiki/FunKey_Wiki_Knowledge_Center#Who_is_the_FunKey_Team? "FunKey Wiki Knowledge Center") are also on the server, their presence is first and foremost to answer questions posed by the community, as they are involved in neither the management nor moderation of the server. While the server does maintain and enforce rules in the interests of preventing the distribution of pirated content and fostering a safe and open community, users are free to discuss any thoughts they have about the FunKey S, whether positive or negative. Now counting over 2,500 members, the server has facilitated third-party FunKey S project collaboration, leading to the creation of additional [launcher themes](/wiki/List_of_third-party_launcher_themes "List of third-party launcher themes") and [applications](/wiki/List_of_third-party_OPK_applications "List of third-party OPK applications"). As a means of encouraging further community participation and discussion, events such as [community polls](/wiki/FunKey_Community_Poll "FunKey Community Poll") and [community speedruns](/wiki/FunKey_Speedrun_Leaderboards "FunKey Speedrun Leaderboards") are held. Questions regarding the FunKey Community Discord Server may be asked on the [server itself](https://discord.gg/G9kCvjg) or on the [talk page](/wiki/Talk:FunKey_Community_Discord_Server "Talk:FunKey Community Discord Server") of this article.
 

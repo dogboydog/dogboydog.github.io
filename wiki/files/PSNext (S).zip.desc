@@ -1,0 +1,66 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>The FunKey Wiki</sitename>
+    <dbname>funkeywiki</dbname>
+    <base>https://wiki.funkey-project.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.38.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">The FunKey Wiki</namespace>
+      <namespace key="5" case="first-letter">The FunKey Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="200" case="first-letter">UserWiki</namespace>
+      <namespace key="201" case="first-letter">UserWiki talk</namespace>
+      <namespace key="202" case="first-letter">User profile</namespace>
+      <namespace key="203" case="first-letter">User profile talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="300" case="first-letter">Poll</namespace>
+      <namespace key="301" case="first-letter">Poll talk</namespace>
+      <namespace key="500" case="first-letter">Blog</namespace>
+      <namespace key="501" case="first-letter">Blog talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+      <namespace key="2601" case="first-letter">Topic talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>File:PSNext (S).zip</title>
+    <ns>6</ns>
+    <id>2395</id>
+    <revision>
+      <id>21405</id>
+      <parentid>9375</parentid>
+      <timestamp>2022-01-20T07:44:11Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>319</id>
+      </contributor>
+      <comment>Maintenance script uploaded [[File:PSNext (S).zip]]</comment>
+      <origin>9375</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+    </revision>
+  </page>
+</mediawiki>

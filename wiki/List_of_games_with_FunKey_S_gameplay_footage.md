@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/List_of_games_with_FunKey_S_gameplay_footage "View the content page [c]")
-* [Discussion](/w/index.php?title=Talk:List_of_games_with_FunKey_S_gameplay_footage&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/List_of_games_with_FunKey_S_gameplay_footage)
-* [Edit](/w/index.php?title=List_of_games_with_FunKey_S_gameplay_footage&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=List_of_games_with_FunKey_S_gameplay_footage&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=List_of_games_with_FunKey_S_gameplay_footage&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-List+of+games+with+FunKey+S+gameplay+footage&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/List_of_games_with_FunKey_S_gameplay_footage/fr "Liste des jeux avec des séquences de gameplay sur la FunKey S (9% translated)")
 
 The purpose of this page is to document instances of recorded FunKey S gameplay to help inform those interested in the device of its capabilities. If you'd like to see FunKey S gameplay of a game that is not listed below, you may make a video request on the [FunKey Community Discord Server](/wiki/FunKey_Community_Discord_Server "FunKey Community Discord Server").
 

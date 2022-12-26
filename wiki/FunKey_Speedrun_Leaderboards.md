@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/FunKey_Speedrun_Leaderboards "View the content page [c]")
-* [Discussion](/w/index.php?title=Talk:FunKey_Speedrun_Leaderboards&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/FunKey_Speedrun_Leaderboards)
-* [Edit](/w/index.php?title=FunKey_Speedrun_Leaderboards&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=FunKey_Speedrun_Leaderboards&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=FunKey_Speedrun_Leaderboards&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-FunKey+Speedrun+Leaderboards&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/FunKey_Speedrun_Leaderboards/fr "Classements des Speedruns FunKey (45% translated)")
 
 This page lists speedruns that have been completed using the [FunKey S](/wiki/FunKey_S "FunKey S"). As long as the criteria listed below have been followed, any runner can add their own FunKey S speedruns to this page.
 

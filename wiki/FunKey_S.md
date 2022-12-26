@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/FunKey_S "View the content page [c]")
-* [Discussion](/w/index.php?title=Talk:FunKey_S&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/FunKey_S)
-* [Edit](/w/index.php?title=FunKey_S&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=FunKey_S&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=FunKey_S&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-FunKey+S&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/FunKey_S/fr "FunKey S (100% translated)")
 
 The FunKey S and a GBA SP The FunKey S
 

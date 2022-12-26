@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/FunKey-OS "View the content page [c]")
-* [Discussion](/w/index.php?title=Talk:FunKey-OS&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/FunKey-OS)
-* [Edit](/w/index.php?title=FunKey-OS&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=FunKey-OS&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=FunKey-OS&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-FunKey-OS&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/FunKey-OS/fr "FunKey-OS (100% translated)")
 
 * Default RetroFE themes
 *Classic

@@ -2,27 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/FunKey_Wiki_Translation_Center "View the content page [c]")
-* [Discussion](/wiki/Talk:FunKey_Wiki_Translation_Center "Discussion about the content page [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/FunKey_Wiki_Translation_Center)
-* [Edit](/w/index.php?title=FunKey_Wiki_Translation_Center&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=FunKey_Wiki_Translation_Center&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=FunKey_Wiki_Translation_Center&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-FunKey+Wiki+Translation+Center&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/FunKey_Wiki_Translation_Center/fr "Centre de Traduction du Wiki FunKey (100% translated)")
-* [polski](/wiki/FunKey_Wiki_Translation_Center/pl "Centrum Tłumaczeń FunKey Wiki (100% translated)")
 
 The Translation Center contains information about translating the FunKey Wiki and translations that have been made up until this point. Translations on the FunKey Wiki are done on a case by case basis for each page by someone who understands the target language. While the initial use of automatic translation is allowed and encouraged, such translations should be revised for accuracy prior to publication on the FunKey Wiki. If a translator has translated the text of a page but doesn't know how to add the translation to the wiki, they may ask a wiki editor to implement it for them.
 

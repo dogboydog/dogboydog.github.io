@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/The_FunKey_Times "View the content page [c]")
-* [Discussion](/w/index.php?title=Talk:The_FunKey_Times&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/The_FunKey_Times)
-* [Edit](/w/index.php?title=The_FunKey_Times&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=The_FunKey_Times&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=The_FunKey_Times&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-The+FunKey+Times&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/The_FunKey_Times/fr "The FunKey Times/fr (100% translated)")
 
 <br>
 

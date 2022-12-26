@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/FunKey_Zero "View the content page [c]")
-* [Discussion](/w/index.php?title=Talk:FunKey_Zero&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/FunKey_Zero)
-* [Edit](/w/index.php?title=FunKey_Zero&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=FunKey_Zero&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=FunKey_Zero&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-FunKey+Zero&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/FunKey_Zero/fr "FunKey Zero (100% translated)")
 
 The FunKey Zero
 

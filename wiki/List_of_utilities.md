@@ -2,24 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/List_of_utilities "View the content page [c]")
-* [Discussion](/w/index.php?title=Talk:List_of_utilities&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
-
-### More
-
-* More
-* Languages
-
-### Page actions
-
-* [Read](/wiki/List_of_utilities)
-* [Edit](/w/index.php?title=List_of_utilities&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=List_of_utilities&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=List_of_utilities&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-List+of+utilities&language=en&action=page&filter= "Special:Translate") Other languages:English • ‎[français](/wiki/List_of_utilities/fr "Liste des utilitaires (7% translated)")
 
 This article lists utilities that can be emulated or run natively on the FunKey S. Utilities are currently divided into five categories: Creative, Emulation, Media, Text, and Other. Creative utilities include drawing programs and music-making programs; emulation utilities allow the user to emulate a system not natively emulated on the FunKey S using a system that is; media utilities include photo viewers, music players, and video players; text utilities include text display software, eBook readers, and text editors; and other includes any utilities that cannot be categorized using one of the primary categories. There are currently **34** utilities listed, comprising 7 Creative utilities, 9 Emulation utilities, 8 Media utilities, 5 Text utilities, and 5 Other utilities. There are also **19** public domain eBooks listed in either (or both) Game Boy or Game Boy Advance ROM format. Game Boy Advance utilities that are highlighted in yellow are not emulated accurately in the default FunKey S GBA emulator, so should be used with the alternate [VBA Next](https://gitlab.com/gameblabla/gameblabla-releases/-/tree/master/opk/funkey) instead.
 

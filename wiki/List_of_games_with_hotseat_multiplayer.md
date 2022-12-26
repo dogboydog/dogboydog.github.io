@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/List_of_games_with_hotseat_multiplayer "View the content page [c]")
-* [Discussion](/wiki/Talk:List_of_games_with_hotseat_multiplayer "Discussion about the content page [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/List_of_games_with_hotseat_multiplayer)
-* [Edit](/w/index.php?title=List_of_games_with_hotseat_multiplayer&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=List_of_games_with_hotseat_multiplayer&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=List_of_games_with_hotseat_multiplayer&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-List+of+games+with+hotseat+multiplayer&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/List_of_games_with_hotseat_multiplayer/fr "Liste des jeux avec hotseat multijoueur (5% translated)")
 
 This article lists any games playable on systems officially emulated by the [FunKey S](/wiki/FunKey_S "FunKey S") (including the [Sega Genesis/Mega Drive](https://en.wikipedia.org/wiki/Sega_Genesis "w:Sega Genesis"), [Game Boy](https://en.wikipedia.org/wiki/Game_Boy "w:Game Boy"), [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System "w:Super Nintendo Entertainment System"), [PlayStation](https://en.wikipedia.org/wiki/PlayStation_(console) "w:PlayStation (console)"), and [Game Boy Advance](https://en.wikipedia.org/wiki/Game_Boy_Advance "w:Game Boy Advance")) that support [hotseat multiplayer](https://en.wikipedia.org/wiki/Hotseat_(multiplayer_mode) "w:Hotseat (multiplayer mode)"). These include both freeware and commercial games, with the former having linked-to download pages and the latter having linked-to Wikipedia articles, where applicable. Hotseat multiplayer games are sorted on the basis of their control scheme, either [pass-and-play](#pass-and-play) or [simultaneous](#simultaneous), with the former having turn-based multiplayer modes where the controller is passed around and the latter having real-time multiplayer modes where the controller is shared among participants. Games without an implemented hotseat multiplayer mode are not listed as the FunKey S does not support the link cables and additional controllers required for other multiplayer game modes.
 

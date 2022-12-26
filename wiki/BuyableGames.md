@@ -2,23 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/List_of_emulatable_games_(commercial) "View the content page [c]")
-* [Discussion](/w/index.php?title=Talk:List_of_emulatable_games_(commercial)&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/List_of_emulatable_games_(commercial))
-* [Edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=List_of_emulatable_games_(commercial)&action=history "Past revisions of this page [h]")
-
-(Redirected from [BuyableGames](/w/index.php?title=BuyableGames&redirect=no "BuyableGames")) [Translate this page](/w/index.php?title=Special:Translate&group=page-List+of+emulatable+games+%28commercial%29&language=en&action=page&filter= "Special:Translate") Other languages:English • ‎[français](/wiki/List_of_emulatable_games_(commercial)/fr "Liste des jeux émulables (commerciaux) (0% translated)")
 
 This article lists commercial software available for systems emulated by the FunKey S. To maintain the quality and consistency of these lists, a set of [inclusion criteria](/wiki/Available_third-party_software#Inclusion_criteria "Available third-party software") has been defined for all software listed on The FunKey Wiki. For completeness sake, the prices of games and game collections are listed, though the final price paid may differ from the one listed here due to sales, pricing changes, taxes, shipping costs, and/or other factors.
 

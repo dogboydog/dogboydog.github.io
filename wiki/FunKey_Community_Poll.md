@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/FunKey_Community_Poll "View the content page [c]")
-* [Discussion](/w/index.php?title=Talk:FunKey_Community_Poll&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/FunKey_Community_Poll)
-* [Edit](/w/index.php?title=FunKey_Community_Poll&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=FunKey_Community_Poll&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=FunKey_Community_Poll&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-FunKey+Community+Poll&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/FunKey_Community_Poll/fr "Sondage de la Communauté FunKey (100% translated)")
 
 The **FunKey Community Poll** is a series of weekly polls conducted by FunKey community members to record the opinions of the overall FunKey community on a range of topics related to the [FunKey S](/wiki/FunKey_S "FunKey S"). Polls are organized on the Google Forms platform and posted to the [FunKey Community Discord Server](/wiki/FunKey_Community_Discord_Server "FunKey Community Discord Server") to gather community responses.
 

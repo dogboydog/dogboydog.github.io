@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/List_of_games_with_compatibility_issues "View the content page [c]")
-* [Discussion](/wiki/Talk:List_of_games_with_compatibility_issues "Discussion about the content page [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/List_of_games_with_compatibility_issues)
-* [Edit](/w/index.php?title=List_of_games_with_compatibility_issues&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=List_of_games_with_compatibility_issues&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=List_of_games_with_compatibility_issues&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-List+of+games+with+compatibility+issues&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/List_of_games_with_compatibility_issues/fr "Liste des jeux avec des problèmes de compatibilité (4% translated)")
 
 This article lists games that have compatibility issues with the default FunKey S emulators. As the compatibility of such games can range from fully-compatible to fully-incompatible, compatibility issues have been divided into four main categories based on severity: [fully-compatible](#fully-compatible-games), [fully-playable](#fully-playable-games), [partially-compatible](#partially-compatible-games), and [incompatible](#incompatible-games). These categories list games that are glitch-free if configured correctly, slightly-glitched, heavily-glitched, and incompatible, respectively. While games in the first two sections should generally be played via the default emulators and those in the last two should generally be played via [third-party emulators](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications"), any game listed in this article not marked in bold should have improved compatibility in at least one of the higher CPU usage third-party emulators. Bold-formatted games that are also italicized require additional testing to see if a change of settings and/or emulators fixes their compatibility issue. The [fifth section](#playstation-games-that-have-compatibility-issues-with-the-default-bios) of this article lists PlayStation games that have compatibility issues if the official PlayStation BIOS file is not added to the FunKey S [as instructed here](https://doc.funkey-project.com/user_manual/tutorials/software/gba_bios/). Conversely, games with improved compatibility via the use of the default BIOS rather than the official PlayStation one have their listings highlighted in grey. While FunKey S Game Boy Advance emulation has a default compatibility rate of approximately 91 percent when games from the latter two categories are combined and subtracted (compared to [96 to 100 percent](/wiki/FunKey_Wiki_Knowledge_Center#Are_there_any_games_that_aren%27t_emulated_properly_on_the_FunKey_S? "FunKey Wiki Knowledge Center") for the other default emulators), nearly all games from the remaining nine percent can be played at full or near-full speed via the use one of the aforementioned third-party emulators. As this article does not seek to list accurately emulated games as some compatibility lists do, if you cannot find a game by searching for it via your browser's search tool, it is most likely emulated without issue on the FunKey S. If a new compatibility issue is found, however, please inform the [the wiki admin](/wiki/User_talk:CoolieCoolster "User talk:CoolieCoolster") so that this article may be amended. While this article exists primarily to document the capabilities of the FunKey S [default emulators](https://github.com/FunKey-Project), as many of these emulators are multi-platform and different emulators can share compatibility issues, many of the glitches documented here occur on other devices as well.
 
@@ -86,207 +67,207 @@ As the following table lists games that have a region-specific glitches, users s
 
 ### Games that require patching [[edit](/w/index.php?title=List_of_games_with_compatibility_issues&veaction=edit&section=3 "Edit section: Games that require patching") | [edit source](/w/index.php?title=List_of_games_with_compatibility_issues&action=edit&section=3 "Edit section: Games that require patching")]
 
-The following table lists games that must be patched to be fully-playable on the FunKey S. After downloading the patch file that matches the regional variant of your game backup (if available), download and extract the [Lunar IPS](https://static.miraheze.org/funkeywiki/1/17/Lunar_IPS.zip) patching program if you are using Windows, or another IPS-capable patching program if otherwise. To use Lunar IPS, begin by launching the application and selecting _Apply IPS Patch_. After selecting your matching IPS and ROM files, the application will apply the modifications to the ROM file and finish with a _The file was successfully patched!_ message. The game can then be put into the folder of its respective console on the FunKey S.
+The following table lists games that must be patched to be fully-playable on the FunKey S. After downloading the patch file that matches the regional variant of your game backup (if available), download and extract the [Lunar IPS](/wiki/files/Lunar_IPS.zip) patching program if you are using Windows, or another IPS-capable patching program if otherwise. To use Lunar IPS, begin by launching the application and selecting _Apply IPS Patch_. After selecting your matching IPS and ROM files, the application will apply the modifications to the ROM file and finish with a _The file was successfully patched!_ message. The game can then be put into the folder of its respective console on the FunKey S.
 
 In _Koro Koro Puzzle - Happy Panechu!_, _WarioWare: Twisted!_, and _Yoshi Topsy-Turvy_, the directional buttons are used to indicate tilting directions, with the B button used to accelerate the tilting in the case of _WarioWare: Twisted!_. For the first Boktai game, the _LEFT+A+R_ and _RIGHT+A+R_ button combinations are used to decrease and increase the level of sunlight, respectively. For the other two Boktai games, the _LEFT+SELECT_ and _RIGHT+SELECT_ combinations are used instead. As SELECT is also FN, however, _KEY_ files available for download [below](#games-that-require-adapted-controls) are needed to make the latter two Boktai games compatible with the FunKey S.
 
 | Game | Article | System | Version | Patch |
-| Arkanoid | [Link](https://en.wikipedia.org/wiki/Arkanoid "w:Arkanoid") | NES |  | [Download](https://static.miraheze.org/funkeywiki/e/e0/Arkanoid_%28US%29.ips) |
-| **Boktai: The Sun Is in Your Hand** | [Link](https://en.wikipedia.org/wiki/Boktai:_The_Sun_Is_in_Your_Hand "w:Boktai: The Sun Is in Your Hand") | GBA |  | [Download](https://static.miraheze.org/funkeywiki/0/01/Boktai_-_The_Sun_Is_in_Your_Hand_%28EU%29.ips) |
-|  | [Download](https://static.miraheze.org/funkeywiki/b/ba/Boktai_-_The_Sun_Is_in_Your_Hand_%28JP%29.ips) |
-|  | [Download](https://static.miraheze.org/funkeywiki/7/73/Boktai_-_The_Sun_Is_in_Your_Hand_%28US%29.ips) |
-| Beta |  | [Download](https://static.miraheze.org/funkeywiki/3/3c/Boktai_-_The_Sun_Is_in_Your_Hand_%28US%29_%28Beta%29.ips) |
-| **Boktai 2: Solar Boy Django** | [Link](https://en.wikipedia.org/wiki/Boktai_2:_Solar_Boy_Django "w:Boktai 2: Solar Boy Django") |  | [Download](https://static.miraheze.org/funkeywiki/3/3c/Boktai_2_-_Solar_Boy_Django_%28EU%29.ips) |
-|  | [Download](https://static.miraheze.org/funkeywiki/9/95/Boktai_2_-_Solar_Boy_Django_%28JP%29.ips) |
-| Rev 1 |  | [Download](https://static.miraheze.org/funkeywiki/c/ce/Boktai_2_-_Solar_Boy_Django_%28JP%29_%28Rev_1%29.ips) |
-|  | [Download](https://static.miraheze.org/funkeywiki/4/4a/Boktai_2_-_Solar_Boy_Django_%28US%29.ips) |
-| **Boktai 3: Sabata's Counterattack** |  |  | [Download](https://static.miraheze.org/funkeywiki/f/fa/Boktai_3_-_Sabata%27s_Counterattack_%28JP%29.ips) |
-| Dragon Ball Z: Buu's Fury | [Link](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_The_Legacy_of_Goku#Buu's_Fury "w:Dragon Ball Z: The Legacy of Goku") |  | [Download](https://static.miraheze.org/funkeywiki/5/5d/Dragon_Ball_Z_-_Buu%27s_Fury_%28US%29.ips) |
-| Dragon Ball Z: Taiketsu | [Link](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Taiketsu "w:Dragon Ball Z: Taiketsu") |  | [Download](https://static.miraheze.org/funkeywiki/b/b6/Dragon_Ball_Z_-_Taiketsu_%28EU%29.ips) |
-|  | [Download](https://static.miraheze.org/funkeywiki/c/ca/Dragon_Ball_Z_-_Taiketsu_%28US%29.ips) |
-| Dragon Ball Z: The Legacy of Goku II | [Link](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_The_Legacy_of_Goku#The_Legacy_of_Goku_II "w:Dragon Ball Z: The Legacy of Goku") |  | [Download](https://static.miraheze.org/funkeywiki/5/5b/Dragon_Ball_Z_-_The_Legacy_of_Goku_II_%28EU%29.ips) |
-|  | [Download](https://static.miraheze.org/funkeywiki/c/c1/Dragon_Ball_Z_-_The_Legacy_of_Goku_II_%28US%29.ips) |
-| Hamtaro: Ham-Ham Heartbreak | [Link](https://en.wikipedia.org/wiki/Hamtaro:_Ham-Ham_Heartbreak "w:Hamtaro: Ham-Ham Heartbreak") |  | [Download](https://static.miraheze.org/funkeywiki/0/0f/Hamtaro_-_Ham-Ham_Heartbreak_%28EU%29.ips) |
-|  | [Download](https://static.miraheze.org/funkeywiki/3/31/Hamtaro_-_Ham-Ham_Heartbreak_%28US%29.ips) |
-| **Koro Koro Puzzle - Happy Panechu!** | [Link](https://en.wikipedia.org/wiki/Koro_Koro_Puzzle_-_Happy_Panechu! "w:Koro Koro Puzzle - Happy Panechu!") |  | [Download](https://static.miraheze.org/funkeywiki/3/36/Koro_Koro_Puzzle_%28JP%29.ips) |
-| **Mario & Wario** | [Link](https://en.wikipedia.org/wiki/Mario_%26_Wario "w:Mario & Wario") | SNES | [Download](https://static.miraheze.org/funkeywiki/e/e2/Mario_%26_Wario.ips) |
-| Shamu's Deep Sea Adventures | [Link](https://en.wikipedia.org/wiki/Shamu%27s_Deep_Sea_Adventures "w:Shamu's Deep Sea Adventures") | GBA |  | [Download](https://static.miraheze.org/funkeywiki/5/55/Shamu%27s_Deep_Sea_Adventures.ips) |
-| Top Gun: Combat Zones | [Link](https://en.wikipedia.org/wiki/Top_Gun:_Combat_Zones "w:Top Gun: Combat Zones") |  | [Download](https://static.miraheze.org/funkeywiki/7/7e/Top_Gun_-_Combat_Zones_%28US%29.ips) |
-| **WarioWare: Twisted!** | [Link](https://en.wikipedia.org/wiki/WarioWare:_Twisted! "w:WarioWare: Twisted!") | [Download](https://static.miraheze.org/funkeywiki/e/e1/WarioWare_-_Twisted%21_%28US%29.ips) |
-| **Yoshi Topsy-Turvy** | [Link](https://en.wikipedia.org/wiki/Yoshi%27s_Universal_Gravitation "w:Yoshi's Universal Gravitation") | [Download](https://static.miraheze.org/funkeywiki/7/7d/Yoshi_Topsy_Turvy_%28US%29.ips) |
+| Arkanoid | [Link](https://en.wikipedia.org/wiki/Arkanoid "w:Arkanoid") | NES |  | [Download](/wiki/files/Arkanoid_%28US%29.ips) |
+| **Boktai: The Sun Is in Your Hand** | [Link](https://en.wikipedia.org/wiki/Boktai:_The_Sun_Is_in_Your_Hand "w:Boktai: The Sun Is in Your Hand") | GBA |  | [Download](/wiki/files/Boktai_-_The_Sun_Is_in_Your_Hand_%28EU%29.ips) |
+|  | [Download](/wiki/files/Boktai_-_The_Sun_Is_in_Your_Hand_%28JP%29.ips) |
+|  | [Download](/wiki/files/Boktai_-_The_Sun_Is_in_Your_Hand_%28US%29.ips) |
+| Beta |  | [Download](/wiki/files/Boktai_-_The_Sun_Is_in_Your_Hand_%28US%29_%28Beta%29.ips) |
+| **Boktai 2: Solar Boy Django** | [Link](https://en.wikipedia.org/wiki/Boktai_2:_Solar_Boy_Django "w:Boktai 2: Solar Boy Django") |  | [Download](/wiki/files/Boktai_2_-_Solar_Boy_Django_%28EU%29.ips) |
+|  | [Download](/wiki/files/Boktai_2_-_Solar_Boy_Django_%28JP%29.ips) |
+| Rev 1 |  | [Download](/wiki/files/Boktai_2_-_Solar_Boy_Django_%28JP%29_%28Rev_1%29.ips) |
+|  | [Download](/wiki/files/Boktai_2_-_Solar_Boy_Django_%28US%29.ips) |
+| **Boktai 3: Sabata's Counterattack** |  |  | [Download](/wiki/files/Boktai_3_-_Sabata%27s_Counterattack_%28JP%29.ips) |
+| Dragon Ball Z: Buu's Fury | [Link](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_The_Legacy_of_Goku#Buu's_Fury "w:Dragon Ball Z: The Legacy of Goku") |  | [Download](/wiki/files/Dragon_Ball_Z_-_Buu%27s_Fury_%28US%29.ips) |
+| Dragon Ball Z: Taiketsu | [Link](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Taiketsu "w:Dragon Ball Z: Taiketsu") |  | [Download](/wiki/files/Dragon_Ball_Z_-_Taiketsu_%28EU%29.ips) |
+|  | [Download](/wiki/files/Dragon_Ball_Z_-_Taiketsu_%28US%29.ips) |
+| Dragon Ball Z: The Legacy of Goku II | [Link](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_The_Legacy_of_Goku#The_Legacy_of_Goku_II "w:Dragon Ball Z: The Legacy of Goku") |  | [Download](/wiki/files/Dragon_Ball_Z_-_The_Legacy_of_Goku_II_%28EU%29.ips) |
+|  | [Download](/wiki/files/Dragon_Ball_Z_-_The_Legacy_of_Goku_II_%28US%29.ips) |
+| Hamtaro: Ham-Ham Heartbreak | [Link](https://en.wikipedia.org/wiki/Hamtaro:_Ham-Ham_Heartbreak "w:Hamtaro: Ham-Ham Heartbreak") |  | [Download](/wiki/files/Hamtaro_-_Ham-Ham_Heartbreak_%28EU%29.ips) |
+|  | [Download](/wiki/files/Hamtaro_-_Ham-Ham_Heartbreak_%28US%29.ips) |
+| **Koro Koro Puzzle - Happy Panechu!** | [Link](https://en.wikipedia.org/wiki/Koro_Koro_Puzzle_-_Happy_Panechu! "w:Koro Koro Puzzle - Happy Panechu!") |  | [Download](/wiki/files/Koro_Koro_Puzzle_%28JP%29.ips) |
+| **Mario & Wario** | [Link](https://en.wikipedia.org/wiki/Mario_%26_Wario "w:Mario & Wario") | SNES | [Download](/wiki/files/Mario_%26_Wario.ips) |
+| Shamu's Deep Sea Adventures | [Link](https://en.wikipedia.org/wiki/Shamu%27s_Deep_Sea_Adventures "w:Shamu's Deep Sea Adventures") | GBA |  | [Download](/wiki/files/Shamu%27s_Deep_Sea_Adventures.ips) |
+| Top Gun: Combat Zones | [Link](https://en.wikipedia.org/wiki/Top_Gun:_Combat_Zones "w:Top Gun: Combat Zones") |  | [Download](/wiki/files/Top_Gun_-_Combat_Zones_%28US%29.ips) |
+| **WarioWare: Twisted!** | [Link](https://en.wikipedia.org/wiki/WarioWare:_Twisted! "w:WarioWare: Twisted!") | [Download](/wiki/files/WarioWare_-_Twisted%21_%28US%29.ips) |
+| **Yoshi Topsy-Turvy** | [Link](https://en.wikipedia.org/wiki/Yoshi%27s_Universal_Gravitation "w:Yoshi's Universal Gravitation") | [Download](/wiki/files/Yoshi_Topsy_Turvy_%28US%29.ips) |
 
 ### Games that require an SBI file [[edit](/w/index.php?title=List_of_games_with_compatibility_issues&veaction=edit&section=4 "Edit section: Games that require an SBI file") | [edit source](/w/index.php?title=List_of_games_with_compatibility_issues&action=edit&section=4 "Edit section: Games that require an SBI file")]
 
 The [PAL](https://en.wikipedia.org/wiki/PAL_region "w:PAL region") regional variants of the following PlayStation games require the use of an _SBI_ file to function properly (any [NTSC](https://en.wikipedia.org/wiki/NTSC "w:NTSC") regional variants of these games, however, do not need the additional file). To configure one of these files for a specific game, download and unzip the linked-to file for your regional variant of that game and place it in the _PS1_ folder of the FunKey S alongside the respective ROM file(s) of that game. Ensure that each game's _SBI_ file has the same file name as that game's ROM file(s) (example.sbi for example.bin and example.cue). As these games require their respective _SBI_ files no matter which emulator is used, they are marked in bold to indicate the need for that file.
 
 | Game | Article | NTSC Alternative? | Language(s) | SBI File |
-| **Actua Air Hockey 2** |  | No |  | [Download](https://static.miraheze.org/funkeywiki/7/74/Actua_Air_Hockey_2.zip) |
-| **Asterix: Mega Madness** |  | [Download](https://static.miraheze.org/funkeywiki/1/15/Asterix_-_Mega_Madness.zip) |
-| **Barbie Super Sports****Barbie: Sports Extrême** | [Link](https://en.wikipedia.org/wiki/Barbie_Super_Sports "w:Barbie Super Sports") | Yes |  | [Download](https://static.miraheze.org/funkeywiki/2/2d/Barbie_Super_Sports_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/b/b8/Barbie_Super_Sports.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/6/6e/Barbie_Super_Sports_%28ES%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/b/bb/Barbie_Super_Sports_%28IT%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/f/f6/Barbie_-_Sports_Extr%C3%AAme.zip) |
-| **Barbie: Race & Ride****Barbie: Aventure Equestre** | [Link](https://en.wikipedia.org/wiki/Barbie:_Race_%26_Ride "w:Barbie: Race & Ride") |  | [Download](https://static.miraheze.org/funkeywiki/0/00/Barbie_-_Race_%26_Ride_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/a/aa/Barbie_-_Race_%26_Ride.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/d/d7/Barbie_-_Race_%26_Ride_%28ES%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/6/69/Barbie_-_Race_%26_Ride_%28IT%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/4/4e/Barbie_-_Aventure_Equestre.zip) |
-| **Crash Bash** | [Link](https://en.wikipedia.org/wiki/Crash_Bash "w:Crash Bash") |  | [Download](https://static.miraheze.org/funkeywiki/a/ac/Crash_Bash.zip) |
-| **Crash Team Racing** | EDC | [Link](https://en.wikipedia.org/wiki/Crash_Team_Racing "w:Crash Team Racing") | [Download](https://static.miraheze.org/funkeywiki/0/00/Crash_Team_Racing_%28EDC%29.zip) |
-| No EDC | [Download](https://static.miraheze.org/funkeywiki/d/dc/Crash_Team_Racing_%28No_EDC%29.zip) |
-| **Dino Crisis** | [Link](https://en.wikipedia.org/wiki/Dino_Crisis_(video_game) "w:Dino Crisis (video game)") |  | [Download](https://static.miraheze.org/funkeywiki/7/71/Dino_Crisis_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/1/13/Dino_Crisis.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/e/ee/Dino_Crisis_%28ES%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/1/1e/Dino_Crisis_%28FR%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/5/51/Dino_Crisis_%28IT%29.zip) |
-| **Disney's 102 Dalmatians: Puppies to the Rescue** | [Link](https://en.wikipedia.org/wiki/Disney%27s_102_Dalmatians:_Puppies_to_the_Rescue "w:Disney's 102 Dalmatians: Puppies to the Rescue") |  | [Download](https://static.miraheze.org/funkeywiki/8/83/Disney%27s_102_Dalmations_-_Puppies_to_the_Rescue_%28DE-ES-FR-IT%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/2/24/Disney%27s_102_Dalmations_-_Puppies_to_the_Rescue.zip) |
-| **Disney's Story Studio: Mulan****Disney Libro Animato Creativo - Mulan****Disney's Mulan****Disney's Verhalenstudio - Mulan** | [Link](https://en.wikipedia.org/wiki/Disney%27s_Animated_Storybook "w:Disney's Animated Storybook") | [Download](https://static.miraheze.org/funkeywiki/5/5a/Disney%27s_Story_Studio_-_Mulan.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/5/58/Disney_Libro_Animato_Creativo_-_Mulan.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/9/9a/Disney%27s_Mulan_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/e/e7/Disney%27s_Mulan_%28ES%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/9/96/Disney%27s_Verhalenstudio_-_Mulan.zip) |
-| **Disney's Tarzan** | [Link](https://en.wikipedia.org/wiki/Disney%27s_Tarzan_(video_game) "w:Disney's Tarzan (video game)") |  | [Download](https://static.miraheze.org/funkeywiki/e/e8/Disney%27s_Tarzan_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/c/cf/Disney%27s_Tarzan.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/f/ff/Disney%27s_Tarzan_%28ES%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/e/ef/Disney%27s_Tarzan_%28FR%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/c/ca/Disney%27s_Tarzan_%28IT%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/6/6e/Disney%27s_Tarzan_%28NL%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/d/d7/Disney%27s_Tarzan_%28SV%29.zip) |
-| **Eagle One: Harrier Attack** | [Link](https://en.wikipedia.org/wiki/Eagle_One:_Harrier_Attack "w:Eagle One: Harrier Attack") |  | [Download](https://static.miraheze.org/funkeywiki/2/20/Eagle_One_-_Harrier_Attack.zip) |
-| **Final Fantasy IX** | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_IX "w:Final Fantasy IX") |  | [Download](https://static.miraheze.org/funkeywiki/b/b3/Final_Fantasy_IX_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/4/45/Final_Fantasy_IX.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/d/d2/Final_Fantasy_IX_%28ES%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/a/a9/Final_Fantasy_IX_%28FR%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/b/bc/Final_Fantasy_IX_%28IT%29.zip) |
-| **Final Fantasy VIII** | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VIII "w:Final Fantasy VIII") |  | [Download](https://static.miraheze.org/funkeywiki/8/8c/Final_Fantasy_VIII_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/0/08/Final_Fantasy_VIII.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/8/8b/Final_Fantasy_VIII_%28ES%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/3/31/Final_Fantasy_VIII_%28FR%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/b/bc/Final_Fantasy_VIII_%28IT%29.zip) |
-| **Fussball Manager 2001** | [Link](https://en.wikipedia.org/wiki/FIFA_Manager#The_F.A._Premier_League_Football_Manager_2001 "w:FIFA Manager") |  | [Download](https://static.miraheze.org/funkeywiki/5/5f/Fussball_Manager_2001.zip) |
-| **Galerians** | [Link](https://en.wikipedia.org/wiki/Galerians "w:Galerians") | [Download](https://static.miraheze.org/funkeywiki/6/6a/Galerians_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/c/c9/Galerians.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/7/7c/Galerians_%28FR%29.zip) |
-| **Gekido: Urban Fighters** | [Link](https://en.wikipedia.org/wiki/Gekido "w:Gekido") |  | [Download](https://static.miraheze.org/funkeywiki/1/15/Gekido_-_Urban_Fighters.zip) |
-| **Hogs of War****Frontschweine****Les Cochons de Guerre** | [Link](https://en.wikipedia.org/wiki/Hogs_of_War "w:Hogs of War") |  | [Download](https://static.miraheze.org/funkeywiki/9/91/Hogs_of_War.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/5/5a/Frontschweine.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/9/96/Les_Cochons_de_Guerre.zip) |
-| **Jackie Chan Stuntmaster** | [Link](https://en.wikipedia.org/wiki/Jackie_Chan_Stuntmaster "w:Jackie Chan Stuntmaster") |  | [Download](https://static.miraheze.org/funkeywiki/b/bf/Jackie_Chan_Stuntmaster.zip) |
-| **Le Mans 24 Hours** | [Link](https://en.wikipedia.org/wiki/Le_Mans_24_Hours_(video_game) "w:Le Mans 24 Hours (video game)") |  | [Download](https://static.miraheze.org/funkeywiki/4/43/Le_Mans_24_Hours.zip) |
-| **Le Monde des Bleus: Le Jeu Officiel de l'Équipe de France** |  | No |  | [Download](https://static.miraheze.org/funkeywiki/c/c4/Le_Monde_des_Bleus_-_Le_jeu_officiel_de_l%27equipe_de_France.zip) |
-| **Legacy of Kain: Soul Reaver** | [Link](https://en.wikipedia.org/wiki/Legacy_of_Kain:_Soul_Reaver "w:Legacy of Kain: Soul Reaver") | Yes |  | [Download](https://static.miraheze.org/funkeywiki/a/a4/Legacy_of_Kain_-_Soul_Reaver_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/c/c7/Legacy_of_Kain_-_Soul_Reaver.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/6/64/Legacy_of_Kain_-_Soul_Reaver_%28ES%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/c/ca/Legacy_of_Kain_-_Soul_Reaver_%28FR%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/9/96/Legacy_of_Kain_-_Soul_Reaver_%28IT%29.zip) |
-| **LMA Manager 2001****BDFL Manager 2001****Football Manager Capionato 2001** | [Link](https://en.wikipedia.org/wiki/LMA_Manager#LMA_Manager_2001 "w:LMA Manager") | No |  | [Download](https://static.miraheze.org/funkeywiki/f/f9/LMA_Manager_2001.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/5/52/BDFL_Manager_2001.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/3/34/Football_Manager_Campionato_2001.zip) |
-| **LMA Manager 2002****BDFL Manager 2002** | [Link](https://en.wikipedia.org/wiki/LMA_Manager#LMA_Manager_2002 "w:LMA Manager") |  | [Download](https://static.miraheze.org/funkeywiki/e/e1/LMA_Manager_2002.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/a/a1/BDFL_Manager_2002.zip) |
-| **Lucky Luke: Western Fever** |  |  | [Download](https://static.miraheze.org/funkeywiki/4/4d/Lucky_Luke_-_Western_Fever.zip) |
-| **MediEvil** | [Link](https://en.wikipedia.org/wiki/MediEvil "w:MediEvil") | Yes |  | [Download](https://static.miraheze.org/funkeywiki/a/a1/MediEvil_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/0/0a/MediEvil.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/8/8c/MediEvil_%28ES%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/5/5e/MediEvil_%28FR%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/6/6f/MediEvil_%28IT%29.zip) |
-| **MediEvil 2** | [Link](https://en.wikipedia.org/wiki/MediEvil_2 "w:MediEvil 2") |  | [Download](https://static.miraheze.org/funkeywiki/9/94/MediEvil_2.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/b/b8/MediEvil_2_%28ES%29_%28IT%29_%28PT%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/c/cf/MediEvil_2_%28RU%29.zip) |
-| **Men in Black: The Series – Crashdown** | [Link](https://en.wikipedia.org/wiki/Men_in_Black:_The_Series_%E2%80%93_Crashdown "w:Men in Black: The Series – Crashdown") |  | [Download](https://static.miraheze.org/funkeywiki/5/59/Men_in_Black_-_The_Series_-_Crashdown_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/a/a7/Men_in_Black_-_The_Series_-_Crashdown.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/0/04/Men_in_Black_-_The_Series_-_Crashdown_%28ES%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/2/24/Men_in_Black_-_The_Series_-_Crashdown_%28FR%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/9/92/Men_in_Black_-_The_Series_-_Crashdown_%28IT%29.zip) |
-| **Michelin Rally Masters: Race of Champions** | [Link](https://en.wikipedia.org/wiki/Michelin_Rally_Masters:_Race_of_Champions "w:Michelin Rally Masters: Race of Champions") |  | [Download](https://static.miraheze.org/funkeywiki/d/de/Michelin_Rally_Masters_-_Race_of_Champions.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/d/dc/Michelin_Rally_Masters_-_Race_of_Champions_%28ES-FR-IT%29.zip) |
-| **Mike Tyson Boxing****Prince Naseem Boxing** | [Link](https://en.wikipedia.org/wiki/Mike_Tyson_Boxing "w:Mike Tyson Boxing") |  | [Download](https://static.miraheze.org/funkeywiki/2/23/Mike_Tyson_Boxing.zip) |
-| [Download](https://static.miraheze.org/funkeywiki/e/e9/Prince_Naseem_Boxing.zip) |
-| **Mission: Impossible** | [Link](https://en.wikipedia.org/wiki/Mission:_Impossible_(1998_video_game) "w:Mission: Impossible (1998 video game)") |  | [Download](https://static.miraheze.org/funkeywiki/f/ff/Mission_-_Impossible.zip) |
-| **MoHo** | [Link](https://en.wikipedia.org/wiki/Ball_Breakers "w:Ball Breakers") |  | [Download](https://static.miraheze.org/funkeywiki/0/0a/MoHo.zip) |
-| **Need for Speed: Porsche 2000** | [Link](https://en.wikipedia.org/wiki/Need_for_Speed:_Porsche_Unleashed "w:Need for Speed: Porsche Unleashed") |  | [Download](https://static.miraheze.org/funkeywiki/f/fd/Need_for_Speed_-_Porsche_2000.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/8/86/Need_for_Speed_-_Porsche_2000_%28ES-FR-IT%29.zip) |
-| **NGEN Racing** | [Link](https://en.wikipedia.org/wiki/NGEN_Racing "w:NGEN Racing") |  | [Download](https://static.miraheze.org/funkeywiki/5/56/NGEN_Racing.zip) |
-| **PGA European Tour Golf** | [Link](https://en.wikipedia.org/wiki/PGA_Tour_(video_game_series)#PGA_European_Tour_(1994) "w:PGA Tour (video game series)") | No |  | [Download](https://static.miraheze.org/funkeywiki/c/c4/PGA_European_Tour_Golf.zip) |
-| **Premier Manager 2000****Canal+ Premier Manager****Anstoss: Premier Manager** | [Link](https://en.wikipedia.org/wiki/Premier_Manager#Premier_Manager_2000 "w:Premier Manager") | [Download](https://static.miraheze.org/funkeywiki/a/a1/Premier_Manager_2000.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/1/1c/Canal%2B_Premier_Manager.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/9/9e/Antoss_-_Premier_Manager.zip) |
-| **Radikal Bikers** | [Link](https://en.wikipedia.org/wiki/Radikal_Bikers "w:Radikal Bikers") |  | [Download](https://static.miraheze.org/funkeywiki/6/64/Radikal_Bikers.zip) |
-| **RC Revenge** | [Link](https://en.wikipedia.org/wiki/RC_Revenge "w:RC Revenge") | Yes |  | [Download](https://static.miraheze.org/funkeywiki/8/82/RC_Revenge.zip) |
-| **Resident Evil 3: Nemesis** | [Link](https://en.wikipedia.org/wiki/Resident_Evil_3:_Nemesis "w:Resident Evil 3: Nemesis") |  | [Download](https://static.miraheze.org/funkeywiki/3/39/Resident_Evil_3_-_Nemesis_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/f/fe/Resident_Evil_3_-_Nemesis_%28IR%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/3/35/Resident_Evil_3_-_Nemesis.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/1/1d/Resident_Evil_3_-_Nemesis_%28ES%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/3/33/Resident_Evil_-_Nemesis_%28FR%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/6/6d/Resident_Evil_-_Nemesis_%28IT%29.zip) |
-| **Ronaldo V-Football** | [Link](https://en.wikipedia.org/wiki/Ronaldo_V-Football "w:Ronaldo V-Football") | No |  | [Download](https://static.miraheze.org/funkeywiki/5/5f/Ronaldo_V-Football.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/f/f9/Ronaldo_V-Football_%28DE-ES-IT-PT%29.zip) |
-| **SaGa Frontier 2** | [Link](https://en.wikipedia.org/wiki/SaGa_Frontier_2 "w:SaGa Frontier 2") | Yes |  | [Download](https://static.miraheze.org/funkeywiki/e/e4/SaGa_Frontier_2_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/6/6f/SaGa_Frontier_2.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/8/8a/SaGa_Frontier_2_%28FR%29.zip) |
-| **Sno-Cross Championship Racing** | [Link](https://en.wikipedia.org/wiki/Sno-Cross_Championship_Racing "w:Sno-Cross Championship Racing") |  | [Download](https://static.miraheze.org/funkeywiki/4/40/Sno-Cross_Championship_Racing.zip) |
-| **Space Debris** |  | No |  | [Download](https://static.miraheze.org/funkeywiki/4/41/Space_Debris_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/7/7a/Space_Debris.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/0/02/Space_Debris_%28FR%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/3/32/Space_Debris_%28IT%29.zip) |
-| **Speed Freaks** | [Link](https://en.wikipedia.org/wiki/Speed_Freaks "w:Speed Freaks") | Yes |  | [Download](https://static.miraheze.org/funkeywiki/b/bd/Speed_Freaks.zip) |
-| **Spyro 2: Gateway to Glimmer** | [Link](https://en.wikipedia.org/wiki/Spyro_2:_Ripto%27s_Rage! "w:Spyro 2: Ripto's Rage!") |  | [Download](https://static.miraheze.org/funkeywiki/d/d4/Spyro_2_-_Gateway_to_Glimmer.zip) |
-| **Spyro: Year of the Dragon** | Regular | [Link](https://en.wikipedia.org/wiki/Spyro:_Year_of_the_Dragon "w:Spyro: Year of the Dragon") | [Download](https://static.miraheze.org/funkeywiki/0/0a/Spyro_-_Year_of_the_Dragon_%28Regular%29.zip) |
-| Platinum | [Download](https://static.miraheze.org/funkeywiki/5/53/Spyro_-_Year_of_the_Dragon.zip) |
-| **Superbike 2000** | [Link](https://en.wikipedia.org/wiki/Superbike_2000 "w:Superbike 2000") |  | [Download](https://static.miraheze.org/funkeywiki/e/e6/Superbike_2000.zip) |
-| **Sydney 2000** | [Link](https://en.wikipedia.org/wiki/Sydney_2000_(video_game) "w:Sydney 2000 (video game)") |  | [Download](https://static.miraheze.org/funkeywiki/2/23/Sydney_2000_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/4/45/Sydney_2000.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/2/2b/Sydney_2000_%28ES%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/c/cb/Sydney_2000_%28FR%29.zip) |
-| **Technomage: Return of Eternity****Technomage: De Terugkeer der Eeuwigheid****Technomage: Die Rueckehr der Ewigkeit****Technomage: En Quête de l'Éternité** | [Link](https://en.wikipedia.org/wiki/Technomage_(video_game) "w:Technomage (video game)") | No |  | [Download](https://static.miraheze.org/funkeywiki/d/d3/TechnoMage_-_Return_of_Eternity.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/d/d0/TechnoMage_-_De_Terugkeer_der_Eeuwigheid.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/e/eb/TechnoMage_-_Die_Rueckkehr_der_Ewigkeit.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/d/d6/Technomage_-_En_Qu%C3%AAte_de_l%27%C3%89ternit%C3%A9.zip) |
-| **The Italian Job** | [Link](https://en.wikipedia.org/wiki/The_Italian_Job_(2001_video_game) "w:The Italian Job (2001 video game)") | Yes |  | [Download](https://static.miraheze.org/funkeywiki/f/f3/The_Italian_Job_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/f/f6/The_Italian_Job.zip) |
-| **Theme Park World** | [Link](https://en.wikipedia.org/wiki/Theme_Park_World "w:Theme Park World") |  | [Download](https://static.miraheze.org/funkeywiki/8/8d/Theme_Park_World.zip) |
-| **This is Football****Esto es Futbol****Fussball Live** | [Link](https://en.wikipedia.org/wiki/This_is_Football_(video_game) "w:This is Football (video game)") | No |  | [Download](https://static.miraheze.org/funkeywiki/e/ef/This_is_Football.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/7/71/This_is_Football_%28FR-NL%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/f/f9/This_is_Football_%28IT%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/4/4d/Esto_es_Futbol.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/0/0a/Fussball_Live.zip) |
-| **TOCA World Touring Cars** | [Link](https://en.wikipedia.org/wiki/TOCA_World_Touring_Cars "w:TOCA World Touring Cars") | Yes |  | [Download](https://static.miraheze.org/funkeywiki/9/90/TOCA_World_Touring_Cars.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/8/88/TOCA_World_Touring_Cars_%28ES-IT%29.zip) |
-| **UEFA Euro 2000** | [Link](https://en.wikipedia.org/wiki/UEFA_Euro_2000_(video_game) "w:UEFA Euro 2000 (video game)") | No |  | [Download](https://static.miraheze.org/funkeywiki/2/25/EUFA_Euro_2000_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/9/9d/UEFA_Euro_2000.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/9/93/EUFA_Euro_2000_%28FR%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/0/0b/UEFA_Euro_2000_%28IT%29.zip) |
-| **UEFA Striker** | [Link](https://en.wikipedia.org/wiki/UEFA_Striker "w:UEFA Striker") | Yes |  | [Download](https://static.miraheze.org/funkeywiki/5/5f/UEFA_Striker.zip) |
-| **Urban Chaos** | [Link](https://en.wikipedia.org/wiki/Urban_Chaos "w:Urban Chaos") |  | [Download](https://static.miraheze.org/funkeywiki/c/c4/Urban_Chaos_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/6/6d/Urban_Chaos.zip) |
-| **Vagrant Story** | [Link](https://en.wikipedia.org/wiki/Vagrant_Story "w:Vagrant Story") |  | [Download](https://static.miraheze.org/funkeywiki/3/33/Vagrant_Story_%28DE%29.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/4/4e/Vagrant_Story.zip) |
-|  | [Download](https://static.miraheze.org/funkeywiki/6/6f/Vagrant_Story_%28FR%29.zip) |
-| **V-Rally: Championship Edition 2** | [Link](https://en.wikipedia.org/wiki/V-Rally_2 "w:V-Rally 2") |  | [Download](https://static.miraheze.org/funkeywiki/f/f1/V-Rally_-_Championship_Edition_2.zip) |
-| **Walt Disney World Quest: Magical Racing Tour** | [Link](https://en.wikipedia.org/wiki/Walt_Disney_World_Quest:_Magical_Racing_Tour "w:Walt Disney World Quest: Magical Racing Tour") |  | [Download](https://static.miraheze.org/funkeywiki/e/e0/Walt_Disney_World_Quest_-_Magical_Racing_Tour.zip) |
-| **Wip3out** | [Link](https://en.wikipedia.org/wiki/Wipeout_3 "w:Wipeout 3") |  | [Download](https://static.miraheze.org/funkeywiki/c/ce/Wip3out.zip) |
+| **Actua Air Hockey 2** |  | No |  | [Download](/wiki/files/Actua_Air_Hockey_2.zip) |
+| **Asterix: Mega Madness** |  | [Download](/wiki/files/Asterix_-_Mega_Madness.zip) |
+| **Barbie Super Sports****Barbie: Sports Extrême** | [Link](https://en.wikipedia.org/wiki/Barbie_Super_Sports "w:Barbie Super Sports") | Yes |  | [Download](/wiki/files/Barbie_Super_Sports_%28DE%29.zip) |
+|  | [Download](/wiki/files/Barbie_Super_Sports.zip) |
+|  | [Download](/wiki/files/Barbie_Super_Sports_%28ES%29.zip) |
+|  | [Download](/wiki/files/Barbie_Super_Sports_%28IT%29.zip) |
+|  | [Download](/wiki/files/Barbie_-_Sports_Extr%C3%AAme.zip) |
+| **Barbie: Race & Ride****Barbie: Aventure Equestre** | [Link](https://en.wikipedia.org/wiki/Barbie:_Race_%26_Ride "w:Barbie: Race & Ride") |  | [Download](/wiki/files/Barbie_-_Race_%26_Ride_%28DE%29.zip) |
+|  | [Download](/wiki/files/Barbie_-_Race_%26_Ride.zip) |
+|  | [Download](/wiki/files/Barbie_-_Race_%26_Ride_%28ES%29.zip) |
+|  | [Download](/wiki/files/Barbie_-_Race_%26_Ride_%28IT%29.zip) |
+|  | [Download](/wiki/files/Barbie_-_Aventure_Equestre.zip) |
+| **Crash Bash** | [Link](https://en.wikipedia.org/wiki/Crash_Bash "w:Crash Bash") |  | [Download](/wiki/files/Crash_Bash.zip) |
+| **Crash Team Racing** | EDC | [Link](https://en.wikipedia.org/wiki/Crash_Team_Racing "w:Crash Team Racing") | [Download](/wiki/files/Crash_Team_Racing_%28EDC%29.zip) |
+| No EDC | [Download](/wiki/files/Crash_Team_Racing_%28No_EDC%29.zip) |
+| **Dino Crisis** | [Link](https://en.wikipedia.org/wiki/Dino_Crisis_(video_game) "w:Dino Crisis (video game)") |  | [Download](/wiki/files/Dino_Crisis_%28DE%29.zip) |
+|  | [Download](/wiki/files/Dino_Crisis.zip) |
+|  | [Download](/wiki/files/Dino_Crisis_%28ES%29.zip) |
+|  | [Download](/wiki/files/Dino_Crisis_%28FR%29.zip) |
+|  | [Download](/wiki/files/Dino_Crisis_%28IT%29.zip) |
+| **Disney's 102 Dalmatians: Puppies to the Rescue** | [Link](https://en.wikipedia.org/wiki/Disney%27s_102_Dalmatians:_Puppies_to_the_Rescue "w:Disney's 102 Dalmatians: Puppies to the Rescue") |  | [Download](/wiki/files/Disney%27s_102_Dalmations_-_Puppies_to_the_Rescue_%28DE-ES-FR-IT%29.zip) |
+|  | [Download](/wiki/files/Disney%27s_102_Dalmations_-_Puppies_to_the_Rescue.zip) |
+| **Disney's Story Studio: Mulan****Disney Libro Animato Creativo - Mulan****Disney's Mulan****Disney's Verhalenstudio - Mulan** | [Link](https://en.wikipedia.org/wiki/Disney%27s_Animated_Storybook "w:Disney's Animated Storybook") | [Download](/wiki/files/Disney%27s_Story_Studio_-_Mulan.zip) |
+|  | [Download](/wiki/files/Disney_Libro_Animato_Creativo_-_Mulan.zip) |
+|  | [Download](/wiki/files/Disney%27s_Mulan_%28DE%29.zip) |
+|  | [Download](/wiki/files/Disney%27s_Mulan_%28ES%29.zip) |
+|  | [Download](/wiki/files/Disney%27s_Verhalenstudio_-_Mulan.zip) |
+| **Disney's Tarzan** | [Link](https://en.wikipedia.org/wiki/Disney%27s_Tarzan_(video_game) "w:Disney's Tarzan (video game)") |  | [Download](/wiki/files/Disney%27s_Tarzan_%28DE%29.zip) |
+|  | [Download](/wiki/files/Disney%27s_Tarzan.zip) |
+|  | [Download](/wiki/files/Disney%27s_Tarzan_%28ES%29.zip) |
+|  | [Download](/wiki/files/Disney%27s_Tarzan_%28FR%29.zip) |
+|  | [Download](/wiki/files/Disney%27s_Tarzan_%28IT%29.zip) |
+|  | [Download](/wiki/files/Disney%27s_Tarzan_%28NL%29.zip) |
+|  | [Download](/wiki/files/Disney%27s_Tarzan_%28SV%29.zip) |
+| **Eagle One: Harrier Attack** | [Link](https://en.wikipedia.org/wiki/Eagle_One:_Harrier_Attack "w:Eagle One: Harrier Attack") |  | [Download](/wiki/files/Eagle_One_-_Harrier_Attack.zip) |
+| **Final Fantasy IX** | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_IX "w:Final Fantasy IX") |  | [Download](/wiki/files/Final_Fantasy_IX_%28DE%29.zip) |
+|  | [Download](/wiki/files/Final_Fantasy_IX.zip) |
+|  | [Download](/wiki/files/Final_Fantasy_IX_%28ES%29.zip) |
+|  | [Download](/wiki/files/Final_Fantasy_IX_%28FR%29.zip) |
+|  | [Download](/wiki/files/Final_Fantasy_IX_%28IT%29.zip) |
+| **Final Fantasy VIII** | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VIII "w:Final Fantasy VIII") |  | [Download](/wiki/files/Final_Fantasy_VIII_%28DE%29.zip) |
+|  | [Download](/wiki/files/Final_Fantasy_VIII.zip) |
+|  | [Download](/wiki/files/Final_Fantasy_VIII_%28ES%29.zip) |
+|  | [Download](/wiki/files/Final_Fantasy_VIII_%28FR%29.zip) |
+|  | [Download](/wiki/files/Final_Fantasy_VIII_%28IT%29.zip) |
+| **Fussball Manager 2001** | [Link](https://en.wikipedia.org/wiki/FIFA_Manager#The_F.A._Premier_League_Football_Manager_2001 "w:FIFA Manager") |  | [Download](/wiki/files/Fussball_Manager_2001.zip) |
+| **Galerians** | [Link](https://en.wikipedia.org/wiki/Galerians "w:Galerians") | [Download](/wiki/files/Galerians_%28DE%29.zip) |
+|  | [Download](/wiki/files/Galerians.zip) |
+|  | [Download](/wiki/files/Galerians_%28FR%29.zip) |
+| **Gekido: Urban Fighters** | [Link](https://en.wikipedia.org/wiki/Gekido "w:Gekido") |  | [Download](/wiki/files/Gekido_-_Urban_Fighters.zip) |
+| **Hogs of War****Frontschweine****Les Cochons de Guerre** | [Link](https://en.wikipedia.org/wiki/Hogs_of_War "w:Hogs of War") |  | [Download](/wiki/files/Hogs_of_War.zip) |
+|  | [Download](/wiki/files/Frontschweine.zip) |
+|  | [Download](/wiki/files/Les_Cochons_de_Guerre.zip) |
+| **Jackie Chan Stuntmaster** | [Link](https://en.wikipedia.org/wiki/Jackie_Chan_Stuntmaster "w:Jackie Chan Stuntmaster") |  | [Download](/wiki/files/Jackie_Chan_Stuntmaster.zip) |
+| **Le Mans 24 Hours** | [Link](https://en.wikipedia.org/wiki/Le_Mans_24_Hours_(video_game) "w:Le Mans 24 Hours (video game)") |  | [Download](/wiki/files/Le_Mans_24_Hours.zip) |
+| **Le Monde des Bleus: Le Jeu Officiel de l'Équipe de France** |  | No |  | [Download](/wiki/files/Le_Monde_des_Bleus_-_Le_jeu_officiel_de_l%27equipe_de_France.zip) |
+| **Legacy of Kain: Soul Reaver** | [Link](https://en.wikipedia.org/wiki/Legacy_of_Kain:_Soul_Reaver "w:Legacy of Kain: Soul Reaver") | Yes |  | [Download](/wiki/files/Legacy_of_Kain_-_Soul_Reaver_%28DE%29.zip) |
+|  | [Download](/wiki/files/Legacy_of_Kain_-_Soul_Reaver.zip) |
+|  | [Download](/wiki/files/Legacy_of_Kain_-_Soul_Reaver_%28ES%29.zip) |
+|  | [Download](/wiki/files/Legacy_of_Kain_-_Soul_Reaver_%28FR%29.zip) |
+|  | [Download](/wiki/files/Legacy_of_Kain_-_Soul_Reaver_%28IT%29.zip) |
+| **LMA Manager 2001****BDFL Manager 2001****Football Manager Capionato 2001** | [Link](https://en.wikipedia.org/wiki/LMA_Manager#LMA_Manager_2001 "w:LMA Manager") | No |  | [Download](/wiki/files/LMA_Manager_2001.zip) |
+|  | [Download](/wiki/files/BDFL_Manager_2001.zip) |
+|  | [Download](/wiki/files/Football_Manager_Campionato_2001.zip) |
+| **LMA Manager 2002****BDFL Manager 2002** | [Link](https://en.wikipedia.org/wiki/LMA_Manager#LMA_Manager_2002 "w:LMA Manager") |  | [Download](/wiki/files/LMA_Manager_2002.zip) |
+|  | [Download](/wiki/files/BDFL_Manager_2002.zip) |
+| **Lucky Luke: Western Fever** |  |  | [Download](/wiki/files/Lucky_Luke_-_Western_Fever.zip) |
+| **MediEvil** | [Link](https://en.wikipedia.org/wiki/MediEvil "w:MediEvil") | Yes |  | [Download](/wiki/files/MediEvil_%28DE%29.zip) |
+|  | [Download](/wiki/files/MediEvil.zip) |
+|  | [Download](/wiki/files/MediEvil_%28ES%29.zip) |
+|  | [Download](/wiki/files/MediEvil_%28FR%29.zip) |
+|  | [Download](/wiki/files/MediEvil_%28IT%29.zip) |
+| **MediEvil 2** | [Link](https://en.wikipedia.org/wiki/MediEvil_2 "w:MediEvil 2") |  | [Download](/wiki/files/MediEvil_2.zip) |
+|  | [Download](/wiki/files/MediEvil_2_%28ES%29_%28IT%29_%28PT%29.zip) |
+|  | [Download](/wiki/files/MediEvil_2_%28RU%29.zip) |
+| **Men in Black: The Series – Crashdown** | [Link](https://en.wikipedia.org/wiki/Men_in_Black:_The_Series_%E2%80%93_Crashdown "w:Men in Black: The Series – Crashdown") |  | [Download](/wiki/files/Men_in_Black_-_The_Series_-_Crashdown_%28DE%29.zip) |
+|  | [Download](/wiki/files/Men_in_Black_-_The_Series_-_Crashdown.zip) |
+|  | [Download](/wiki/files/Men_in_Black_-_The_Series_-_Crashdown_%28ES%29.zip) |
+|  | [Download](/wiki/files/Men_in_Black_-_The_Series_-_Crashdown_%28FR%29.zip) |
+|  | [Download](/wiki/files/Men_in_Black_-_The_Series_-_Crashdown_%28IT%29.zip) |
+| **Michelin Rally Masters: Race of Champions** | [Link](https://en.wikipedia.org/wiki/Michelin_Rally_Masters:_Race_of_Champions "w:Michelin Rally Masters: Race of Champions") |  | [Download](/wiki/files/Michelin_Rally_Masters_-_Race_of_Champions.zip) |
+|  | [Download](/wiki/files/Michelin_Rally_Masters_-_Race_of_Champions_%28ES-FR-IT%29.zip) |
+| **Mike Tyson Boxing****Prince Naseem Boxing** | [Link](https://en.wikipedia.org/wiki/Mike_Tyson_Boxing "w:Mike Tyson Boxing") |  | [Download](/wiki/files/Mike_Tyson_Boxing.zip) |
+| [Download](/wiki/files/Prince_Naseem_Boxing.zip) |
+| **Mission: Impossible** | [Link](https://en.wikipedia.org/wiki/Mission:_Impossible_(1998_video_game) "w:Mission: Impossible (1998 video game)") |  | [Download](/wiki/files/Mission_-_Impossible.zip) |
+| **MoHo** | [Link](https://en.wikipedia.org/wiki/Ball_Breakers "w:Ball Breakers") |  | [Download](/wiki/files/MoHo.zip) |
+| **Need for Speed: Porsche 2000** | [Link](https://en.wikipedia.org/wiki/Need_for_Speed:_Porsche_Unleashed "w:Need for Speed: Porsche Unleashed") |  | [Download](/wiki/files/Need_for_Speed_-_Porsche_2000.zip) |
+|  | [Download](/wiki/files/Need_for_Speed_-_Porsche_2000_%28ES-FR-IT%29.zip) |
+| **NGEN Racing** | [Link](https://en.wikipedia.org/wiki/NGEN_Racing "w:NGEN Racing") |  | [Download](/wiki/files/NGEN_Racing.zip) |
+| **PGA European Tour Golf** | [Link](https://en.wikipedia.org/wiki/PGA_Tour_(video_game_series)#PGA_European_Tour_(1994) "w:PGA Tour (video game series)") | No |  | [Download](/wiki/files/PGA_European_Tour_Golf.zip) |
+| **Premier Manager 2000****Canal+ Premier Manager****Anstoss: Premier Manager** | [Link](https://en.wikipedia.org/wiki/Premier_Manager#Premier_Manager_2000 "w:Premier Manager") | [Download](/wiki/files/Premier_Manager_2000.zip) |
+|  | [Download](/wiki/files/Canal%2B_Premier_Manager.zip) |
+|  | [Download](/wiki/files/Antoss_-_Premier_Manager.zip) |
+| **Radikal Bikers** | [Link](https://en.wikipedia.org/wiki/Radikal_Bikers "w:Radikal Bikers") |  | [Download](/wiki/files/Radikal_Bikers.zip) |
+| **RC Revenge** | [Link](https://en.wikipedia.org/wiki/RC_Revenge "w:RC Revenge") | Yes |  | [Download](/wiki/files/RC_Revenge.zip) |
+| **Resident Evil 3: Nemesis** | [Link](https://en.wikipedia.org/wiki/Resident_Evil_3:_Nemesis "w:Resident Evil 3: Nemesis") |  | [Download](/wiki/files/Resident_Evil_3_-_Nemesis_%28DE%29.zip) |
+|  | [Download](/wiki/files/Resident_Evil_3_-_Nemesis_%28IR%29.zip) |
+|  | [Download](/wiki/files/Resident_Evil_3_-_Nemesis.zip) |
+|  | [Download](/wiki/files/Resident_Evil_3_-_Nemesis_%28ES%29.zip) |
+|  | [Download](/wiki/files/Resident_Evil_-_Nemesis_%28FR%29.zip) |
+|  | [Download](/wiki/files/Resident_Evil_-_Nemesis_%28IT%29.zip) |
+| **Ronaldo V-Football** | [Link](https://en.wikipedia.org/wiki/Ronaldo_V-Football "w:Ronaldo V-Football") | No |  | [Download](/wiki/files/Ronaldo_V-Football.zip) |
+|  | [Download](/wiki/files/Ronaldo_V-Football_%28DE-ES-IT-PT%29.zip) |
+| **SaGa Frontier 2** | [Link](https://en.wikipedia.org/wiki/SaGa_Frontier_2 "w:SaGa Frontier 2") | Yes |  | [Download](/wiki/files/SaGa_Frontier_2_%28DE%29.zip) |
+|  | [Download](/wiki/files/SaGa_Frontier_2.zip) |
+|  | [Download](/wiki/files/SaGa_Frontier_2_%28FR%29.zip) |
+| **Sno-Cross Championship Racing** | [Link](https://en.wikipedia.org/wiki/Sno-Cross_Championship_Racing "w:Sno-Cross Championship Racing") |  | [Download](/wiki/files/Sno-Cross_Championship_Racing.zip) |
+| **Space Debris** |  | No |  | [Download](/wiki/files/Space_Debris_%28DE%29.zip) |
+|  | [Download](/wiki/files/Space_Debris.zip) |
+|  | [Download](/wiki/files/Space_Debris_%28FR%29.zip) |
+|  | [Download](/wiki/files/Space_Debris_%28IT%29.zip) |
+| **Speed Freaks** | [Link](https://en.wikipedia.org/wiki/Speed_Freaks "w:Speed Freaks") | Yes |  | [Download](/wiki/files/Speed_Freaks.zip) |
+| **Spyro 2: Gateway to Glimmer** | [Link](https://en.wikipedia.org/wiki/Spyro_2:_Ripto%27s_Rage! "w:Spyro 2: Ripto's Rage!") |  | [Download](/wiki/files/Spyro_2_-_Gateway_to_Glimmer.zip) |
+| **Spyro: Year of the Dragon** | Regular | [Link](https://en.wikipedia.org/wiki/Spyro:_Year_of_the_Dragon "w:Spyro: Year of the Dragon") | [Download](/wiki/files/Spyro_-_Year_of_the_Dragon_%28Regular%29.zip) |
+| Platinum | [Download](/wiki/files/Spyro_-_Year_of_the_Dragon.zip) |
+| **Superbike 2000** | [Link](https://en.wikipedia.org/wiki/Superbike_2000 "w:Superbike 2000") |  | [Download](/wiki/files/Superbike_2000.zip) |
+| **Sydney 2000** | [Link](https://en.wikipedia.org/wiki/Sydney_2000_(video_game) "w:Sydney 2000 (video game)") |  | [Download](/wiki/files/Sydney_2000_%28DE%29.zip) |
+|  | [Download](/wiki/files/Sydney_2000.zip) |
+|  | [Download](/wiki/files/Sydney_2000_%28ES%29.zip) |
+|  | [Download](/wiki/files/Sydney_2000_%28FR%29.zip) |
+| **Technomage: Return of Eternity****Technomage: De Terugkeer der Eeuwigheid****Technomage: Die Rueckehr der Ewigkeit****Technomage: En Quête de l'Éternité** | [Link](https://en.wikipedia.org/wiki/Technomage_(video_game) "w:Technomage (video game)") | No |  | [Download](/wiki/files/TechnoMage_-_Return_of_Eternity.zip) |
+|  | [Download](/wiki/files/TechnoMage_-_De_Terugkeer_der_Eeuwigheid.zip) |
+|  | [Download](/wiki/files/TechnoMage_-_Die_Rueckkehr_der_Ewigkeit.zip) |
+|  | [Download](/wiki/files/Technomage_-_En_Qu%C3%AAte_de_l%27%C3%89ternit%C3%A9.zip) |
+| **The Italian Job** | [Link](https://en.wikipedia.org/wiki/The_Italian_Job_(2001_video_game) "w:The Italian Job (2001 video game)") | Yes |  | [Download](/wiki/files/The_Italian_Job_%28DE%29.zip) |
+|  | [Download](/wiki/files/The_Italian_Job.zip) |
+| **Theme Park World** | [Link](https://en.wikipedia.org/wiki/Theme_Park_World "w:Theme Park World") |  | [Download](/wiki/files/Theme_Park_World.zip) |
+| **This is Football****Esto es Futbol****Fussball Live** | [Link](https://en.wikipedia.org/wiki/This_is_Football_(video_game) "w:This is Football (video game)") | No |  | [Download](/wiki/files/This_is_Football.zip) |
+|  | [Download](/wiki/files/This_is_Football_%28FR-NL%29.zip) |
+|  | [Download](/wiki/files/This_is_Football_%28IT%29.zip) |
+|  | [Download](/wiki/files/Esto_es_Futbol.zip) |
+|  | [Download](/wiki/files/Fussball_Live.zip) |
+| **TOCA World Touring Cars** | [Link](https://en.wikipedia.org/wiki/TOCA_World_Touring_Cars "w:TOCA World Touring Cars") | Yes |  | [Download](/wiki/files/TOCA_World_Touring_Cars.zip) |
+|  | [Download](/wiki/files/TOCA_World_Touring_Cars_%28ES-IT%29.zip) |
+| **UEFA Euro 2000** | [Link](https://en.wikipedia.org/wiki/UEFA_Euro_2000_(video_game) "w:UEFA Euro 2000 (video game)") | No |  | [Download](/wiki/files/EUFA_Euro_2000_%28DE%29.zip) |
+|  | [Download](/wiki/files/UEFA_Euro_2000.zip) |
+|  | [Download](/wiki/files/EUFA_Euro_2000_%28FR%29.zip) |
+|  | [Download](/wiki/files/UEFA_Euro_2000_%28IT%29.zip) |
+| **UEFA Striker** | [Link](https://en.wikipedia.org/wiki/UEFA_Striker "w:UEFA Striker") | Yes |  | [Download](/wiki/files/UEFA_Striker.zip) |
+| **Urban Chaos** | [Link](https://en.wikipedia.org/wiki/Urban_Chaos "w:Urban Chaos") |  | [Download](/wiki/files/Urban_Chaos_%28DE%29.zip) |
+|  | [Download](/wiki/files/Urban_Chaos.zip) |
+| **Vagrant Story** | [Link](https://en.wikipedia.org/wiki/Vagrant_Story "w:Vagrant Story") |  | [Download](/wiki/files/Vagrant_Story_%28DE%29.zip) |
+|  | [Download](/wiki/files/Vagrant_Story.zip) |
+|  | [Download](/wiki/files/Vagrant_Story_%28FR%29.zip) |
+| **V-Rally: Championship Edition 2** | [Link](https://en.wikipedia.org/wiki/V-Rally_2 "w:V-Rally 2") |  | [Download](/wiki/files/V-Rally_-_Championship_Edition_2.zip) |
+| **Walt Disney World Quest: Magical Racing Tour** | [Link](https://en.wikipedia.org/wiki/Walt_Disney_World_Quest:_Magical_Racing_Tour "w:Walt Disney World Quest: Magical Racing Tour") |  | [Download](/wiki/files/Walt_Disney_World_Quest_-_Magical_Racing_Tour.zip) |
+| **Wip3out** | [Link](https://en.wikipedia.org/wiki/Wipeout_3 "w:Wipeout 3") |  | [Download](/wiki/files/Wip3out.zip) |
 
 ### Games that require adapted controls [[edit](/w/index.php?title=List_of_games_with_compatibility_issues&veaction=edit&section=5 "Edit section: Games that require adapted controls") | [edit source](/w/index.php?title=List_of_games_with_compatibility_issues&action=edit&section=5 "Edit section: Games that require adapted controls")]
 
 Since the SELECT and FN inputs share one button, it is possible for gameplay functionality tied to button combinations that include SELECT and directional or action buttons to be impaired by the system's shortcuts. To solve this problem, _KEY_ files can be used to adjust the device's button mapping on a per-game or per-console basis, moving or removing interfering shortcuts where necessary. While most games can retain access to all shortcuts via shortcut or button relocation, due to their higher than average number of button combinations, _Treasures of the Deep_, _Wing Commander_, and _Wing Commander: The Secret Missions_ required the removal of several system shortcuts to ensure game compatibility. In some cases, multiple _KEY_ files are available to allow users to choose their preferred remapping. To install the _KEY_ file of one of the games listed below, begin by downloading and extracting its respective file. After ensuring that the _KEY_ and ROM file names match, place the _KEY_ file in the same folder as that game on the FunKey S. As this section only lists games that require _KEY_ file input remapping for full compatibility, consult the wiki's list of [pre-configured KEY files](/wiki/List_of_pre-configured_KEY_files "List of pre-configured KEY files") for games with optional button combinations that require the use of a _KEY_ file to access.
 
-While _KEY_ files are the primary method of button remapping, Game Boy and Game Boy Color games can have their inputs alternatively remapped via the use of their emulator's configuration file. Should you wish to remap your device's buttons via this method, a pre-configured configuration file that adds additional mappings of SELECT (without FN tied to it) and START to the device's shoulder buttons can be downloaded [here](https://static.miraheze.org/funkeywiki/8/80/Gnuboy.zip) and optionally palette-modified according to the instructions of [this](https://doc.funkey-project.com/user_manual/tutorials/software/gb_palette/) tutorial. The _gnuboy.rc_ file should then be placed in the _/mnt/FunKey/.gnuboy_ location of the FunKey S file system. If you don't see the _.gnuboy_ folder, your computer's Unix-based operating system is hiding hidden folders. To enable the viewing of such folders on MacOS, use the _Shift+Cmd+Period_ key combination. To do so on ChromeOS, click the three-dot icon at the top-right of the _Files_ application and select the _Show hidden folders_ option. The first table below includes games where the use of a _KEY_ file is required for game completion, while the second table includes games where the use of a _KEY_ file grants access to additional game functionality, such as cheat codes and secret game modes. In reading either table, note that the →, ↔, and ⇋ symbols are used to indicate when button inputs are moved, swapped, and duplicated, respectively. As _Final Fantasy VIII_ only requires its L2+R2 button combination once for the _X-ATM092_ boss fight, an [alternate key file](https://static.miraheze.org/funkeywiki/b/b1/Final_Fantasy_VIII_Alternate_KEY_File.zip) that returns the mapping of the shoulder and trigger inputs to normal can subsequently be used.
+While _KEY_ files are the primary method of button remapping, Game Boy and Game Boy Color games can have their inputs alternatively remapped via the use of their emulator's configuration file. Should you wish to remap your device's buttons via this method, a pre-configured configuration file that adds additional mappings of SELECT (without FN tied to it) and START to the device's shoulder buttons can be downloaded [here](/wiki/files/Final_Fantasy_VIII_Alternate_KEY_File.zip) that returns the mapping of the shoulder and trigger inputs to normal can subsequently be used.
 
 | Game | Article | System | Button Combination(s) | Modifications | KEY File |
-| Boktai 2: Solar Boy Django | [Link](https://en.wikipedia.org/wiki/Boktai_2:_Solar_Boy_Django "w:Boktai 2: Solar Boy Django") | GBA | <u>Select + Left/Right</u> Adjusting sunlight level | Zoom + → R2 Zoom − → L2 | [Download](https://static.miraheze.org/funkeywiki/f/f2/Boktai_2_-_Solar_Boy_Django_Key_File.zip) |
-| Boktai 3: Sabata's Counterattack |  | [Download](https://static.miraheze.org/funkeywiki/e/ec/Boktai_3_-_Sabata%27s_Counterattack_Key_File.zip) |
-| Driver 2 | [Link](https://en.wikipedia.org/wiki/Driver_2 "w:Driver 2") | PS1 | <u>L2 + R2</u> Looking backwards while driving | L/R ↔ L2/R2 | [Download](https://static.miraheze.org/funkeywiki/8/84/Driver_2_Key_File.zip) |
-| System statistics → FN+START | [Download](https://static.miraheze.org/funkeywiki/e/ef/Driver_2_Alternative_Key_File.zip) |
-| Final Fantasy VII | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VII "w:Final Fantasy VII") | <u>R + R2</u> Replenishing stamina while Chocobo racing | L → L2 R → L L2 → R2 R2 → R | [Download](https://static.miraheze.org/funkeywiki/d/d0/Final_Fantasy_VII_KEY_File.zip) |
-| Final Fantasy VIII | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VIII "w:Final Fantasy VIII") | <u>L2 + R2</u> Running away from battles <u>Select + Y</u> Boosting attack power | L/R ↔ L2/R2 Volume + → FN+UP Volume − → FN+DOWN Screenshot → FN+A Aspect ratio → FN+START | [Download](https://static.miraheze.org/funkeywiki/b/b5/Final_Fantasy_VIII_KEY_File.zip) |
-| GB-8 (Homebrew) | [Link](/wiki/List_of_emulatable_utilities#Emulation "List of emulatable utilities") | GB | <u>Select + Start + A + B</u> Closing meta-emulator | Volume + → R2 Volume − → L2 Brightness − → FN+Y | [Download](https://static.miraheze.org/funkeywiki/f/fb/GB-8_Key_File.zip) |
-| Treasures of the Deep | [Link](https://en.wikipedia.org/wiki/Treasures_in_the_Deep "w:Treasures in the Deep") | PS1 | <u>Select + Action buttons</u> General submarine controls <u>Select + Trigger buttons</u> Submarine light controls <u>Shoulder buttons + Trigger buttons</u> Getting on and off the submarine <u>L2 + R2</u> Submarine thrust controls | UP/DOWN ↔ L/R LEFT/RIGHT ↔ L2/R2 No volume, brightness, and zoom shortcuts | [Download](https://static.miraheze.org/funkeywiki/7/7e/Treasures_of_the_Deep_Key_File.zip) |
-| UP/DOWN ↔ L/R LEFT/RIGHT ↔ L2/R2 Volume + → FN+UP Volume − → FN+DOWN Screenshot → L2+R2 No brightness, zoom, system statistic, and aspect ratio shortcuts | [Download](https://static.miraheze.org/funkeywiki/9/9b/Treasures_of_the_Deep_Alternative_Key_File.zip) |
-| Turok: Battle of the Bionosaurs | [Link](https://en.wikipedia.org/wiki/Turok:_Battle_of_the_Bionosaurs "w:Turok: Battle of the Bionosaurs") | GB | <u>Select + Left/Right</u> Swapping weapons | Zoom + → R2 Zoom − → L2 | [Download](https://static.miraheze.org/funkeywiki/8/81/Turok_-_Battle_of_the_Bionosaurs_Key_File.zip) |
-| Wing Commander | [Link](https://en.wikipedia.org/wiki/Wing_Commander_(video_game) "w:Wing Commander (video game)") | SNES | <u>Select + Action buttons</u> Combat controls <u>Select + Shoulder buttons</u> Game settings | Volume + → FN+RIGHT Volume − → FN+LEFT Brightness + → FN+UP Brightness − → FN+DOWN Screenshot → FN+START No zoom and aspect ratio shortcuts | [Download](https://static.miraheze.org/funkeywiki/6/6b/Wing_Commander_Key_File.zip) |
-| Wing Commander: The Secret Missions | [Link](https://en.wikipedia.org/wiki/Wing_Commander_(franchise)#The_Secret_Missions "w:Wing Commander (franchise)") | [Download](https://static.miraheze.org/funkeywiki/8/8f/Wing_Commander_-_The_Secret_Missions_Key_File.zip) |
+| Boktai 2: Solar Boy Django | [Link](https://en.wikipedia.org/wiki/Boktai_2:_Solar_Boy_Django "w:Boktai 2: Solar Boy Django") | GBA | <u>Select + Left/Right</u> Adjusting sunlight level | Zoom + → R2 Zoom − → L2 | [Download](/wiki/files/Boktai_2_-_Solar_Boy_Django_Key_File.zip) |
+| Boktai 3: Sabata's Counterattack |  | [Download](/wiki/files/Boktai_3_-_Sabata%27s_Counterattack_Key_File.zip) |
+| Driver 2 | [Link](https://en.wikipedia.org/wiki/Driver_2 "w:Driver 2") | PS1 | <u>L2 + R2</u> Looking backwards while driving | L/R ↔ L2/R2 | [Download](/wiki/files/Driver_2_Key_File.zip) |
+| System statistics → FN+START | [Download](/wiki/files/Driver_2_Alternative_Key_File.zip) |
+| Final Fantasy VII | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VII "w:Final Fantasy VII") | <u>R + R2</u> Replenishing stamina while Chocobo racing | L → L2 R → L L2 → R2 R2 → R | [Download](/wiki/files/Final_Fantasy_VII_KEY_File.zip) |
+| Final Fantasy VIII | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VIII "w:Final Fantasy VIII") | <u>L2 + R2</u> Running away from battles <u>Select + Y</u> Boosting attack power | L/R ↔ L2/R2 Volume + → FN+UP Volume − → FN+DOWN Screenshot → FN+A Aspect ratio → FN+START | [Download](/wiki/files/Final_Fantasy_VIII_KEY_File.zip) |
+| GB-8 (Homebrew) | [Link](/wiki/List_of_emulatable_utilities#Emulation "List of emulatable utilities") | GB | <u>Select + Start + A + B</u> Closing meta-emulator | Volume + → R2 Volume − → L2 Brightness − → FN+Y | [Download](/wiki/files/GB-8_Key_File.zip) |
+| Treasures of the Deep | [Link](https://en.wikipedia.org/wiki/Treasures_in_the_Deep "w:Treasures in the Deep") | PS1 | <u>Select + Action buttons</u> General submarine controls <u>Select + Trigger buttons</u> Submarine light controls <u>Shoulder buttons + Trigger buttons</u> Getting on and off the submarine <u>L2 + R2</u> Submarine thrust controls | UP/DOWN ↔ L/R LEFT/RIGHT ↔ L2/R2 No volume, brightness, and zoom shortcuts | [Download](/wiki/files/Treasures_of_the_Deep_Key_File.zip) |
+| UP/DOWN ↔ L/R LEFT/RIGHT ↔ L2/R2 Volume + → FN+UP Volume − → FN+DOWN Screenshot → L2+R2 No brightness, zoom, system statistic, and aspect ratio shortcuts | [Download](/wiki/files/Treasures_of_the_Deep_Alternative_Key_File.zip) |
+| Turok: Battle of the Bionosaurs | [Link](https://en.wikipedia.org/wiki/Turok:_Battle_of_the_Bionosaurs "w:Turok: Battle of the Bionosaurs") | GB | <u>Select + Left/Right</u> Swapping weapons | Zoom + → R2 Zoom − → L2 | [Download](/wiki/files/Turok_-_Battle_of_the_Bionosaurs_Key_File.zip) |
+| Wing Commander | [Link](https://en.wikipedia.org/wiki/Wing_Commander_(video_game) "w:Wing Commander (video game)") | SNES | <u>Select + Action buttons</u> Combat controls <u>Select + Shoulder buttons</u> Game settings | Volume + → FN+RIGHT Volume − → FN+LEFT Brightness + → FN+UP Brightness − → FN+DOWN Screenshot → FN+START No zoom and aspect ratio shortcuts | [Download](/wiki/files/Wing_Commander_Key_File.zip) |
+| Wing Commander: The Secret Missions | [Link](https://en.wikipedia.org/wiki/Wing_Commander_(franchise)#The_Secret_Missions "w:Wing Commander (franchise)") | [Download](/wiki/files/Wing_Commander_-_The_Secret_Missions_Key_File.zip) |
 
 ### Games with other glitches [[edit](/w/index.php?title=List_of_games_with_compatibility_issues&veaction=edit&section=6 "Edit section: Games with other glitches") | [edit source](/w/index.php?title=List_of_games_with_compatibility_issues&action=edit&section=6 "Edit section: Games with other glitches")]
 
@@ -297,9 +278,9 @@ The following games have emulation issues by default that do not fit into any of
 This subsection lists Game Boy Advance games that require the presence of a pre-prepared _SAV_ format save file to allow the user to bypass the opening sequences, ensuring full-playability. While such a save file can be created for any of the listed games by simply loading each game's ROM file in a computer Game Boy Advance emulator (or the natively-running [third-party mGBA emulator](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications")) and generating save data as soon as possible, users who don't mind having a default name associated with their save data can download one of the pre-prepared _SAV_ files linked-to below instead. Once this file is generated or downloaded, it should be placed in the _GBA_ folder of the FunKey S, replacing any existing _SAV_ file for the respective game. From then on, if selecting _New Game_ rather than _Resume Game_, users should be sure to always load their pre-existing save file rather than creating a new one to prevent a crash from occurring.
 
 | Game | Article | SAV File |
-| Denki Blocks! | [Link](https://en.wikipedia.org/wiki/Denki_Blocks! "w:Denki Blocks!") | [Download](https://static.miraheze.org/funkeywiki/1/15/Denki_Blocks%21.zip) |
-| Grand Theft Auto Advance | [Link](https://en.wikipedia.org/wiki/Grand_Theft_Auto_Advance "w:Grand Theft Auto Advance") | [Download](https://static.miraheze.org/funkeywiki/1/1c/Grand_Theft_Auto_Advance.zip) |
-| Woody Woodpecker in Crazy Castle 5 |  | [Download](https://static.miraheze.org/funkeywiki/f/f8/Woody_Woodpecker_in_Crazy_Castle_5.zip) |
+| Denki Blocks! | [Link](https://en.wikipedia.org/wiki/Denki_Blocks! "w:Denki Blocks!") | [Download](/wiki/files/Denki_Blocks%21.zip) |
+| Grand Theft Auto Advance | [Link](https://en.wikipedia.org/wiki/Grand_Theft_Auto_Advance "w:Grand Theft Auto Advance") | [Download](/wiki/files/Grand_Theft_Auto_Advance.zip) |
+| Woody Woodpecker in Crazy Castle 5 |  | [Download](/wiki/files/Woody_Woodpecker_in_Crazy_Castle_5.zip) |
 
 #### Games that require a default BIOS [[edit](/w/index.php?title=List_of_games_with_compatibility_issues&veaction=edit&section=8 "Edit section: Games that require a default BIOS") | [edit source](/w/index.php?title=List_of_games_with_compatibility_issues&action=edit&section=8 "Edit section: Games that require a default BIOS")]
 
@@ -314,8 +295,8 @@ This subsection lists PlayStation games that are not emulated correctly via the 
 The PAL versions of the following NES games have severe graphical glitches due to being emulated in NTSC mode by default. To fix this issue, download and extract the associated game's _CFG_ file from its _ZIP_ archive, and placed it in the _/mnt/FunKey/.fceux/cfg_ location of the FunKey S file system. If you don't see the _.fceux_ folder, your computer's Unix-based operating system is hiding hidden folders. To enable the viewing of such folders on MacOS, use the _Shift+Cmd+Period_ key combination. To do so on ChromeOS, click the three-dot icon at the top-right of the _Files_ application and select the _Show hidden folders_ option. Once this is done, ensure that the names of the game's _CFG_ and ROM files match and that any pre-existing configuration files for the game are deleted. The game will subsequently be emulated in PAL mode, enabling PAL timings and full-compatibility. Should you prefer to skip this process by simply using a game's NTSC version instead, games with that option available have been marked below.
 
 | Game | Article | Glitch(es) | NTSC Alternative? | CFG File |
-| Elite | [Link](https://en.wikipedia.org/wiki/Elite_(video_game) "w:Elite (video game)") |  ​Severe graphical glitches ​ | No | [Download](https://static.miraheze.org/funkeywiki/2/24/Elite.zip) |
-| Ferrari Grand Prix Challenge | [Link](https://en.wikipedia.org/wiki/F-1_Hero_MD#NES_and_Game_Boy_versions "w:F-1 Hero MD") | Yes | [Download](https://static.miraheze.org/funkeywiki/7/71/Ferrari_Grand_Prix_Challenge.zip) |
+| Elite | [Link](https://en.wikipedia.org/wiki/Elite_(video_game) "w:Elite (video game)") |  ​Severe graphical glitches ​ | No | [Download](/wiki/files/Elite.zip) |
+| Ferrari Grand Prix Challenge | [Link](https://en.wikipedia.org/wiki/F-1_Hero_MD#NES_and_Game_Boy_versions "w:F-1 Hero MD") | Yes | [Download](/wiki/files/Ferrari_Grand_Prix_Challenge.zip) |
 | Sped up audio |
 
 #### Games that temporarily freeze [[edit](/w/index.php?title=List_of_games_with_compatibility_issues&veaction=edit&section=10 "Edit section: Games that temporarily freeze") | [edit source](/w/index.php?title=List_of_games_with_compatibility_issues&action=edit&section=10 "Edit section: Games that temporarily freeze")]
@@ -688,7 +669,7 @@ While the following games initially appear to be emulated accurately, they have 
 
 ### Games with other issues [[edit](/w/index.php?title=List_of_games_with_compatibility_issues&veaction=edit&section=25 "Edit section: Games with other issues") | [edit source](/w/index.php?title=List_of_games_with_compatibility_issues&action=edit&section=25 "Edit section: Games with other issues")]
 
-Even when not listed as fully-incompatible [below](#games-that-require-improved-emulation), [GBA video paks](https://en.wikipedia.org/wiki/Game_Boy_Advance_Video "w:Game Boy Advance Video") often have severe emulation issues, such as audio glitching and crashing, that render them unpleasant to use in the default Game Boy Advance emulator. While a [third-party](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") emulator could be used to solve many of these glitches, it is recommended that the natively-running MPlayer application be [downloaded](https://static.miraheze.org/funkeywiki/1/1d/MPlayer-V2.opk) instead for video playback on the FunKey S.
+Even when not listed as fully-incompatible [below](#games-that-require-improved-emulation), [GBA video paks](https://en.wikipedia.org/wiki/Game_Boy_Advance_Video "w:Game Boy Advance Video") often have severe emulation issues, such as audio glitching and crashing, that render them unpleasant to use in the default Game Boy Advance emulator. While a [third-party](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") emulator could be used to solve many of these glitches, it is recommended that the natively-running MPlayer application be [downloaded](/wiki/files/MPlayer-V2.opk) instead for video playback on the FunKey S.
 
 ## Incompatible games [[edit](/w/index.php?title=List_of_games_with_compatibility_issues&veaction=edit&section=26 "Edit section: Incompatible games") | [edit source](/w/index.php?title=List_of_games_with_compatibility_issues&action=edit&section=26 "Edit section: Incompatible games")]
 

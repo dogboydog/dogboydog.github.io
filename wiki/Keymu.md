@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/Keymu "View the content page [c]")
-* [Discussion](/w/index.php?title=Talk:Keymu&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/Keymu)
-* [Edit](/w/index.php?title=Keymu&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=Keymu&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=Keymu&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-Keymu&action=page&filter= "Special:Translate") Other languages:
-
-* English
-* [français](/wiki/Keymu/fr "Keymu (100% translated)")
 
 The Keymu
 

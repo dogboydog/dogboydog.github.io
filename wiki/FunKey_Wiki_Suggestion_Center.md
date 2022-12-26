@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/FunKey_Wiki_Suggestion_Center "View the content page [c]")
-* [Discussion](/wiki/Talk:FunKey_Wiki_Suggestion_Center "Discussion about the content page [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/FunKey_Wiki_Suggestion_Center)
-* [Edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-FunKey+Wiki+Suggestion+Center&action=page&filter= "Special:Translate"); This page contains [changes](https://wiki.funkey-project.com/w/index.php?title=FunKey_Wiki_Suggestion_Center&oldid=20658&diff=20877) which are not marked for translation. Other languages:
-
-* English
-* [français](/wiki/FunKey_Wiki_Suggestion_Center/fr "Centre de Suggestions du Wiki FunKey (63% translated)")
 
 The Suggestion Center lists user suggestions of emulators, games, and utilities that could be ported to or developed for the FunKey S.
 

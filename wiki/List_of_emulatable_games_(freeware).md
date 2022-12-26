@@ -2,26 +2,7 @@
 
 From The FunKey Wiki
 
-### Namespaces
 
-* [Page](/wiki/List_of_emulatable_games_(freeware) "View the content page [c]")
-* [Discussion](/w/index.php?title=Talk:List_of_emulatable_games_(freeware)&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
-
-### More
-
-* More
-
-### Page actions
-
-* [Read](/wiki/List_of_emulatable_games_(freeware))
-* [Edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit "Edit this page [v]")
-* [Edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit "Edit this page [e]")
-* [History](/w/index.php?title=List_of_emulatable_games_(freeware)&action=history "Past revisions of this page [h]")
-
-[Translate this page](/w/index.php?title=Special:Translate&group=page-List+of+emulatable+games+%28freeware%29&action=page&filter= "Special:Translate"); This page contains [changes](https://wiki.funkey-project.com/w/index.php?title=List_of_emulatable_games_(freeware)&oldid=21025&diff=21037) which are not marked for translation. Other languages:
-
-* English
-* [français](/wiki/List_of_emulatable_games_(freeware)/fr "Liste des jeux émulables (freeware) (1% translated)")
 
 This article is a repository of links to homebrew and freeware games that are or will be playable on the FunKey S via emulation. Each supported system has its own section that contains a chart with that console's homebrew software. Currently, the systems supported by the FunKey S are, from oldest to newest: the NES, Master System, Sega Genesis, Game Boy, TurboGrafx-16, Atari Lynx, Game Gear, SNES, PS1, Game Boy Color, Neo Geo Pocket, and Game Boy Advance. While WonderSwan emulation is also possible on the FunKey, no completed homebrew or freeware games were found for the system. Additionally, a list for arcade games is present as well due to the confirmation of future support for arcade emulation on the FunKey S. While these lists have been compiled to include as many games as possible, they are not intended to be comprehensive lists of all unlicensed software available for the aforementioned systems, due to several [inclusion criteria](/wiki/Available_third-party_software#Inclusion_criteria "Available third-party software"). As more systems are made emulatable on the FunKey S, this article will grow to include homebrew game lists for those systems as well. Yellow-highlighted games listed below have been found to be incompatible with the default FunKey S emulators and should therefore be emulated via a [third-party emulator](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") instead.
 
