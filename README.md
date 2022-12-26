@@ -13,18 +13,8 @@ Welcome to The FunKey Wiki, the host of information, tutorials, and user-generat
 [The FunKey Times](/wiki/The_FunKey_Times "The FunKey Times")
 
 [Third-Party Apps](/wiki/Available_third-party_software "Available third-party software")
-.*?) (.*?)\)
-[Knowledge Center](/wiki/FunKey_Wiki_Knowledge_Center "FunKey Wiki Knowledge Center")
-
-[ The Wiki Forum](/wiki/Special:WikiForum "Special:WikiForum")
-
-[The FunKey Times](/wiki/The_FunKey_Times "The FunKey Times")
-
-[Third-Party Apps](/wiki/Available_third-party_software "Available third-party software")
 
 [Knowledge Center](/wiki/FunKey_Wiki_Knowledge_Center "FunKey Wiki Knowledge Center")
-
-[ The Wiki Forum](/wiki/Special:WikiForum "Special:WikiForum")
 
 **View past news in**
 
