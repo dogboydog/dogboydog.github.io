@@ -196,8 +196,8 @@ The following PlayStation games are known to have cheat codes that require the u
 * Content is available under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise noted.
 
 * [Privacy policy](https://meta.miraheze.org/wiki/Privacy_Policy "m:Privacy Policy")
-* [About The FunKey Wiki](/wiki/The_FunKey_Wiki:About "The FunKey Wiki:About")
-* [Disclaimers](/wiki/The_FunKey_Wiki:General_disclaimer "The FunKey Wiki:General disclaimer")
+* [About The FunKey Wiki](/wiki/The_FunKey_Wiki_About "The FunKey Wiki_About")
+* [Disclaimers](/wiki/The_FunKey_Wiki_General_disclaimer "The FunKey Wiki_General disclaimer")
 * [Terms of Use](https://meta.miraheze.org/wiki/Terms_of_Use "m:Terms of Use")
 * [Donate to Miraheze](https://meta.miraheze.org/wiki/Special:MyLanguage/Donate "m:Special:MyLanguage/Donate")
 * [Mobile view](https://wiki.funkey-project.com/w/index.php?title=List_of_pre-configured_KEY_files&mobileaction=toggle_view_mobile)
