@@ -1,14 +1,11 @@
 # FunKey Wiki Suggestion Center
 
-From The FunKey Wiki
-
-
 
 The Suggestion Center lists user suggestions of emulators, games, and utilities that could be ported to or developed for the FunKey S.
 
 If you have a suggestion that has not been listed here or wish to discuss your support or opposition to a listed suggestion, you may do so by typing in the text box below and selecting the "New section" button. This will automatically create a new section on this page's talk page, in which you may further specify your suggestion. When you are finished entering the details of your suggestion, select the "Save changes" button below the input field. If you wish to be notified if your suggestion receives a reply, you are encouraged to first log in and subsequently sign your post with ~~~~.
 
-Alternatively, you may also submit FunKey S suggestions to the FunKey Team via [email](mailto:support@funkey-project.com) or the [FunKey Community Discord Server](/wiki/FunKey_Community_Discord_Server "FunKey Community Discord Server").
+Alternatively, you may also submit FunKey S suggestions to the FunKey Team via [email](mailto:support@funkey-project.com) or the [FunKey Community Discord Server](/wiki/FunKey_Community_Discord_Server.md "FunKey Community Discord Server").
 
 ## Contents
 
@@ -29,7 +26,7 @@ Alternatively, you may also submit FunKey S suggestions to the FunKey Team via [
   - [3.3 Utilities](#utilities)
 * [4 Hardware modification suggestions for future devices](#hardware-modification-suggestions-for-future-devices)
 
-## Suggestion criteria [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=1 "Edit section: Suggestion criteria") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=1 "Edit section: Suggestion criteria")]
+## Suggestion criteria 
 
 For a suggestion to be considered for implementation on the FunKey S, it must:
 
@@ -37,48 +34,48 @@ For a suggestion to be considered for implementation on the FunKey S, it must:
 * Not involve the infringement of copyrighted and/or trademarked content.
 * Be within the realm of reason of the hardware limitations of the FunKey S.
 
-All suggestion tables have a status column to indicate the level of progress made on each suggestion. A blank cell indicates no reported progress, a red cell indicates that the suggestion is not currently feasible, an orange cell indicates that the suggestion has not been implemented for a specific reason, a yellow cell indicates that the suggestion is currently in the process of being implemented, a light green cell indicates that the feature has been implemented by a third-party developer, and a dark green cell indicates that the feature has been integrated by the FunKey Team into [FunKey-OS](/wiki/FunKey-OS "FunKey-OS").
+All suggestion tables have a status column to indicate the level of progress made on each suggestion. A blank cell indicates no reported progress, a red cell indicates that the suggestion is not currently feasible, an orange cell indicates that the suggestion has not been implemented for a specific reason, a yellow cell indicates that the suggestion is currently in the process of being implemented, a light green cell indicates that the feature has been implemented by a third-party developer, and a dark green cell indicates that the feature has been integrated by the FunKey Team into [FunKey-OS](/wiki/FunKey-OS.md "FunKey-OS").
 
 Note that a suggestion having a blank status cell does not indicate that it can or will be implemented, only that it has been suggested by a FunKey S user. Suggestions that would require the modification of the FunKey S hardware will be listed in the [last section](#hardware-modification-suggestions-for-future-devices) of this article, as while they cannot be added to the FunKey S, they could be implemented in future devices created by the FunKey Team.
 
-## System feature requests [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=2 "Edit section: System feature requests") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=2 "Edit section: System feature requests")]
+## System feature requests 
 
-### Implemented [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=3 "Edit section: Implemented") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=3 "Edit section: Implemented")]
+### Implemented 
 
-#### FunKey-OS V1.1 [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=4 "Edit section: FunKey-OS V1.1") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=4 "Edit section: FunKey-OS V1.1")]
+#### FunKey-OS V1.1 
 
 | Suggestion | Benefit(s) | Status |
 | <u>Ability to use the FN button as SELECT</u> | - Ability to access the SELECT button more quickly- Compatability with games with SELECT button combinations | Implemented; the FN button is now configured as SELECT when not combined with another button |
 | <u>TurboGrafx-16/PC Engine emulation</u> | - Additional functionality | Implemented |
 
-#### FunKey-OS V2.0 [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=5 "Edit section: FunKey-OS V2.0") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=5 "Edit section: FunKey-OS V2.0")]
+#### FunKey-OS V2.0 
 
 | Suggestion | Benefit(s) | Status |
 | <u>Gmenu2x launcher</u> | - Additional functionality | Implemented |
 | <u>Ability to take screenshots</u> | - Additional functionality | Implemented |
 | <u>Ability to adjust palette of Game Boy games</u> | - Gives players additional gameplay options | Implemented |
 
-#### FunKey-OS V2.1 [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=6 "Edit section: FunKey-OS V2.1") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=6 "Edit section: FunKey-OS V2.1")]
+#### FunKey-OS V2.1 
 
 | Suggestion | Benefit(s) | Status |
 | <u>Ability to change default aspect ratio</u> | - Reduces the need to adjust settings prior to gameplay | Implemented |
 | <u>Commander file explorer</u> | - Additional functionality | Implemented |
 
-#### FunKey-OS V2.2 [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=7 "Edit section: FunKey-OS V2.2") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=7 "Edit section: FunKey-OS V2.2")]
+#### FunKey-OS V2.2 
 
 | Suggestion | Benefit(s) | Status |
 | <u>Ability to adjust button mapping</u> | - Improves game compatibility and configurability | Implemented |
 | <u>Implements ZIP file support for additional emulators</u> | - Allows for additional game library compression | Implemented |
 
-#### FunKey-OS V2.3 [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=8 "Edit section: FunKey-OS V2.3") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=8 "Edit section: FunKey-OS V2.3")]
+#### FunKey-OS V2.3 
 
 | Suggestion | Benefit(s) | Status |
 | <u>Ability to add new RetroFE themes</u> | - Additional personalization capabilities | Implemented |
 | <u>Official Sega 32X and Sega CD support</u> | - Additional functionality | Implemented |
 
-### Under consideration [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=9 "Edit section: Under consideration") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=9 "Edit section: Under consideration")]
+### Under consideration 
 
-#### Emulation settings [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=10 "Edit section: Emulation settings") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=10 "Edit section: Emulation settings")]
+#### Emulation settings 
 
 | Suggestion | Benefit(s) | Status |
 | <u>Ability to use cheats in games</u> | - Gives players additional gameplay options- Allows the enabling of otherwise unobtainable features in several games |  |
@@ -87,7 +84,7 @@ Note that a suggestion having a blank status cell does not indicate that it can 
 | <u>Pixel-perfect zoom option</u> | - Option to play zoomed-out at original resolutions for systems with resolutions below the FunKey's 240x240 |  |
 | <u>Ability to swap controller from Port 1 to Port 2 on applicable systems</u> | - Allows for increased combability with games that support two-player asynchronous multiplayer |  |
 
-#### System adjustment [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=11 "Edit section: System adjustment") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=11 "Edit section: System adjustment")]
+#### System adjustment 
 
 | Suggestion | Benefit(s) | Status |
 | <u>Option to put games in folders</u> | - Facilitates software navigation and management |  |
@@ -95,9 +92,9 @@ Note that a suggestion having a blank status cell does not indicate that it can 
 | <u>Option to disable emulators in RetroFE</u> | - Reduces clutter of unused emulators |  |
 | <u>Option to view most recently played games and favorited games at the start of a system's game list</u> | - Allows for easier sorting and navigation of games |  |
 
-## Software requests [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=12 "Edit section: Software requests") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=12 "Edit section: Software requests")]
+## Software requests 
 
-### Emulators [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=13 "Edit section: Emulators") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=13 "Edit section: Emulators")]
+### Emulators 
 
 | System |  ≤14 buttons? | Suggested emulator | Status |
 | <u>[Arcade](https://en.wikipedia.org/wiki/Arcade_game "w:Arcade game")</u> | Yes | FBANeo | In progress |
@@ -114,7 +111,7 @@ Note that a suggestion having a blank status cell does not indicate that it can 
 | <u>[Pokémon Mini](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Mini "w:Pokémon Mini")</u> | Yes |  |  |
 | <u>[ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum "w:ZX Spectrum")</u> | No |  |  |
 
-### Games [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=14 "Edit section: Games") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=14 "Edit section: Games")]
+### Games 
 
 | Game | Emulatable homebrew example | Positive elements of example compared to others | Suggested improvements compared to example | Status |
 | <u>2048</u> | [Link](https://pdroms.de/files/sega-genesis-megadrive-smd-md/2048-2) | - Music- Saves high score | - UI that fills screen- Choice between several styles |  |
@@ -126,7 +123,7 @@ Note that a suggestion having a blank status cell does not indicate that it can 
 | <u>Solitaire</u> | [Link](https://pdroms.de/files/nintendo-gameboyadvance-gba/hergs-solitaire-v1-0) | - Significant game variety- Option to adjust pointer speed- Option to display game rules- Option to change background color- Option to display win and loss statistics- Difficulty level selection | - Increase variety to include more Solitaire variants and non-Solitaire games- Different card style options- Increased background style variety- Option to switch between pointer-based controls and grid-based controls |  |
 | <u>Sudoku</u> | [Link](https://pdroms.de/files/nintendo-gameboyadvance-gba/sudoku-micro-rc-1) | - Board themes | - Different difficulty levels- More boards- Alternative options for number selection- Additional sudoku board types (4x4, Diagonal, Irregular, etc.) |  |
 
-### Utilities [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=15 "Edit section: Utilities") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=15 "Edit section: Utilities")]
+### Utilities 
 
 | Utility | Suggested features | Comparable software | Status |
 | <u>Music Player</u> | - Support for MP3 and WAV file formats- Cover flow for folders and individual tracks in system menu- Shuffle play option- Display of current time stamp out of total audio length |  |  |
@@ -138,7 +135,7 @@ Note that a suggestion having a blank status cell does not indicate that it can 
 | <u>Scrabble dictionary</u> | - Option to select language- Ability to add additional words to the list of valid words |  |  |
 | <u>Flashlight</u> | - Option to adjust screen brightness- Option to change display color |  |  |
 
-## Hardware modification suggestions for future devices [[edit](/w/index.php?title=FunKey_Wiki_Suggestion_Center&veaction=edit&section=16 "Edit section: Hardware modification suggestions for future devices") | [edit source](/w/index.php?title=FunKey_Wiki_Suggestion_Center&action=edit&section=16 "Edit section: Hardware modification suggestions for future devices")]
+## Hardware modification suggestions for future devices 
 
 | Suggestion | Alternative(s) | Benefit(s) | Status |
 | <u>Implementation of Micro-USB audio output</u> | - Headphone jack | - Ability to use headphones and speakers | Would require hardware modifications that are infeasible with the current design due to space constraints |

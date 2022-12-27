@@ -1,8 +1,5 @@
 # List of recommended ROM hacks
 
-From The FunKey Wiki
-
-
 
 This page lists ROM hacks that are recommended for the enhancement or improvement of several games. As this page only links to downloads of ROM hack patches and not unpatched or pre-patched ROMs, users must first have their ROM backup of the game to be patched saved to their computer. Once this is done, the file can be patched with the _Floating IPS_ application if using [Windows](/wiki/files/MultiPatch.zip). To use Floating IPS, begin by launching the application and selecting _Apply Patch_. After selecting your matching _IPS_ and ROM files, the application will apply the modifications to the ROM file and finish with a _The file was successfully patched!_ message. The game can then be put into the folder of its respective console on the FunKey S. Note that while ROM hack patches are entirely legal and may be freely distributed (as they must be applied to the associated game's ROM file to serve their purpose), the distribution of pre-patched ROMs, as with regular unpatched ROMs, is considered to be piracy.
 
@@ -25,7 +22,7 @@ This page lists ROM hacks that are recommended for the enhancement or improvemen
   - [5.1 Merger](#merger)
   - [5.2 Complete](#complete)
 
-## List criteria [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=1 "Edit section: List criteria") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=1 "Edit section: List criteria")]
+## List criteria 
 
 For a ROM hack to be listed on this page, it must:
 
@@ -35,9 +32,9 @@ For a ROM hack to be listed on this page, it must:
 * Include a complete and accurate English translation if listed in the [translation hacks](#translation-hacks) section.
 * Modify the story and/or world of a game substantially if listed in the [complete hacks](#complete-hacks) section.
 
-## Accessibility hacks [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=2 "Edit section: Accessibility hacks") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=2 "Edit section: Accessibility hacks")]
+## Accessibility hacks 
 
-### Hazard removal [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=3 "Edit section: Hazard removal") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=3 "Edit section: Hazard removal")]
+### Hazard removal 
 
 This section lists patches that remove potentially hazardous full-screen flashing, rotation, and shaking effects from specific games. Having the sole purpose of making affected games more accessible to those sensitive to such effects, the following patches make no additional graphical or gameplay modifications to their respective games, though can be usually used in conjunction with other patches, if available.
 
@@ -46,7 +43,7 @@ This section lists patches that remove potentially hazardous full-screen flashin
 | Final Fantasy | US | NES | Removes potentially hazardous flashing screen effect and reduces screen shake and rotation effect frequencies | [Link](https://www.romhacking.net/hacks/6691/) | [Download](/wiki/files/Final_Fantasy.ips) |
 | Recca | Reduces background flickering | [Link](https://www.romhacking.net/hacks/6389/) | [Download](/wiki/files/Recca.ips) |
 
-### Reimplementation [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=4 "Edit section: Reimplementation") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=4 "Edit section: Reimplementation")]
+### Reimplementation 
 
 This section lists patches that restore game functionality originally implemented via unemulated system or game add-on hardware. Games that require the patch to be fully-compatible with the FunKey S are highlighted in green. As the patches for _Boktai 2_, _Boktai 3_, and _Kirby Tilt 'n' Tumble_ implement button combinations that interfere with FunKey S system shortcuts, they also require [adapted controls](/wiki/List_of_games_with_compatibility_issues#Games_that_require_adapted_controls "List of games with compatibility issues") to be fully-compatible. Should your backup of either of the first two Boktai games not be the retail North American versions, patch files for other variants of those games are available [here](/wiki/List_of_games_with_compatibility_issues#Games_that_require_patching "List of games with compatibility issues"). Should the _WarioWare: Twisted!_ patch not function properly with your backup of the game, ensure that your game's CRC32 checksum value matches the one listed [here](/wiki/List_of_games_with_compatibility_issues#Games_with_version-specific_glitches "List of games with compatibility issues"). Lastly, while the patches for the Game Boy Color games below make the respective games believe they are being emulated on a Game Boy Advance to enable additional features, as they are still Game Boy Color games, they should be placed into the _Game Boy Color_ folder of the FunKey S. For _Yoshi's Safari_, it is recommended to center-align the cursor after returning to the overworld map to facilitate level selection.
 
@@ -66,7 +63,7 @@ This section lists patches that restore game functionality originally implemente
 | Yoshi Topsy-Turvy | GBA | Adds in-game replacement for the accelerometer | [Link](https://gbatemp.net/threads/gba-no-tilt-patches-for-ds-users.584128/) | [Download](/wiki/files/Yoshi_Topsy_Turvy_%28US%29.ips) |
 | Yoshi's Safari | SNES | Maps SuperScope inputs to regular, turbo-enabled SNES controller: D-Pad → Aim B → Jump/Skip Y → Fast aiming X → Faster aiming A → Fastest aiming L → Center-align aim R → Shoot | [Link](https://www.romhacking.net/hacks/6659/) | [Download](/wiki/files/Yoshi%27s_Safari.ips) |
 
-### Translation [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=5 "Edit section: Translation") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=5 "Edit section: Translation")]
+### Translation 
 
 This section lists game patches that translate games without English translations into English for improved gameplay accessibility. As this section is only intended to include the most notable of translation patches, users searching for ones not listed here should check the [romhacking.net translation index](https://www.romhacking.net/translations/). As many games on this list are for the SNES, a column listing whether or not each patch is intended for use with a headered ROM has been included. Should your game backup have or not have a header when the opposite is required, [this online patching tool](https://www.marcrobledo.com/RomPatcher.js/) can be used instead of _Floating IPS_ or _MultiPatch_ to both fix the header issue and apply the patch.
 
@@ -131,9 +128,9 @@ The following are notes for several of the games listed below:
 | Wrecking Crew '98 | [Link](https://www.romhacking.net/translations/3214/) | [Download](/wiki/files/Wrecking_Crew_%2798.ips) |
 | Yu-Gi-Oh! Duel Monsters | GB | _N/A_ | [Link](https://www.romhacking.net/translations/6337/) | [Download](/wiki/files/Yu-Gi-Oh%21_Duel_Monsters.ips) |
 
-## Adjustment hacks [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=6 "Edit section: Adjustment hacks") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=6 "Edit section: Adjustment hacks")]
+## Adjustment hacks 
 
-### Saturation [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=7 "Edit section: Saturation") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=7 "Edit section: Saturation")]
+### Saturation 
 
 This section lists game patches that adjust the saturation of color palettes. As initial Game Boy Advance games were developed with the original, non-backlit Game Boy Advance in mind, many of them had their colors oversaturated to improve visibility. With visibility not an issue for the backlit Game Boy Advance SP, game palettes were now brighter than intended, a difference particularly noticeable when comparing games ported from prior systems, such as _Super Mario World: Super Mario Advance 2_. While most of the following patches decrease saturation for backlit screens such as that of the FunKey S, several instead increase saturation to fix games with overly dark palettes.
 
@@ -176,7 +173,7 @@ The following are notes for several of the games listed below:
 | Yoshi's Island: Super Mario Advance 3 | GBA | Decrease | [Link](https://www.romhacking.net/hacks/2597/) | [Download](/wiki/files/Yoshi%27s_Island_-_Super_Mario_Advance_3_%28US%29.ips) |
 | EU | [Download](/wiki/files/Yoshi%27s_Island_-_Super_Mario_Advance_3_%28EU%29.ips) |
 
-### Speedup [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=8 "Edit section: Speedup") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=8 "Edit section: Speedup")]
+### Speedup 
 
 This section lists game patches that reduce or eliminate slowdown in games, resulting in a more consistent frame rate. If the English [translation patch](#translation-hacks) for _ [Mickey & Donald: Magical Quest 3](https://en.wikipedia.org/wiki/Disney%27s_Magical_Quest#Disney's_Magical_Quest_3_Starring_Mickey_&_Donald "w:Disney's Magical Quest")_ is also used, it must be applied after the FastROM patch.
 
@@ -205,7 +202,7 @@ This section lists game patches that reduce or eliminate slowdown in games, resu
 | The Magical Quest Starring Mickey Mouse | US | FastROM | [Link](https://www.romhacking.net/hacks/6640/) | [Download](/wiki/files/The_Magical_Quest_Starring_Mickey_Mouse.ips) |
 | U.N. Squadron | [Link](https://github.com/VitorVilela7/fastrom) | [Download](/wiki/files/U.N._Squadron.ips) |
 
-### Saving [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=9 "Edit section: Saving") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=9 "Edit section: Saving")]
+### Saving 
 
 This section lists game patches that implement in-game saving into games without the feature to allow for the transfer of save data from the FunKey S to a wider variety of third-party emulators. Due to the patched-in nature of these in-game save implementations, however, methods of saving and loading, as listed below, are often unconventional, and may have varying compatibility between emulators. To avoid overwriting save data in case pre-existing save data is accidentally not loaded by the user, several of the autosave implementations do not begin to save gameplay progress until a game's second level. Games highlighted in yellow use SRAM to save high scores, rather than gameplay progress, while games highlighted in orange are for the Master System, whose emulation on the FunKey S currently does not support battery-based saving.
 
@@ -254,7 +251,7 @@ The following are notes for several of the games listed below:
 | Garfield: Caught in the Act | Genesis | After Game Over | Set _Music_ to <u>15</u> in the _Options_ menu and press <u>A</u> on the subsequent password menu | [Link](https://www.romhacking.net/hacks/6173/) | [Download](/wiki/files/Garfield_-_Caught_in_the_Act.ips) |
 | Gargoyles | Finish level | Exit the _Game Options_ menu after setting _Sound Test_ to <u>010</u> | [Link](https://www.romhacking.net/hacks/6090/) | [Download](/wiki/files/Gargoyles.ips) |
 | Gauntlet IV | Upon returning to main hub | Go to the _Options_ menu of _Quest Mode_, press <u>Right</u> twice with _Language_ highlighted, and press <u>Start + A</u> after selecting _Continue_ | [Link](https://www.romhacking.net/hacks/6178/) | [Download](/wiki/files/Gauntlet_IV.ips) |
-| Golvellius: Valley of Doom | Master System | Enter a "Password House | Select _LAST GAME CONTINUE_ at the Main Menu | [Link](https://www.romhacking.net/hacks/4933/) | [Download](/wiki/files/Golvellius_-_Valley_of_Doom.ips) |
+| Golvellius: Valley of Doom | Master System | Enter a.md "Password House | Select _LAST GAME CONTINUE_ at the Main Menu | [Link](https://www.romhacking.net/hacks/4933/) | [Download](/wiki/files/Golvellius_-_Valley_of_Doom.ips) |
 | Goof Troop | SNES | Finish level | Highlight _Sound_ in the options menu, press <u>Left</u> or <u>Right</u>, and start the game as normal | [Link](https://www.romhacking.net/hacks/6580/) | [Download](/wiki/files/Goof_Troop.ips) |
 | Guardian Legend | NES | Press <u>A</u> in _Blue Lander_ room without sub-weapon selected | Press <u>A</u> to select _END_ in the password menu | [Link](https://www.romhacking.net/hacks/3734/) | [Download](/wiki/files/Guardian_Legend.ips) |
 | Hoshi Wo Miru Hito | Three save slots | [Link](https://www.romhacking.net/hacks/304/) | [Download](/wiki/files/Hoshi_Wo_Miru_Hito.ips) |
@@ -314,11 +311,11 @@ The following are notes for several of the games listed below:
 | Xexyz | NES | Press <u>Select</u> on the _Game Over_ screen | Press <u>Start</u> in the password menu | [Link](https://www.romhacking.net/hacks/3817/) | [Download](/wiki/files/Xexyz.ips) |
 | Zombies Ate My Neighbors | Genesis | When going from one numbered level to the next | [Link](https://www.romhacking.net/hacks/5695/) | [Download](/wiki/files/Zombies_Ate_My_Neighbors.ips) |
 
-## Improvement hacks [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=10 "Edit section: Improvement hacks") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=10 "Edit section: Improvement hacks")]
+## Improvement hacks 
 
 This section lists game patches that modify a game to improve a certain aspect of it. For games with multiple patch variants, select the patch that you prefer, as they are otherwise equivalent. To improve navigation, patches have been divided into sections based on whether they alter audio, gameplay, and/or graphics, with notes regarding several games listed above their respective tables. Patches with adjustments in multiple of the aforementioned categories are sorted into the gameplay section to maintain consistency. Note that patches adjust the saturation of graphics, but do not otherwise alter or replace them, are instead listed in the [saturation hack section](#saturation-hacks) below.
 
-### Audio [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=11 "Edit section: Audio") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=11 "Edit section: Audio")]
+### Audio 
 
 * The audio improvement patches for _Breath of Fire_ and _Breath of Fire II_ are compatible with the region-equivalent desaturation patches for those games [listed above](#desaturation-hacks).
 * The audio improvement patches for _Final Fantasy VI Advance_ are compatible with the region-equivalent desaturation patches [listed adbove](#desaturation-hacks). As noted on the wiki's [compatibility issue list](/wiki/List_of_games_with_compatibility_issues#Gameswith_region-specific_glitches "List of games with compatibility issues"), however, the North American version of the game cannot be saved via any method with the default Game Boy Advance emulator of the FunKey S. It is therefore recommended that either that version be played in one of the alternative [third-party emulators](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") or that the European version of the game be played instead.
@@ -351,7 +348,7 @@ This section lists game patches that modify a game to improve a certain aspect o
 | Willow | EU | NES | Corrects the pitch of high-pitched notes | [Link](https://www.romhacking.net/hacks/6767/) | [Download](/wiki/files/Willow_%28EU%29.ips) |
 | JP/US | [Download](/wiki/files/Willow_%28JP_%26_US%29.ips) |
 
-### Graphics [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=12 "Edit section: Graphics") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=12 "Edit section: Graphics")]
+### Graphics 
 
 * As _Faceball 2000_ is [incompatible](/wiki/List_of_games_with_compatibility_issues#Games_that_require_improved_emulation "List of games with compatibility issues") with the default Game Boy emulator, the ROM hack for it is as well. Of the two variants of this hack, both run slower than normal in the [third-party](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications")_mGBA_ emulator, while the _GDMA_ variant has moderate graphical glitches in the _Gambatte_ emulator.
 * The colorization patch listed below for _Super Mario Land_ is compatible with its [sound improvement patch](#audio).
@@ -375,7 +372,7 @@ This section lists game patches that modify a game to improve a certain aspect o
 | Snoopy's Magic Show | JP | GB | Full colorization | [Link](https://www.romhacking.net/hacks/6657/) | [Download](/wiki/files/Snoopy%27s_Magic_Show.ips) |
 | Super Mario Land | Full colorization Modernized graphics [SRAM saving](#sram-hacks) | [Link](https://www.romhacking.net/hacks/4477/) | [Download](/wiki/files/Super_Mario_Land_%28DX%29.ips) |
 
-### Gameplay [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=13 "Edit section: Gameplay") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=13 "Edit section: Gameplay")]
+### Gameplay 
 
 * As the _IPS_ patch format is incompatible with games with file sizes above 16 megabytes, such as _Fire Emblem: The Blazing Blade_ and _Fire Emblem: The Sacred Stones_, the _BPS_ patch format had to be used instead. Both _Floating IPS_ and _MultiPatch_ are compatible with this patch file format as well.
 * If you intend to also make use of the [audio improvement patch](#audio) for _Super Mario Land 2_, be sure to select the version of that patch compatible with the gameplay improvement patch listed below.
@@ -411,9 +408,9 @@ This section lists game patches that modify a game to improve a certain aspect o
 | Time Lord | NES | Removes potentially hazardous flashing screen effect | [Link](https://www.romhacking.net/hacks/6673/) | [Download](/wiki/files/Time_Lord.ips) |
 | Ultimate Mortal Kombat 3 | US | SNES | Implements: • Sound effects and _Rain_ fatality from _Mortal Kombat Trilogy_ •_Sheeva_ as a playable character • 3x3 game mode • Black bar removal for several stages • Smoke ability for _Shang Tsung_ (With X: Left → Left → Up) | [Link](https://www.romhacking.net/hacks/5025/) | [Download](/wiki/files/Ultimate_Mortal_Kombat_3_%28Improvement%29.ips) |
 
-## Other hacks [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=14 "Edit section: Other hacks") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=14 "Edit section: Other hacks")]
+## Other hacks 
 
-### Merger [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=15 "Edit section: Merger") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=15 "Edit section: Merger")]
+### Merger 
 
 This section lists game patches that merge similar games into one as a means of organizing one's game library. The following are notes for several of the games listed below:
 
@@ -436,7 +433,7 @@ This section lists game patches that merge similar games into one as a means of 
 | Super Mario Bros. 2 |
 | Super Mario Bros. 3 |
 
-### Complete [[edit](/w/index.php?title=List_of_recommended_ROM_hacks&veaction=edit&section=16 "Edit section: Complete") | [edit source](/w/index.php?title=List_of_recommended_ROM_hacks&action=edit&section=16 "Edit section: Complete")]
+### Complete 
 
 This section lists game patches that modify a game to an extent that essentially turns it into an entirely new game.
 

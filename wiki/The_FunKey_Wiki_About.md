@@ -1,8 +1,5 @@
 # Main Page
 
-From The FunKey Wiki
-
-
 
 ***
 
@@ -10,12 +7,12 @@ Welcome to The FunKey Wiki, the host of information, tutorials, and user-generat
 
 ***
 
-[The FunKey Times](/wiki/The_FunKey_Times "The FunKey Times")
+[The FunKey Times](/wiki/The_FunKey_Times.md "The FunKey Times")
 
-[Third-Party Apps](/wiki/Available_third-party_software "Available third-party software")
+[Third-Party Apps](/wiki/Available_third-party_software.md "Available third-party software")
 
-[Knowledge Center](/wiki/FunKey_Wiki_Knowledge_Center "FunKey Wiki")
-[The FunKey Times](/wiki/The_FunKey_Times "The FunKey Times")
+[Knowledge Center](/wiki/FunKey_Wiki_Knowledge_Center.md "FunKey Wiki")
+[The FunKey Times](/wiki/The_FunKey_Times.md "The FunKey Times")
 
 
 **Latest Update**
@@ -38,9 +35,9 @@ The FunKey Team
 
 [ the FunKey Wiki?](/wiki/FunKey_Wiki_Knowledge_Center#what_is_the_purpose_of_this_wiki "FunKey Wiki Knowledge Center")
 
-[ the Keymu?](/wiki/Keymu "Keymu")
+[ the Keymu?](/wiki/Keymu.md "Keymu")
 
-[ the FunKey Zero?](/wiki/FunKey_Zero "FunKey Zero")
+[ the FunKey Zero?](/wiki/FunKey_Zero.md "FunKey Zero")
 
 **<u>Where can I</u>**<br>
 **<u>find...</u>**
@@ -51,7 +48,7 @@ The FunKey Team
 
 [ review videos?](/wiki/The_FunKey_Times#Media_Reviews "The FunKey Times")
 
-[ gameplay videos?](/wiki/List_of_games_with_FunKey_S_gameplay_footage "List of games with FunKey S gameplay footage")
+[ gameplay videos?](/wiki/List_of_games_with_FunKey_S_gameplay_footage.md "List of games with FunKey S gameplay footage")
 
 **<u>Who...</u>**
 
@@ -79,9 +76,9 @@ The FunKey Team
 
 [ the FunKey Wiki?](/wiki/FunKey_Wiki_Knowledge_Center#what_is_the_purpose_of_this_wiki "FunKey Wiki Knowledge Center")
 
-[ the Keymu?](/wiki/Keymu "Keymu")
+[ the Keymu?](/wiki/Keymu.md "Keymu")
 
-[ the FunKey Zero?](/wiki/FunKey_Zero "FunKey Zero")
+[ the FunKey Zero?](/wiki/FunKey_Zero.md "FunKey Zero")
 
 **<u>Where can I find...</u>**
 
@@ -91,7 +88,7 @@ The FunKey Team
 
 [ review videos?](/wiki/The_FunKey_Times#Media_Reviews "The FunKey Times")
 
-[ gameplay videos?](/wiki/List_of_games_with_FunKey_S_gameplay_footage "List of games with FunKey S gameplay footage")
+[ gameplay videos?](/wiki/List_of_games_with_FunKey_S_gameplay_footage.md "List of games with FunKey S gameplay footage")
 
 **<u>Who...</u>**
 
@@ -122,9 +119,9 @@ The FunKey Team
 **<u>Where can I</u>**<br>
 **<u>download...</u>**
 
-[ additional launcher themes?](/wiki/List_of_third-party_launcher_themes "List of third-party launcher themes")
+[ additional launcher themes?](/wiki/List_of_third-party_launcher_themes.md "List of third-party launcher themes")
 
-[ additional programs?](/wiki/List_of_third-party_OPK_applications "List of third-party OPK applications")
+[ additional programs?](/wiki/List_of_third-party_OPK_applications.md "List of third-party OPK applications")
 
 [ legally accessible ROMs?](/wiki/FunKey_Wiki_Knowledge_Center#where_can_i_find_additional_software_for_the_funkey_s "FunKey Wiki Knowledge Center")
 
@@ -151,9 +148,9 @@ The FunKey Team
 
 [ device schematics?](/wiki/FunKey_Wiki_Knowledge_Center#where_can_i_find_funkey_s_device_schematics_and_3d_files "FunKey Wiki Knowledge Center")
 
-[ additional launcher themes?](/wiki/List_of_third-party_launcher_themes "List of third-party launcher themes")
+[ additional launcher themes?](/wiki/List_of_third-party_launcher_themes.md "List of third-party launcher themes")
 
-[ additional programs?](/wiki/List_of_third-party_OPK_applications "List of third-party OPK applications")
+[ additional programs?](/wiki/List_of_third-party_OPK_applications.md "List of third-party OPK applications")
 
 [ legally accessible ROMs?](/wiki/FunKey_Wiki_Knowledge_Center#where_can_i_find_additional_software_for_the_funkey_s "FunKey Wiki Knowledge Center")
 

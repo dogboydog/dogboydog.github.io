@@ -1,10 +1,7 @@
 # FunKey Speedrun Leaderboards
 
-From The FunKey Wiki
 
-
-
-This page lists speedruns that have been completed using the [FunKey S](/wiki/FunKey_S "FunKey S"). As long as the criteria listed below have been followed, any runner can add their own FunKey S speedruns to this page.
+This page lists speedruns that have been completed using the [FunKey S](/wiki/FunKey_S.md "FunKey S"). As long as the criteria listed below have been followed, any runner can add their own FunKey S speedruns to this page.
 
 ## Contents
 
@@ -13,7 +10,7 @@ This page lists speedruns that have been completed using the [FunKey S](/wiki/Fu
   - [2.1 Pokémon Mystery Dungeon: Red Rescue Team](#pokemon-mystery-dungeon-red-rescue-team)
     + [2.1.1 Any% (No Quicksaving or Wondermail)](#any%-no-quicksaving-or-wondermail)
 
-## Qualification criteria [[edit](/w/index.php?title=FunKey_Speedrun_Leaderboards&veaction=edit&section=1 "Edit section: Qualification criteria") | [edit source](/w/index.php?title=FunKey_Speedrun_Leaderboards&action=edit&section=1 "Edit section: Qualification criteria")]
+## Qualification criteria 
 
 All speedruns present on this page must:
 
@@ -23,13 +20,13 @@ All speedruns present on this page must:
 
 If a speedrun meets all of the criteria listed above, it may be listed on this page. The speedrunner may do this themselves or ask a wiki editor to do so for them. Elements such as commentary, on-screen timers, and aspect ratio are up to the preference of each runner. For the sake of record preservation, even if a runner beats a previous run of theirs in the same category, the original run(s) should remain listed on that category's leaderboard. Conversely, a runner should only post a run if it is or was at some point their personal best in the specified category.
 
-## Games [[edit](/w/index.php?title=FunKey_Speedrun_Leaderboards&veaction=edit&section=2 "Edit section: Games") | [edit source](/w/index.php?title=FunKey_Speedrun_Leaderboards&action=edit&section=2 "Edit section: Games")]
+## Games 
 
 This section lists games that have at least one recorded speedrun completed using the FunKey S. Each game has subsections that denote which category each speedrun qualifies under.
 
-### Pokémon Mystery Dungeon: Red Rescue Team [[edit](/w/index.php?title=FunKey_Speedrun_Leaderboards&veaction=edit&section=3 "Edit section: Pokémon Mystery Dungeon: Red Rescue Team") | [edit source](/w/index.php?title=FunKey_Speedrun_Leaderboards&action=edit&section=3 "Edit section: Pokémon Mystery Dungeon: Red Rescue Team")]
+### Pokémon Mystery Dungeon: Red Rescue Team 
 
-#### [Any% (No Quicksaving or Wondermail)](https://www.speedrun.com/pmdredblue#Any_No_QS_No_WM)[[edit](/w/index.php?title=FunKey_Speedrun_Leaderboards&veaction=edit&section=4 "Edit section: Any% (No Quicksaving or Wondermail)") | [edit source](/w/index.php?title=FunKey_Speedrun_Leaderboards&action=edit&section=4 "Edit section: Any% (No Quicksaving or Wondermail)")]
+#### [Any% (No Quicksaving or Wondermail)](https://www.speedrun.com/pmdredblue#Any_No_QS_No_WM)
 
 | Place | Runner | Time | Video |
 | 1st | CoolieCoolster | 3:42:42 | [Link](https://youtu.be/lactMkmo4vo) |

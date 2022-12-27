@@ -1,8 +1,5 @@
 # List of emulatable games (freeware)
 
-From The FunKey Wiki
-
-
 
 This article is a repository of links to homebrew and freeware games that are or will be playable on the FunKey S via emulation. Each supported system has its own section that contains a chart with that console's homebrew software. Currently, the systems supported by the FunKey S are, from oldest to newest: the NES, Master System, Sega Genesis, Game Boy, TurboGrafx-16, Atari Lynx, Game Gear, SNES, PS1, Game Boy Color, Neo Geo Pocket, and Game Boy Advance. While WonderSwan emulation is also possible on the FunKey, no completed homebrew or freeware games were found for the system. Additionally, a list for arcade games is present as well due to the confirmation of future support for arcade emulation on the FunKey S. While these lists have been compiled to include as many games as possible, they are not intended to be comprehensive lists of all unlicensed software available for the aforementioned systems, due to several [inclusion criteria](/wiki/Available_third-party_software#Inclusion_criteria "Available third-party software"). As more systems are made emulatable on the FunKey S, this article will grow to include homebrew game lists for those systems as well. Yellow-highlighted games listed below have been found to be incompatible with the default FunKey S emulators and should therefore be emulated via a [third-party emulator](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") instead.
 
@@ -25,7 +22,7 @@ This article is a repository of links to homebrew and freeware games that are or
   - [2.13 WonderSwan](#wonderswan)
   - [2.14 Game Boy Advance](#game-boy-advance)
 
-## List contents [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=1 "Edit section: List contents") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=1 "Edit section: List contents")]
+## List contents 
 
 Each game entry on a list has the game's name in the first column and a link to where the game can be downloaded in the second column. For games that are ports of or heavily inspired by another game, the original game will be listed in the "archetype" column, with that game's Wikipedia article linked if available. Games that have physical versions available for purchase are marked with a **¹** symbol, while game genres and box art (if available) are listed in subsequent columns. As the lists are inspected more thoroughly more data will be added to columns three through six, which are largely empty as of present.
 
@@ -47,7 +44,7 @@ This article currently lists **1106** freeware games available for the following
 | WonderSwan **0** |
 | GBA **325** |
 
-## Lists [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=2 "Edit section: Lists") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=2 "Edit section: Lists")]
+## Lists 
 
 [Arcade](/wiki/List_of_emulatable_games_(freeware)#Arcade_(not_yet_compatible) "List of emulatable games (freeware)")
 
@@ -105,7 +102,7 @@ This article currently lists **1106** freeware games available for the following
 
 [GBA](/wiki/List_of_emulatable_games_(freeware)#Game_Boy_Advance "List of emulatable games (freeware)")
 
-### Arcade (not yet compatible)[[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=3 "Edit section: Arcade (not yet compatible)") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=3 "Edit section: Arcade (not yet compatible)")]
+### Arcade (not yet compatible)
 
 This list currently includes 28 games. All were actual arcade games that were later released as free ROM downloads by their developers on the MAME website.
 
@@ -149,7 +146,7 @@ This list currently includes 28 games. All were actual arcade games that were la
 
 [Return to top of article](#top)
 
-### Nintendo Entertainment System [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=4 "Edit section: Nintendo Entertainment System") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=4 "Edit section: Nintendo Entertainment System")]
+### Nintendo Entertainment System 
 
 This list currently includes 186 games.
 
@@ -351,7 +348,7 @@ This list currently includes 186 games.
 
 [Return to top of article](#top)
 
-### Sega Master System [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=5 "Edit section: Sega Master System") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=5 "Edit section: Sega Master System")]
+### Sega Master System 
 
 This list currently includes 90 games.
 
@@ -457,7 +454,7 @@ This list currently includes 90 games.
 
 [Return to top of article](#top)
 
-### TurboGrafx-16 / PC Engine [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=6 "Edit section: TurboGrafx-16 / PC Engine") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=6 "Edit section: TurboGrafx-16 / PC Engine")]
+### TurboGrafx-16 / PC Engine 
 
 This list currently includes 14 games.
 
@@ -487,7 +484,7 @@ This list currently includes 14 games.
 
 [Return to top of article](#top)
 
-### Sega Genesis / Sega Mega Drive [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=7 "Edit section: Sega Genesis / Sega Mega Drive") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=7 "Edit section: Sega Genesis / Sega Mega Drive")]
+### Sega Genesis / Sega Mega Drive 
 
 This list currently includes 82 games.
 
@@ -585,7 +582,7 @@ This list currently includes 82 games.
 
 [Return to top of article](#top)
 
-### Game Boy [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=8 "Edit section: Game Boy") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=8 "Edit section: Game Boy")]
+### Game Boy 
 
 This list currently includes 161 games.
 
@@ -762,7 +759,7 @@ This list currently includes 161 games.
 
 [Return to top of article](#top)
 
-### Atari Lynx [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=9 "Edit section: Atari Lynx") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=9 "Edit section: Atari Lynx")]
+### Atari Lynx 
 
 This list currently includes 68 games.
 
@@ -846,7 +843,7 @@ This list currently includes 68 games.
 
 [Return to top of article](#top)
 
-### Sega Game Gear [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=10 "Edit section: Sega Game Gear") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=10 "Edit section: Sega Game Gear")]
+### Sega Game Gear 
 
 This list currently includes 12 games.
 
@@ -874,7 +871,7 @@ This list currently includes 12 games.
 
 [Return to top of article](#top)
 
-### Super Nintendo Entertainment System [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=11 "Edit section: Super Nintendo Entertainment System") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=11 "Edit section: Super Nintendo Entertainment System")]
+### Super Nintendo Entertainment System 
 
 This list currently includes 28 games.
 
@@ -918,7 +915,7 @@ This list currently includes 28 games.
 
 [Return to top of article](#top)
 
-### PlayStation [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=12 "Edit section: PlayStation") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=12 "Edit section: PlayStation")]
+### PlayStation 
 
 This list currently includes 3 games.
 
@@ -937,7 +934,7 @@ This list currently includes 3 games.
 
 [Return to top of article](#top)
 
-### Game Boy Color [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=13 "Edit section: Game Boy Color") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=13 "Edit section: Game Boy Color")]
+### Game Boy Color 
 
 This list currently includes 91 games.
 
@@ -1044,7 +1041,7 @@ This list currently includes 91 games.
 
 [Return to top of article](#top)
 
-### Neo Geo Pocket [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=14 "Edit section: Neo Geo Pocket") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=14 "Edit section: Neo Geo Pocket")]
+### Neo Geo Pocket 
 
 This list currently includes 18 games.
 
@@ -1078,11 +1075,11 @@ This list currently includes 18 games.
 
 [Return to top of article](#top)
 
-### WonderSwan [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=15 "Edit section: WonderSwan") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=15 "Edit section: WonderSwan")]
+### WonderSwan 
 
 No homebrew or freeware games matching the specified criteria have been found for the Bandai WonderSwan or WonderSwan Color.
 
-### Game Boy Advance [[edit](/w/index.php?title=List_of_emulatable_games_(freeware)&veaction=edit&section=16 "Edit section: Game Boy Advance") | [edit source](/w/index.php?title=List_of_emulatable_games_(freeware)&action=edit&section=16 "Edit section: Game Boy Advance")]
+### Game Boy Advance 
 
 This list currently includes 325 games. As the games highlighted in yellow below are incompatible with the default GBA emulator of the FunKey S, a [third-party emulator](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") if required for their emulation.
 

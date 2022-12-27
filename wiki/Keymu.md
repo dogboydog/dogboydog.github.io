@@ -1,12 +1,9 @@
 # Keymu
 
-From The FunKey Wiki
-
-
 
 The Keymu
 
-The **Keymu** was a keychain emulator console created by Vincent and Michel of the FunKey Team in 2017. As with the later [FunKey S](/wiki/FunKey_S "FunKey S") system, the Keymu had a clamshell design based on the [GBA SP](https://en.wikipedia.org/wiki/Game_Boy_Advance_SP "w:Game Boy Advance SP"), and was able to emulate games from the NES, SNES, and the entire [Game Boy system family](https://en.wikipedia.org/wiki/Game_Boy_family "w:Game Boy family"). While it was never sold commercially, the part list, information, and diagrams needed to build the device were made available to the public so that others could create their own versions.
+The **Keymu** was a keychain emulator console created by Vincent and Michel of the FunKey Team in 2017. As with the later [FunKey S](/wiki/FunKey_S.md "FunKey S") system, the Keymu had a clamshell design based on the [GBA SP](https://en.wikipedia.org/wiki/Game_Boy_Advance_SP "w:Game Boy Advance SP"), and was able to emulate games from the NES, SNES, and the entire [Game Boy system family](https://en.wikipedia.org/wiki/Game_Boy_family "w:Game Boy family"). While it was never sold commercially, the part list, information, and diagrams needed to build the device were made available to the public so that others could create their own versions.
 
 ## Contents
 
@@ -19,7 +16,7 @@ The **Keymu** was a keychain emulator console created by Vincent and Michel of t
 
 The Keymu Keymu blueprint
 
-Inspired by the initial reveal of the [PocketSprite](https://pocketsprite.com/) in 2016, the duo worked on creating a similar keychain-sized emulator system that would have a clamshell design. Resembling the larger Game Boy Advance SP just as the PocketSprite had resembled the Game Boy Color, the Keymu was first shown off in a video released in June 2017. Due to positive reception to their device from viewers and several media outlets, the FunKey Team decided to improve the Keymu to turn it into a commercially viable product. Following the creation of the [FunKey Zero](/wiki/FunKey_Zero "FunKey Zero") prototype, a keychain system that resembled the original Game Boy Advance, the team created the [FunKey S](/wiki/FunKey_S "FunKey S"), a slimmer and more powerful version of the original Keymu system.
+Inspired by the initial reveal of the [PocketSprite](https://pocketsprite.com/) in 2016, the duo worked on creating a similar keychain-sized emulator system that would have a clamshell design. Resembling the larger Game Boy Advance SP just as the PocketSprite had resembled the Game Boy Color, the Keymu was first shown off in a video released in June 2017. Due to positive reception to their device from viewers and several media outlets, the FunKey Team decided to improve the Keymu to turn it into a commercially viable product. Following the creation of the [FunKey Zero](/wiki/FunKey_Zero.md "FunKey Zero") prototype, a keychain system that resembled the original Game Boy Advance, the team created the [FunKey S](/wiki/FunKey_S.md "FunKey S"), a slimmer and more powerful version of the original Keymu system.
 
 ## Specifications
 

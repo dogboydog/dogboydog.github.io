@@ -1,8 +1,5 @@
 # List of third-party launcher themes
 
-From The FunKey Wiki
-
-
 
 This article lists third-party RetroFE themes and Gmenu2x skins. While the RetroFE and Gmenu2x launchers already have the Classic, EmuStation, Flat, FunKey, RetroDex, TFT and Default, GCW, ScanlinesBlue, ScalinesRed default themes, respectively, users seeking to customize their devices further may do so using one of the additional theme options below. Should you need to re-download the EmuStation or RetroDex RetroFE themes, their files are located [here](/wiki/files/RetroDex.zip), respectively.
 
@@ -45,7 +42,7 @@ If a significant revision is made to one of the existing themes, it will be list
 
 #### RetroRoom Themes Optional Modification
 
-As the [FunKey S](/wiki/FunKey_S "FunKey S") is capable of emulating both the Sega Genesis (Mega Drive) and it's add-ons, an alternative icon of the console including the add-ons can be downloaded [here](/wiki/File:Device_W240.png "File:Device W240.png") for use with any of the three _RetroRoom_ themes listed above. To apply the alternative icon to one of the themes, simply extract the theme folder, navigate to the Sega Genesis _system_artwork_ subfolder (ex. /Downloads/RetroRoomCovers/collections/Sega Genesis/system_artwork), and replace the existing _device_W240.png_ file with the alternative one. Once the image is replaced, the new icon will be visible when viewing the theme on the FunKey S.
+As the [FunKey S](/wiki/FunKey_S.md "FunKey S") is capable of emulating both the Sega Genesis (Mega Drive) and it's add-ons, an alternative icon of the console including the add-ons can be downloaded [here](/wiki/File:Device_W240.png.md "File:Device W240.png") for use with any of the three _RetroRoom_ themes listed above. To apply the alternative icon to one of the themes, simply extract the theme folder, navigate to the Sega Genesis _system_artwork_ subfolder (ex. /Downloads/RetroRoomCovers/collections/Sega Genesis/system_artwork), and replace the existing _device_W240.png_ file with the alternative one. Once the image is replaced, the new icon will be visible when viewing the theme on the FunKey S.
 
 ## Gmenu2x
 

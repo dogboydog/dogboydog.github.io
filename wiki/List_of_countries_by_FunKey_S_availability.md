@@ -1,18 +1,15 @@
 # List of countries by FunKey S availability
 
-From The FunKey Wiki
-
-
 
 The purpose of this article is to inform users of the varying cost associated with shipping the FunKey S to different countries. While the price of the FunKey S itself, as listed on the [FunKey Project store page](https://funkey-project.myshopify.com/products/funkey-s), is €65 (~US$77) globally, the variation of shipping costs and and taxes between countries may result in a user in one country paying more for the device than a user in another country. Note that orders containing multiple devices receive discounted per-unit shipping costs, with the lowest per-unit shipping cost applied to orders with five or more devices. As a European Union mandate states that the value of such shipments to its member states (other than France in this case) cannot exceed €150 (~US$177.75), however, only users in France or nations without VAT values in the first table below can order multiple devices at a time to receive discounted per-unit shipping costs.
 
-## Lists of countries [[edit](/w/index.php?title=List_of_countries_by_FunKey_S_availability&veaction=edit&section=1 "Edit section: Lists of countries") | [edit source](/w/index.php?title=List_of_countries_by_FunKey_S_availability&action=edit&section=1 "Edit section: Lists of countries")]
+## Lists of countries 
 
 Availability map
 
 This section is split into two lists; countries that the FunKey S can or cannot be shipped to. Listed alongside the countries that the FunKey S can currently be shipped to are the associated shipping fees, VAT amount (if applicable), and the overall price in Euros and (converted and rounded to the nearest 25¢) U.S. Dollars. The list of countries that the FunKey S cannot be shipped to also includes several semi-autonomous territories of countries that the FunKey S can otherwise be shipped to. If further research indicates that the FunKey S can be shipped to one or more of these territories, the lists below will be modified accordingly.
 
-### Available [[edit](/w/index.php?title=List_of_countries_by_FunKey_S_availability&veaction=edit&section=2 "Edit section: Available") | [edit source](/w/index.php?title=List_of_countries_by_FunKey_S_availability&action=edit&section=2 "Edit section: Available")]
+### Available 
 
 | Country | Shipping Fee (€) | VAT (€) | Overall Price |
 |  € | US$ |
@@ -100,7 +97,7 @@ This section is split into two lists; countries that the FunKey S can or cannot 
 |  €37 Shipping Fee |
 | U.S. Territories | Puerto Rico | 37 | N/A | 102 | 120.50 |
 
-### Unavailable [[edit](/w/index.php?title=List_of_countries_by_FunKey_S_availability&veaction=edit&section=3 "Edit section: Unavailable") | [edit source](/w/index.php?title=List_of_countries_by_FunKey_S_availability&action=edit&section=3 "Edit section: Unavailable")]
+### Unavailable 
 
 | Continent | Country |
 | Africa | Algeria |

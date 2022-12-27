@@ -1,10 +1,7 @@
 # Available third-party software
 
-From The FunKey Wiki
 
-
-
-This article is a compilation of different lists of software available for FunKey S users. For direct access to the list articles, use the following wikilinks: [third-party OPK applications](/wiki/List_of_third-party_OPK_applications "List of third-party OPK applications"), [emulatable freeware games](/wiki/List_of_emulatable_games_(freeware) "List of emulatable games (freeware)"), [emulatable commercial games](/wiki/List_of_emulatable_games_(commercial) "List of emulatable games (commercial)"), or [emulatable utilities](/wiki/List_of_emulatable_utilities "List of emulatable utilities"). This page also hosts this wiki's inclusion criteria that define which types of programs are and are not included in the linked-to lists. As the default emulators of the FunKey S are not perfect, users interested in the device's out of the box incompatible games should consult [this list](/wiki/List_of_games_with_compatibility_issues#Incompatible_games "List of games with compatibility issues").
+This article is a compilation of different lists of software available for FunKey S users. For direct access to the list articles, use the following wikilinks: [third-party OPK applications](/wiki/List_of_third-party_OPK_applications.md "List of third-party OPK applications"), [emulatable freeware games](/wiki/List_of_emulatable_games_(freeware).md "List of emulatable games (freeware)"), [emulatable commercial games](/wiki/List_of_emulatable_games_(commercial).md "List of emulatable games (commercial)"), or [emulatable utilities](/wiki/List_of_emulatable_utilities.md "List of emulatable utilities"). This page also hosts this wiki's inclusion criteria that define which types of programs are and are not included in the linked-to lists. As the default emulators of the FunKey S are not perfect, users interested in the device's out of the box incompatible games should consult [this list](/wiki/List_of_games_with_compatibility_issues#Incompatible_games "List of games with compatibility issues").
 
 ## Contents
 
@@ -15,7 +12,7 @@ This article is a compilation of different lists of software available for FunKe
   - [4.1 Games](#games)
   - [4.2 Utilities](#utilities)
 
-## Inclusion criteria [[edit](/w/index.php?title=Available_third-party_software&veaction=edit&section=1 "Edit section: Inclusion criteria") | [edit source](/w/index.php?title=Available_third-party_software&action=edit&section=1 "Edit section: Inclusion criteria")]
+## Inclusion criteria 
 
 To narrow the scope of these lists, several criteria have been defined by the editors to exclude software that does not meet the standards necessary for inclusion. To be included, software must be:
 
@@ -27,19 +24,19 @@ To narrow the scope of these lists, several criteria have been defined by the ed
 * Fully-playable with one controller. If a game is multiplayer-only, it can only be included if it allows all players to share the same controller.
 * Complete or mostly complete, significant in scope, and fully-playable. While there is certainly room to interpret how "finished" a game is, all games on this list should be playable to completion by the average player in a minimum of fifteen minutes, be the definitive version of that game (no demos of commercial games), and contain no glitches that prevent completion and/or crash the game. For inclusion on this list, a game should also have most of its intended levels and mechanics implemented, as described by the game's developer. In terms of the minimum playtime requirement, high-score based puzzle and arcade-style games are less limited in this regard due to their essentially infinite replayability, though should still include score counters, life meters, and preferably (though not a requirement) high-score counters where applicable to be considered complete or near-complete. Due to the varying ways in which a game's completeness can be interpreted, this criterion may be applied differently on a case-by-case basis.
 
-As the games on these lists are more thoroughly tested, some games currently present may be removed if they are found to not meet the required criteria. If a listed game is found to no longer be sold by its publisher, it will be removed from this article. If several homebrew iterations of a game exist on a platform, such as Pong or Tetris, the best few among them should be kept and the rest removed, assuming that the latter do not have additional mechanics that make them unique. While new games will be added to the lists as they are found and tested, users may also suggest list modifications [here](/wiki/Talk:Available_third-party_software "Talk:Available third-party software").
+As the games on these lists are more thoroughly tested, some games currently present may be removed if they are found to not meet the required criteria. If a listed game is found to no longer be sold by its publisher, it will be removed from this article. If several homebrew iterations of a game exist on a platform, such as Pong or Tetris, the best few among them should be kept and the rest removed, assuming that the latter do not have additional mechanics that make them unique. While new games will be added to the lists as they are found and tested, users may also suggest list modifications [here](/wiki/Talk:Available_third-party_software.md "Talk:Available third-party software").
 
-## List contents [[edit](/w/index.php?title=Available_third-party_software&veaction=edit&section=2 "Edit section: List contents") | [edit source](/w/index.php?title=Available_third-party_software&action=edit&section=2 "Edit section: List contents")]
+## List contents 
 
 In categorizing FunKey S compatible software, there are several factors that can be used to differentiate one piece of software from another, including if its: running natively or emulated, freeware or commercial, a game or a utility, published in a collection or individually, and whether or not its ROM file is easily accessible for use in emulators, among other factors. To make navigating to specific types of software easier, all software has been divided into lists that are split between articles, based on several of the factors listed above.
 
 There are currently **41** third-party native programs, **1,357** emulatable digital freeware and commercial games, and **31** emulatable utilities listed.
 
-## Native programs (OPKs)[[edit](/w/index.php?title=Available_third-party_software&veaction=edit&section=3 "Edit section: Native programs (OPKs)") | [edit source](/w/index.php?title=Available_third-party_software&action=edit&section=3 "Edit section: Native programs (OPKs)")]
+## Native programs (OPKs)
 
-Due to the availability of development tools such as an [SDK](https://doc.funkey-project.com/developer_guide/tutorials/build_system/build_program_using_sdk/), several native programs have been created for or ported to the FunKey S. An extensive list of such programs can be found [here](/wiki/List_of_third-party_OPK_applications "List of third-party OPK applications"), with applications, emulators, and games being the primary program types.
+Due to the availability of development tools such as an [SDK](https://doc.funkey-project.com/developer_guide/tutorials/build_system/build_program_using_sdk/), several native programs have been created for or ported to the FunKey S. An extensive list of such programs can be found [here](/wiki/List_of_third-party_OPK_applications.md "List of third-party OPK applications"), with applications, emulators, and games being the primary program types.
 
-## Emulated systems [[edit](/w/index.php?title=Available_third-party_software&veaction=edit&section=4 "Edit section: Emulated systems") | [edit source](/w/index.php?title=Available_third-party_software&action=edit&section=4 "Edit section: Emulated systems")]
+## Emulated systems 
 
 The following list includes all of the systems that the FunKey S can currently emulate, in addition to systems that cannot currently be emulated on the device but whose future emulation has been confirmed by the FunKey Team (such systems are marked with a **¹** symbol):
 **
@@ -127,22 +124,22 @@ As it has been found that versions of the _MAME_ emulator (including _MESS_) oth
 
 **
 
-### Games [[edit](/w/index.php?title=Available_third-party_software&veaction=edit&section=5 "Edit section: Games") | [edit source](/w/index.php?title=Available_third-party_software&action=edit&section=5 "Edit section: Games")]
+### Games 
 
 This section links to lists of games for systems that the FunKey S can officially emulate. These games can either be freeware, meaning that they are free to download for use in emulators, or commercial, meaning that they are currently being sold in a digital or physical format. In order for a game to be emulated on the FunKey S, its ROM file must be placed within the folder of the system that is being emulated. While all freeware games listed have their ROM files available to download for free, the purchase of many of the commercial games listed does not grant the buyer direct access to the ROM files of those games. Despite this, for physical copies of games and some digital game collections, there are third-party tools available to allow users to extract the ROMs of the games that they purchased, so such tools will be listed where available.
 
-[ Freeware games](/wiki/List_of_emulatable_games_(freeware) "List of emulatable games (freeware)")
+[ Freeware games](/wiki/List_of_emulatable_games_(freeware).md "List of emulatable games (freeware)")
 
-[ Commercial games](/wiki/List_of_emulatable_games_(commercial) "List of emulatable games (commercial)")
+[ Commercial games](/wiki/List_of_emulatable_games_(commercial).md "List of emulatable games (commercial)")
 
-[ Freeware games](/wiki/List_of_emulatable_games_(freeware) "List of emulatable games (freeware)")
+[ Freeware games](/wiki/List_of_emulatable_games_(freeware).md "List of emulatable games (freeware)")
 
-[Commercial games](/wiki/List_of_emulatable_games_(commercial) "List of emulatable games (commercial)")
+[Commercial games](/wiki/List_of_emulatable_games_(commercial).md "List of emulatable games (commercial)")
 
-### Utilities [[edit](/w/index.php?title=Available_third-party_software&veaction=edit&section=6 "Edit section: Utilities") | [edit source](/w/index.php?title=Available_third-party_software&action=edit&section=6 "Edit section: Utilities")]
+### Utilities 
 
 This section links to a list of utilities that can be emulated on the FunKey S. To make searching for certain tools easier, utilities are divided by type rather than by platform, so each listing also lists which platform that utility is for. Listed utilities include, but are not limited to, calculators, eBook readers, emulators, and music players.
 
-[ Utilities](/wiki/List_of_emulatable_utilities "List of emulatable utilities")
+[ Utilities](/wiki/List_of_emulatable_utilities.md "List of emulatable utilities")
 
-[ Utilities](/wiki/List_of_emulatable_utilities "List of emulatable utilities")
+[ Utilities](/wiki/List_of_emulatable_utilities.md "List of emulatable utilities")

@@ -2,8 +2,6 @@
 
 From The FunKey Wiki
 
-
-
 This article lists various existing products that can be used in conjunction with the FunKey S for a variety of purposes. Note that as the information for the majority of products listed is sourced from the U.S. Amazon website, some products may be unavailable in other markets.
 
 ## Contents

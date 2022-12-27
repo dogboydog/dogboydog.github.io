@@ -1,8 +1,5 @@
 # The FunKey Times
 
-From The FunKey Wiki
-
-
 
 <br>
 

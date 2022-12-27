@@ -1,10 +1,7 @@
 # FunKey Community Poll
 
-From The FunKey Wiki
 
-
-
-The **FunKey Community Poll** is a series of weekly polls conducted by FunKey community members to record the opinions of the overall FunKey community on a range of topics related to the [FunKey S](/wiki/FunKey_S "FunKey S"). Polls are organized on the Google Forms platform and posted to the [FunKey Community Discord Server](/wiki/FunKey_Community_Discord_Server "FunKey Community Discord Server") to gather community responses.
+The **FunKey Community Poll** is a series of weekly polls conducted by FunKey community members to record the opinions of the overall FunKey community on a range of topics related to the [FunKey S](/wiki/FunKey_S.md "FunKey S"). Polls are organized on the Google Forms platform and posted to the [FunKey Community Discord Server](/wiki/FunKey_Community_Discord_Server.md "FunKey Community Discord Server") to gather community responses.
 
 ## Contents
 

@@ -1,8 +1,5 @@
 # List of utilities
 
-From The FunKey Wiki
-
-
 
 This article lists utilities that can be emulated or run natively on the FunKey S. Utilities are currently divided into five categories: Creative, Emulation, Media, Text, and Other. Creative utilities include drawing programs and music-making programs; emulation utilities allow the user to emulate a system not natively emulated on the FunKey S using a system that is; media utilities include photo viewers, music players, and video players; text utilities include text display software, eBook readers, and text editors; and other includes any utilities that cannot be categorized using one of the primary categories. There are currently **34** utilities listed, comprising 7 Creative utilities, 9 Emulation utilities, 8 Media utilities, 5 Text utilities, and 5 Other utilities. There are also **19** public domain eBooks listed in either (or both) Game Boy or Game Boy Advance ROM format. Game Boy Advance utilities that are highlighted in yellow are not emulated accurately in the default FunKey S GBA emulator, so should be used with the alternate [VBA Next](https://gitlab.com/gameblabla/gameblabla-releases/-/tree/master/opk/funkey) instead.
 
@@ -15,7 +12,7 @@ This article lists utilities that can be emulated or run natively on the FunKey 
 * [5 Text](#text)
 * [6 Other](#other)
 
-## Books [[edit](/w/index.php?title=List_of_utilities&veaction=edit&section=1 "Edit section: Books") | [edit source](/w/index.php?title=List_of_utilities&action=edit&section=1 "Edit section: Books")]
+## Books 
 
 | Name | GB | GBA | Icon |
 | A Christmas Carol |  | [Link](https://mega.nz/file/aMchhCwJ#zbCSSxliyw1fQ7jrccxDbchs9v9IoWhTW-O0IAhO7gA) |  |
@@ -38,7 +35,7 @@ This article lists utilities that can be emulated or run natively on the FunKey 
 | Twenty Thousand Leagues Under the Sea | [Link](https://mega.nz/file/2Zk3CYqL#hrJF7JRFinDPJRH5ReHrPMXCm6tb8KppB7-TcfhfM7E) | [Link](https://mega.nz/file/eI0Q1TzB#waB2w9n6zUXC8VtfoQbtYCtKNECOMrnG3zbTD255tGg) |  |
 | War of the Worlds | [Link](https://mega.nz/file/jFUxxY4D#d0xXXLoeTs9_Xwjgj2Hx0fLE0MtK--b1J-6-CNDrIiw) | [Link](https://mega.nz/file/ecVXyQ6Y#ZQmrFmx9jE-uvus1LdL2lCzsI7YG5rrbsZhoEZ6HjfE) |  |
 
-## Creative [[edit](/w/index.php?title=List_of_utilities&veaction=edit&section=2 "Edit section: Creative") | [edit source](/w/index.php?title=List_of_utilities&action=edit&section=2 "Edit section: Creative")]
+## Creative 
 
 | Name | Link | Utility | System | Notes | Icon |
 | BetterPaintBoy | [Link](https://www.reddit.com/r/Gameboy/comments/7rjh9n/home_brew_made_a_paint_for_dmg_link_to_the_rom/) | Drawing program | Game Boy |  |  |
@@ -49,7 +46,7 @@ This article lists utilities that can be emulated or run natively on the FunKey 
 | Paint or Draw | [Link](https://www.romhacking.net/homebrew/69/) | Drawing program | NES |  |  |
 | PSXPaint | [Link](https://www.psx-place.com/threads/psxpaint.11109/) | Drawing program | PS1 |  |  |
 
-## Emulation [[edit](/w/index.php?title=List_of_utilities&veaction=edit&section=3 "Edit section: Emulation") | [edit source](/w/index.php?title=List_of_utilities&action=edit&section=3 "Edit section: Emulation")]
+## Emulation 
 
 | Name | Link | Emulated System | Host System | Notes | Icon |
 | Cologne | [Link](https://www.zophar.net/consoles/gameboy/coleco/cologne.html) | ColecoVision | GBA |  |  |
@@ -62,7 +59,7 @@ This article lists utilities that can be emulated or run natively on the FunKey 
 | X Millennium Advance | [Link](https://www.zophar.net/consoles/gameboy/sharp-x1-turbo/x-millenuium-advance.html) | Sharp X1 Turbo | GBA |  |  |
 | ZXAdvance | [Link](https://www.zophar.net/consoles/gameboy/sinclair/zxadvance.html) | ZX Spectrum | GBA |  |  |
 
-## Media [[edit](/w/index.php?title=List_of_utilities&veaction=edit&section=4 "Edit section: Media") | [edit source](/w/index.php?title=List_of_utilities&action=edit&section=4 "Edit section: Media")]
+## Media 
 
 | Name | Link | Utility | Format | System | Notes | Icon |
 | GBA Jpeg Viewer | [Link](http://www.caimans.net/gba/) | Image viewer |  .JPEG | GBA |  |  |
@@ -74,7 +71,7 @@ This article lists utilities that can be emulated or run natively on the FunKey 
 | SlideShow Builder | [Link](http://www.gameboy-advance.net/emulated/gba_slide_show.htm) | Slideshow viewer | N/A | GBA |  |  |
 | VMP | [Link](https://gbatemp.net/download/mod-player-for-gba-vmp.32168/) | Music player |  .MOD | GBA |  |  |
 
-## Text [[edit](/w/index.php?title=List_of_utilities&veaction=edit&section=5 "Edit section: Text") | [edit source](/w/index.php?title=List_of_utilities&action=edit&section=5 "Edit section: Text")]
+## Text 
 
 | Name | Link | Utility | Format | System | Notes | Icon |
 | Dan Cotter's eBook Advance | [Link](https://gbatemp.net/download/dan-cotters-ebook-advance.22900/) | Text reader |  .TXT | GBA |  |  |
@@ -83,7 +80,7 @@ This article lists utilities that can be emulated or run natively on the FunKey 
 | GBA Notepad | [Link](https://www.gbadev.org/demos.php?showinfo=1378) | Text editor | N/A | GBA |  |  |
 | SCDBook | [Link](https://sourceforge.net/projects/scdbook/) | Text reader |  .TXT | Genesis (CD) |  |  |
 
-## Other [[edit](/w/index.php?title=List_of_utilities&veaction=edit&section=6 "Edit section: Other") | [edit source](/w/index.php?title=List_of_utilities&action=edit&section=6 "Edit section: Other")]
+## Other 
 
 | Name | Link | Utility | System | Notes | Icon |
 | Calculator | [Link](http://sites.google.com/site/komojo/Calculator.zip) | Calculator | GBA |  |  |

@@ -1,8 +1,5 @@
 # 第三方OPK应用程序清单
 
-From The FunKey Wiki
-
-
 * 中文
 
 This article lists third-party OPK-format applications built for the FunKey S. Freely downloadable from this page, these applications allow users to add additional functionalities to their devices. Note, however, that as the device's Instant Action autosave feature is implemented on a program-by-program basis, users must remember to manually save their progress in any third-party program that hasn't implemented the Instant Action feature. Also note that while many devices use _OPK_ as an application format, only _OPK_ applications compiled specifically for the FunKey S are compatible with it. Once a FunKey S _OPK_ application is downloaded, it can be installed by simply placing it in a folder at the root of the device's file system, with the _Applications_, _Emulators_, and _Native games_ folders available by default for file management. Applications available for download on this page are organized as they would be accessed from the Gmenu2x launcher — into the following three groups:
@@ -19,7 +16,7 @@ This article lists third-party OPK-format applications built for the FunKey S. F
 
 [ Games](#games)
 
-Should you wish to build or modify _OPK_ applications yourself, you may download a version of SquashFS configured for editing OPK applications on Windows [here](/wiki/files/FunKey_Community_Discord_Server "FunKey Community Discord Server").
+Should you wish to build or modify _OPK_ applications yourself, you may download a version of SquashFS configured for editing OPK applications on Windows [here](/wiki/files/FunKey_Community_Discord_Server.md "FunKey Community Discord Server").
 
 ## Applications
 
@@ -32,7 +29,7 @@ The following applications are any programs for the FunKey S that are neither em
 | Game Music Emu | Music player that emulates the audio of [several](https://web.archive.org/web/20210627233554/http://blargg.8bitalley.com/libs/audio.html) retro systems. | Drum78 |  | [Download](/wiki/files/Game_Music_Emu-V2.opk) |
 | KeyKalc | Graphing calculator program. | Robbi Blechdose | [Link](https://github.com/Robbi-Blechdose/KeyKalc/) | [Download](/wiki/files/KeyKalc.opk) |
 | MPlayer | Enables video playback in both original and stretched aspect ratios. | NovemberJoy |  | [Download](/wiki/files/MPlayer-V2.opk) |
-| Pocket CDG | Karaoke and MP3 music player; matching _MP3_ and _CDG_ (can be a blank text file should you just want to play MP3 files) are needed, with a song's _CDG_ file used to play it. As non-standard MP3 file settings can cause music to be played too quickly, should this occur, you should "convert" the MP3 file to a standard MP3 format using a converter such as [this](https://online-audio-converter.com/). | Drum78 |  | [Download](/wiki/files/Pocket_CDG-V1.opk) |
+| Pocket CDG | Karaoke and MP3 music player; matching _MP3_ and _CDG_ (can be a blank text file should you just want to play MP3 files) are needed, with a song's _CDG_ file used to play it. As non-standard MP3 file settings can cause music to be played too quickly, should this occur, you should.md "convert" the MP3 file to a standard MP3 format using a converter such as [this](https://online-audio-converter.com/). | Drum78 |  | [Download](/wiki/files/Pocket_CDG-V1.opk) |
 | ST | Linux terminal program. | Michel (FunKey Team) |  | [Download](/wiki/files/ST.opk) |
 
 ## Emulators
@@ -192,24 +189,24 @@ Make note of the following information for the following games:
 | Name | Genre | Author(s) / Compiler(s) | Repository | Data Files | Folder | OPK |
 | OPK | Game |
 | Bibi | [Arcade](https://en.wikipedia.org/wiki/Arcade_game "w:Arcade game") | Vincent (FunKey Team) | [Link](https://github.com/DrUm78/Bibi) | N/A | [Download](/wiki/files/Bibi.opk) |
-| NXEngine | Cave Story | [Platformer](https://en.wikipedia.org/wiki/Platform_game "w:Platform game") | Drum78 | [Link](https://github.com/DrUm78/nxengine-libretro) | **_Cave Story_game files; launch via EXE file** | Any | [Download](/wiki/files/Cave_Story-V1.opk) |
-| Dinothawr | [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game "w:Puzzle video game") |  | ** [Game files](/wiki/files/Dinothawr-V1.opk) |
-| Divi-Dead | [Visual Novel](https://en.wikipedia.org/wiki/Visual_novel "w:Visual novel") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/dividead_funkey-s.opk) | **DL1*****MPEG*** | [Download](/wiki/files/Divi-Dead.opk) |
-| PrBoom | Doom | [FPS](https://en.wikipedia.org/wiki/First-person_shooter "w:First-person shooter") | Coverilla Drum78 | [Link](https://github.com/DrUm78/libretro-prboom/releases) | **WAD** | [Download](/wiki/files/PrBoom-V2.opk) |
+| NXEngine | Cave Story | [Platformer](https://en.wikipedia.org/wiki/Platform_game.md "w:Platform game") | Drum78 | [Link](https://github.com/DrUm78/nxengine-libretro) | **_Cave Story_game files; launch via EXE file** | Any | [Download](/wiki/files/Cave_Story-V1.opk) |
+| Dinothawr | [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game.md "w:Puzzle video game") |  | ** [Game files](/wiki/files/Dinothawr-V1.opk) |
+| Divi-Dead | [Visual Novel](https://en.wikipedia.org/wiki/Visual_novel.md "w:Visual novel") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/dividead_funkey-s.opk) | **DL1*****MPEG*** | [Download](/wiki/files/Divi-Dead.opk) |
+| PrBoom | Doom | [FPS](https://en.wikipedia.org/wiki/First-person_shooter.md "w:First-person shooter") | Coverilla Drum78 | [Link](https://github.com/DrUm78/libretro-prboom/releases) | **WAD** | [Download](/wiki/files/PrBoom-V2.opk) |
 | Doom II |
 | Final Doom |
-| Ganbare-Natuskian | [Platformer](https://en.wikipedia.org/wiki/Platform_game "w:Platform game") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/gnp_funkey-s.opk) | N/A | [Download](/wiki/files/Ganbare-Natuskian.opk) |
-| Heboris | [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game "w:Puzzle video game") | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/heboris_funkey-s.opk) | [Download](/wiki/files/Heboris_funkey-s.opk) |
-| Cannonball | Out Run | [Driving](https://en.wikipedia.org/wiki/Driving_video_game "w:Driving video game") | Drum78 | [Link](https://github.com/DrUm78/Cannonball-C/releases/tag/v0.3-funkey-s) | **_Out Run_Arcade Rev. B ROM files** | /Funkey/.cannonball | [Download](/wiki/files/Cannonball-V3.opk) |
+| Ganbare-Natuskian | [Platformer](https://en.wikipedia.org/wiki/Platform_game.md "w:Platform game") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/gnp_funkey-s.opk) | N/A | [Download](/wiki/files/Ganbare-Natuskian.opk) |
+| Heboris | [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game.md "w:Puzzle video game") | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/heboris_funkey-s.opk) | [Download](/wiki/files/Heboris_funkey-s.opk) |
+| Cannonball | Out Run | [Driving](https://en.wikipedia.org/wiki/Driving_video_game.md "w:Driving video game") | Drum78 | [Link](https://github.com/DrUm78/Cannonball-C/releases/tag/v0.3-funkey-s) | **_Out Run_Arcade Rev. B ROM files** | /Funkey/.cannonball | [Download](/wiki/files/Cannonball-V3.opk) |
 | Gameblabla |
-| Quake | [FPS](https://en.wikipedia.org/wiki/First-person_shooter "w:First-person shooter") | LordEnum | [Link](https://github.com/DrUm78/tyrquake/releases/tag/v0.62-funkey-s) | **PAK0.PAK** PAK1.PAK | Any | [Download](/wiki/files/TyrQuake-V2.opk) |
+| Quake | [FPS](https://en.wikipedia.org/wiki/First-person_shooter.md "w:First-person shooter") | LordEnum | [Link](https://github.com/DrUm78/tyrquake/releases/tag/v0.62-funkey-s) | **PAK0.PAK** PAK1.PAK | Any | [Download](/wiki/files/TyrQuake-V2.opk) |
 | Drum78 |
-| ScummVM | [SCUMM](https://en.wikipedia.org/wiki/SCUMM "w:SCUMM") engine games | Various | [Link](https://github.com/DrUm78/scummvm/releases) | **Game's data files****_EXAMPLE.SCUMMVM_launch file** | [Download](/wiki/files/ScummVM-V6.opk) |
-| Sonic Robo Blast 2 | [Platformer](https://en.wikipedia.org/wiki/Platform_game "w:Platform game") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/srb2_funkey-s.opk) | N/A | [Download](https://gitlab.com/gameblabla/gameblabla-releases/-/raw/master/opk/funkey/srb2_funkey-s.opk) |
+| ScummVM | [SCUMM](https://en.wikipedia.org/wiki/SCUMM.md "w:SCUMM") engine games | Various | [Link](https://github.com/DrUm78/scummvm/releases) | **Game's data files****_EXAMPLE.SCUMMVM_launch file** | [Download](/wiki/files/ScummVM-V6.opk) |
+| Sonic Robo Blast 2 | [Platformer](https://en.wikipedia.org/wiki/Platform_game.md "w:Platform game") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/srb2_funkey-s.opk) | N/A | [Download](https://gitlab.com/gameblabla/gameblabla-releases/-/raw/master/opk/funkey/srb2_funkey-s.opk) |
 | Supertuxkart | [Racing](https://en.wikipedia.org/wiki/Racing_game "w:Racing game") | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/stk_funkey-s.opk) | [Download](https://gitlab.com/gameblabla/gameblabla-releases/-/raw/master/opk/funkey/stk_funkey-s.opk) |
 | VVVVVV | [Platformer](https://en.wikipedia.org/wiki/Platform_game "w:Platform game") | Jack | [Link](https://github.com/RetroPorts/fks-VVVVVV) | **data.zip** | /FunKey/.local/share/VVVVVV | [Download](/wiki/files/VVVVVV.opk) |
-| Wolfenstein 3D | [FPS](https://en.wikipedia.org/wiki/First-person_shooter "w:First-person shooter") | [Link](https://github.com/RetroPorts/fks-ecwolf) | **WL6*** | /FunKey/.ecwolf | [Download](/wiki/files/Wolfenstein_3D.opk) |
-| Worship Vector | [Tower Defense](https://en.wikipedia.org/wiki/Tower_defense "w:Tower defense") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/worship_vector_funkey-s.opk) | N/A | [Download](/wiki/files/Worship_Vector.opk) |
+| Wolfenstein 3D | [FPS](https://en.wikipedia.org/wiki/First-person_shooter.md "w:First-person shooter") | [Link](https://github.com/RetroPorts/fks-ecwolf) | **WL6*** | /FunKey/.ecwolf | [Download](/wiki/files/Wolfenstein_3D.opk) |
+| Worship Vector | [Tower Defense](https://en.wikipedia.org/wiki/Tower_defense.md "w:Tower defense") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/worship_vector_funkey-s.opk) | N/A | [Download](/wiki/files/Worship_Vector.opk) |
 
 <br>
 

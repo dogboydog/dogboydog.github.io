@@ -1,8 +1,5 @@
 # List of emulatable games (commercial)
 
-From The FunKey Wiki
-
-
 
 This article lists commercial software available for systems emulated by the FunKey S. To maintain the quality and consistency of these lists, a set of [inclusion criteria](/wiki/Available_third-party_software#Inclusion_criteria "Available third-party software") has been defined for all software listed on The FunKey Wiki. For completeness sake, the prices of games and game collections are listed, though the final price paid may differ from the one listed here due to sales, pricing changes, taxes, shipping costs, and/or other factors.
 
@@ -61,7 +58,7 @@ This article lists commercial software available for systems emulated by the Fun
     + [5.2.4 Dungeons & Dragons: Chronicles of Mystara](#dungeons--dragons-chronicles-of-mystara)
     + [5.2.5 Samurai Shodown NeoGeo Collection](#samurai-shodown-neogeo-collection)
 
-## List contents [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=1 "Edit section: List contents") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=1 "Edit section: List contents")]
+## List contents 
 
 This article currently lists **398** commercially available emulatable games, of which **294** are available digitally and **104** are only available in a physical format. Of the digitally available games, 191 are DRM-free while 103 are not, and 229 are part of collections while 65 are not. Of the games that are only available physically, 32 are part of collections while 78 are not. Emulatable games that are commercially available but have entirely inaccessible ROMs are not included in these counts and are listed in the _ [ROMs not accessible](#roms-not-accessible)_ section of this article. If a method for extracting the ROMs of any of these games is found, they will be moved to another list in this article and included in the game counts.
 
@@ -73,13 +70,13 @@ NES         **57** SNES          **20** Turb
 
 Consoles that the FunKey S can emulate but are not listed here have no commercially available games that were found for them. If there is a game missing from these lists, feel free to add it yourself or inform a wiki editor.
 
-## ROMs directly accessible [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=2 "Edit section: ROMs directly accessible") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=2 "Edit section: ROMs directly accessible")]
+## ROMs directly accessible 
 
 This section lists commercial games that have their ROM files directly available to the user upon purchase. Games that also have physical versions currently being sold are marked with a **¹** symbol.
 
-### Individual releases [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=3 "Edit section: Individual releases") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=3 "Edit section: Individual releases")]
+### Individual releases 
 
-#### List [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=4 "Edit section: List") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=4 "Edit section: List")]
+#### List 
 
 | Name of Game | Link | Genre | Price | System | Release Type | Game Art |
 | 40 Winks | [Link](https://store.steampowered.com/app/778080/40_Winks/) | [3D Platformer](https://en.wikipedia.org/wiki/Platform_game "w:Platform game") | $12.99 | PS1 | Licensed |  |
@@ -154,9 +151,9 @@ This section lists commercial games that have their ROM files directly available
 
 [Return to top of article](#top)
 
-### Collections [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=5 "Edit section: Collections") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=5 "Edit section: Collections")]
+### Collections 
 
-#### List [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=6 "Edit section: List") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=6 "Edit section: List")]
+#### List 
 
 | Name of Collection | Link | Genre | Game Count | Price | System(s) | Game List |
 | Atari Vault | [Link](https://store.steampowered.com/app/400020/Atari_Vault/) | [Arcade](https://en.wikipedia.org/wiki/Arcade_game "w:Arcade game") | 18 | $9.99 | Arcade | [Link](#atari-vault) |
@@ -178,7 +175,7 @@ This section lists commercial games that have their ROM files directly available
 
 [Return to top of article](#top)
 
-#### Atari Vault [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=7 "Edit section: Atari Vault") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=7 "Edit section: Atari Vault")]
+#### Atari Vault 
 
 Published by Atari, _Atari Vault_ includes **18** emulatable games, all being DRM-free _Arcade_ games that will be emulatable on the FunKey S when FBNeo support is implemented. The collection also includes 82 DRM-free _Atari 2600_ games that are not currently emulatable on the FunKey S, and are therefore not listed here. It can be purchased on [Steam](https://store.steampowered.com/app/400020/Atari_Vault/) for **$9.99**.
 
@@ -210,7 +207,7 @@ Published by Atari, _Atari Vault_ includes **18** emulatable games, all being DR
 
 [Return to top of article](#top)
 
-#### Atari Vault - 50 Game Add-On Pack [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=8 "Edit section: Atari Vault - 50 Game Add-On Pack") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=8 "Edit section: Atari Vault - 50 Game Add-On Pack")]
+#### Atari Vault - 50 Game Add-On Pack 
 
 Published by Atari, the _Atari Vault - 50 Game Add-On Pack_ includes **14** emulatable games, all being DRM-free _Arcade_ games that will be emulatable on the FunKey S when FBNeo support is implemented. The collection also includes 20 _Atari 2600_ and 16 _Atari 5200_ DRM-free games that are not currently emulatable on the FunKey S, and are therefore not listed here. It can be purchased on [Steam](https://store.steampowered.com/app/1104680/Atari_Vault__50_Game_AddOn_Pack/) for **$4.99**, though the Atari Vault collection (listed above) is required to purchase this Add-On Pack.
 
@@ -238,7 +235,7 @@ Published by Atari, the _Atari Vault - 50 Game Add-On Pack_ includes **14** emul
 
 [Return to top of article](#top)
 
-#### Bubsy Two-Fur [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=9 "Edit section: Bubsy Two-Fur") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=9 "Edit section: Bubsy Two-Fur")]
+#### Bubsy Two-Fur 
 
 Published by Retroism, _Bubsy Two-Fur_ includes **2** emulatable games, both being DRM-free _SNES_ games: [Bubsy in Claws Encounters of the Furred Kind](https://en.wikipedia.org/wiki/Bubsy_in_Claws_Encounters_of_the_Furred_Kind "w:Bubsy in Claws Encounters of the Furred Kind") and [Bubsy 2](https://en.wikipedia.org/wiki/Bubsy_2 "w:Bubsy 2"). It can be purchased on [Steam](https://store.steampowered.com/app/426630/Bubsy_TwoFur/) for **$4.99**.
 
@@ -254,7 +251,7 @@ Published by Retroism, _Bubsy Two-Fur_ includes **2** emulatable games, both bei
 
 [Return to top of article](#top)
 
-#### By Land and Air Bundle [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=10 "Edit section: By Land and Air Bundle") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=10 "Edit section: By Land and Air Bundle")]
+#### By Land and Air Bundle 
 
 Published by Throwback Entertainment, the _By Land and Air Bundle_ includes **2** games, both being DRM-free _PS1_ games: [Tunnel B1](https://en.wikipedia.org/wiki/Tunnel_B1 "w:Tunnel B1") and Viper. It can be purchased on [Steam](https://store.steampowered.com/bundle/13162/By_Land_and_Air_Bundle/) for **$9.08**. The bundle's games are also sold individually for $6.99 each.
 
@@ -270,7 +267,7 @@ Published by Throwback Entertainment, the _By Land and Air Bundle_ includes **2*
 
 [Return to top of article](#top)
 
-#### DERE EVIL .EXE [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=11 "Edit section: DERE EVIL .EXE") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=11 "Edit section: DERE EVIL .EXE")]
+#### DERE EVIL .EXE 
 
 Published by AppSir, the game _DERE EVIL .EXE_ includes **2** DRM-free DLC _NES_ games: DERE .EXE: Classic Edition and PROTO DERE .NES. It can be purchased on [Steam](https://store.steampowered.com/app/871950/DERE_EVIL_EXE/) for **$0.99**, with the two DLC NES games being freely downloadable once the main game has been purchased.
 
@@ -286,7 +283,7 @@ Published by AppSir, the game _DERE EVIL .EXE_ includes **2** DRM-free DLC _NES_
 
 [Return to top of article](#top)
 
-#### NeoGeo Classic Complete Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=12 "Edit section: NeoGeo Classic Complete Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=12 "Edit section: NeoGeo Classic Complete Collection")]
+#### NeoGeo Classic Complete Collection 
 
 Published by SNK, the _NeoGeo Classic Complete Collection_ includes **23** emulatable games, all being DRM-free _NeoGeo_ games that will be emulatable on the FunKey S when FBNeo support is implemented. It can be purchased on [Humble Bundle](https://www.humblebundle.com/store/neogeo-classic-complete-collection) for **$39.99**. Several of the games in the collection are also sold individually on [GOG](https://www.gog.com/games?devpub=snk_corporation&page=1&sort=popularity) for $5.99 each.
 
@@ -323,7 +320,7 @@ Published by SNK, the _NeoGeo Classic Complete Collection_ includes **23** emula
 
 [Return to top of article](#top)
 
-#### Retro Action SNES Volume 1 [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=13 "Edit section: Retro Action SNES Volume 1") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=13 "Edit section: Retro Action SNES Volume 1")]
+#### Retro Action SNES Volume 1 
 
 Published by Piko Interactive, _Retro Action SNES Volume 1_ includes **4** emulatable games, all being DRM-free _SNES_ games. It can be purchased on [Steam](https://store.steampowered.com/bundle/5256/RETRO_Action_SNES_Volume_1/) for **$12.36**. The bundle's games are also sold individually for $4.99 each. Dorke and Ymp, Iron Commando, and Jim Power - The Lost Dimension are also sold individually in cartridge format on the [publisher's website](https://pikointeractive.com/#!/Super-Nintendo/c/14008398) for $34.99, $49.99, and $55.00, respectively.
 
@@ -341,7 +338,7 @@ Published by Piko Interactive, _Retro Action SNES Volume 1_ includes **4** emula
 
 [Return to top of article](#top)
 
-#### Second Dimension RetroPak Vol. 1 [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=14 "Edit section: Second Dimension RetroPak Vol. 1") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=14 "Edit section: Second Dimension RetroPak Vol. 1")]
+#### Second Dimension RetroPak Vol. 1 
 
 Published by Second Dimension, the _Second Dimension RetroPak Vol. 1_ includes **7** emulatable games, all being unlicensed DRM-free _NES_ games. It can be purchased on [Steam](https://store.steampowered.com/app/1137930/Second_Dimension_RetroPak_Vol_1/) for **$19.99**. The collection's games are also sold individually on the publisher's [website](https://www.second-dimension.com/store) for $5 digitally or $20 physically.
 
@@ -362,7 +359,7 @@ Published by Second Dimension, the _Second Dimension RetroPak Vol. 1_ includes *
 
 [Return to top of article](#top)
 
-#### SEGA Mega Drive and Genesis Classics [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=15 "Edit section: SEGA Mega Drive and Genesis Classics") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=15 "Edit section: SEGA Mega Drive and Genesis Classics")]
+#### SEGA Mega Drive and Genesis Classics 
 
 Published by Sega, _SEGA Mega Drive and Genesis Classics_ includes **53** emulatable games, all being DRM-free _Sega Genesis_ games. It can be purchased on [Steam](https://store.steampowered.com/app/34270/SEGA_Mega_Drive_and_Genesis_Classics/) for **$40.42**. Most games in the collection are also sold individually for ¢99 each, though _Sonic the Hedgehog_, _Sonic the Hedgehog 2_, _Sonic 3 & Knuckles_, _Sonic 3D Blast_, and _Sonic Spinball_ are all sold individually for $4.99 each. Games in the collection with the file extension ".68k" or ".SGD" need to be modified with a ".md" file extension to be useable on the FunKey S.
 
@@ -429,7 +426,7 @@ Published by Sega, _SEGA Mega Drive and Genesis Classics_ includes **53** emulat
 
 [Return to top of article](#top)
 
-#### The Iridion Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=16 "Edit section: The Iridion Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=16 "Edit section: The Iridion Collection")]
+#### The Iridion Collection 
 
 Published by Majesco Entertainment, the _The Iridion Collection_ includes **2** emulatable games, both being DRM-free _GBA_ games. It can be purchased on [Steam](https://store.steampowered.com/bundle/14064/The_Iridion_Collection/) for **$16.88**. The collection's games are also sold individually for $12.99 each. As _Iridion II_ is incompatible with gpSP, the default FunKey S GBA emulator, it can only be played on the FunKey S using an [alternate](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") GBA emulator.
 
@@ -445,11 +442,11 @@ Published by Majesco Entertainment, the _The Iridion Collection_ includes **2** 
 
 [Return to top of article](#top)
 
-## ROMs accessible with third-party software [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=17 "Edit section: ROMs accessible with third-party software") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=17 "Edit section: ROMs accessible with third-party software")]
+## ROMs accessible with third-party software 
 
 This section lists commercial emulatable games that do not have their ROM files directly available to the user upon purchase but can still be extracted through the use of third-party software. Links to guides for extracting ROMs from the individually released games and game collections are listed for each of the releases. If a user finds that one of the guides no longer functions and there is no alternative guide or method for extracting the listed games, they will be moved to the [ROMs not accessible](#roms-not-accessible) section.
 
-### Individual releases [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=18 "Edit section: Individual releases") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=18 "Edit section: Individual releases")]
+### Individual releases 
 
 The only individual release with an encrypted ROM accessible via third-party tools is N2O: Nitrous Oxide for the PS1. As with other PS1 games, the ROM for N2O is a set of two files: a BIN file and a CUE file. While the BIN file is present in the Steam directory, it is encrypted, and there is no CUE file. However, [this guide](https://steamcommunity.com/app/364840/discussions/0/520519112496664465/) can be used to decrypt the BIN file and create the CUE file. While the publisher's other PS1 releases on Steam are encrypted in the same way, as there are no guides available online to extract the ROM files for those games, they have been listed in the [ROMs not accessible](#roms-not-accessible) section of this article.
 
@@ -464,9 +461,9 @@ The only individual release with an encrypted ROM accessible via third-party too
 
 [Return to top of article](#top)
 
-### Collections [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=19 "Edit section: Collections") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=19 "Edit section: Collections")]
+### Collections 
 
-#### List [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=20 "Edit section: List") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=20 "Edit section: List")]
+#### List 
 
 | Name of Collection | Link | Genre | Game Count | Price | System(s) | Game List |
 | Castlevania Anniversary Collection | [Link](https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/) | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania "w:Metroidvania") | 8 | $19.99 | Multiple | [Link](#castlevania-anniversary-collection) |
@@ -490,7 +487,7 @@ The only individual release with an encrypted ROM accessible via third-party too
 
 [Return to top of article](#top)
 
-#### Castlevania Anniversary Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=21 "Edit section: Castlevania Anniversary Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=21 "Edit section: Castlevania Anniversary Collection")]
+#### Castlevania Anniversary Collection 
 
 Published by Konami, the _Castlevania Anniversary Collection_ includes **8** emulatable games, of which four are for the _NES_, one is for the _Sega Genesis_, two are for the _Game Boy_, and one is for the _SNES_. It can be purchased on [Steam](https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/) for **$19.99**. Since the game ROMs are not accessible by default, in order to put them onto the FunKey S this [guide](https://steamcommunity.com/app/1018010/discussions/0/1628539187767686145/) must first be used to extract them from the collection.
 
@@ -512,7 +509,7 @@ Published by Konami, the _Castlevania Anniversary Collection_ includes **8** emu
 
 [Return to top of article](#top)
 
-#### Contra Anniversary Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=22 "Edit section: Contra Anniversary Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=22 "Edit section: Contra Anniversary Collection")]
+#### Contra Anniversary Collection 
 
 Published by Konami, the _Contra Anniversary Collection_ includes **5** emulatable games, of which two are for the _NES_, one is for the _Sega Genesis_, one is for the _Game Boy_, and one is for the _SNES_. It can be purchased on [Steam](https://store.steampowered.com/app/1018020/Contra_Anniversary_Collection/) for **$19.99**. Since the game ROMs are not accessible by default, in order to put them onto the FunKey S this [guide](https://steamcommunity.com/app/1018010/discussions/0/1628539187767686145/) must first be used to extract them from the collection. Two arcade games, _Contra_ and _Super Contra_, are also included in the collection, however, since they are not extractable via any known method, they are not listed here.
 
@@ -531,7 +528,7 @@ Published by Konami, the _Contra Anniversary Collection_ includes **5** emulatab
 
 [Return to top of article](#top)
 
-#### Disney Classic Games Aladdin & Lion King [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=23 "Edit section: Disney Classic Games Aladdin & Lion King") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=23 "Edit section: Disney Classic Games Aladdin & Lion King")]
+#### Disney Classic Games Aladdin & Lion King 
 
 Published by Disney, the _Disney Classic Games Aladdin & Lion King_ collection includes **5** emulatable games, of which two are for the _Sega Genesis_, two are for the _Game Boy_, and one is for the _SNES_. It can be purchased on [Steam](https://store.steampowered.com/app/1126190/Disney_Classic_Games_Aladdin_and_The_Lion_King/) for **$29.99**. Since the game ROMs are not accessible by default, in order to put them onto the FunKey S this [guide](https://github.com/farmerbb/RED-Project/wiki/Disney-Classic-Games---Aladdin-&-Lion-King) must first be used to extract them from the collection.
 
@@ -550,7 +547,7 @@ Published by Disney, the _Disney Classic Games Aladdin & Lion King_ collection i
 
 [Return to top of article](#top)
 
-#### Double Dragon Trilogy [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=24 "Edit section: Double Dragon Trilogy") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=24 "Edit section: Double Dragon Trilogy")]
+#### Double Dragon Trilogy 
 
 Published by Dotemu, the _Double Dragon Trilogy_ includes **2** emulatable games, both being for _Arcade_ systems: [Double Dragon](https://en.wikipedia.org/wiki/Double_Dragon_(video_game) "w:Double Dragon (video game)") and [Double Dragon II: The Revenge](https://en.wikipedia.org/wiki/Double_Dragon_II:_The_Revenge "w:Double Dragon II: The Revenge"). It can be purchased on [Steam](https://store.steampowered.com/app/314150/Double_Dragon_Trilogy/) for **$5.99**. Since the game ROMs are not accessible by default, in order to put them onto the FunKey S this [guide](https://www.gog.com/forum/general/rom_based_gog_games_compatible_with_third_party_emulators_thread/post31) must first be used to extract them from the collection. While a third arcade game, Double Dragon 3, is included in the collection, its ROM is not extractable via this method, and therefore is not listed here.
 
@@ -566,7 +563,7 @@ Published by Dotemu, the _Double Dragon Trilogy_ includes **2** emulatable games
 
 [Return to top of article](#top)
 
-#### Mega Man Legacy Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=25 "Edit section: Mega Man Legacy Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=25 "Edit section: Mega Man Legacy Collection")]
+#### Mega Man Legacy Collection 
 
 Published by Capcom, the _Mega Man Legacy Collection_ includes **6** emulatable games, all being for the _NES_. It can be purchased on [Steam](https://store.steampowered.com/app/363440/Mega_Man_Legacy_Collection/) for **$14.99**. Since the game ROMs are not accessible by default, in order to put them onto the FunKey S this [guide](https://www.reddit.com/r/emulation/comments/8u22o0/cheap_and_legal_way_to_get_mega_man_16_roms/) must first be used to extract them from the collection.
 
@@ -586,7 +583,7 @@ Published by Capcom, the _Mega Man Legacy Collection_ includes **6** emulatable 
 
 [Return to top of article](#top)
 
-#### Mega Man X Legacy Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=26 "Edit section: Mega Man X Legacy Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=26 "Edit section: Mega Man X Legacy Collection")]
+#### Mega Man X Legacy Collection 
 
 Published by Capcom, the _Mega Man X Legacy Collection_ includes **3** emulatable games, all being for the _SNES_. It can be purchased on [Steam](https://store.steampowered.com/app/743890/Mega_Man_X_Legacy_Collection/) for **$19.99**. Since the game ROMs are not accessible by default, in order to put them onto the FunKey S this [guide](https://www.reddit.com/r/snes/comments/91wl6t/mega_man_x_legacy_collection_snes_rom_extractor/) must first be used to extract them from the collection. While a PlayStation game, _Mega Man X4_, is also included in the collection, since it is not being emulated it is not extractable and is therefore not listed here.
 
@@ -603,7 +600,7 @@ Published by Capcom, the _Mega Man X Legacy Collection_ includes **3** emulatabl
 
 [Return to top of article](#top)
 
-#### Namco Museum Archives Vol. 1 [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=27 "Edit section: Namco Museum Archives Vol. 1") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=27 "Edit section: Namco Museum Archives Vol. 1")]
+#### Namco Museum Archives Vol. 1 
 
 Published by Bandai Namco, _Namco Museum Archives Vol. 1_ includes **11** emulatable games, all being for the _NES_. It can be purchased on [Steam](https://store.steampowered.com/app/1250250/NAMCO_MUSEUM_ARCHIVES_Vol_1/) for **$19.99**. Since the game ROMs are not accessible by default, in order to put them onto the FunKey S this [guide](https://hcs64.com/mboard/forumlong.php?showthread=61378) must first be used to extract them from the collection.
 
@@ -628,7 +625,7 @@ Published by Bandai Namco, _Namco Museum Archives Vol. 1_ includes **11** emulat
 
 [Return to top of article](#top)
 
-#### Namco Museum Archives Vol. 2 [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=28 "Edit section: Namco Museum Archives Vol. 2") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=28 "Edit section: Namco Museum Archives Vol. 2")]
+#### Namco Museum Archives Vol. 2 
 
 Published by Bandai Namco, _Namco Museum Archives Vol. 2_ includes **11** emulatable games, all being for the _NES_. It can be purchased on [Steam](https://store.steampowered.com/app/1254620/NAMCO_MUSEUM_ARCHIVES_Vol_2/) for **$19.99**. Since the game ROMs are not accessible by default, in order to put them onto the FunKey S this [guide](https://hcs64.com/mboard/forumlong.php?showthread=61378) must first be used to extract them from the collection.
 
@@ -653,7 +650,7 @@ Published by Bandai Namco, _Namco Museum Archives Vol. 2_ includes **11** emulat
 
 [Return to top of article](#top)
 
-#### Raiden Legacy [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=29 "Edit section: Raiden Legacy") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=29 "Edit section: Raiden Legacy")]
+#### Raiden Legacy 
 
 Published by Dotemu, the _Raiden Legacy_ collection includes **1** emulatable game, the _Arcade_ game [Raiden](https://en.wikipedia.org/wiki/Raiden_(video_game) "w:Raiden (video game)"). It can be purchased on [Steam](https://store.steampowered.com/app/407600/Raiden_Legacy__Steam_Edition/) for **$9.99**. Since the game ROM is not accessible by default, in order to put it onto the FunKey S this [guide](https://www.gog.com/forum/general/rom_based_gog_games_compatible_with_third_party_emulators_thread/post31) must first be used to extract it from the collection. While three other arcade games, _Raiden Fighters_, _Raiden Fighters 2_, and _Raiden Fighters Jet_, are also included in the collection, they cannot be extracted via this method, and are therefore not listed here.
 
@@ -668,7 +665,7 @@ Published by Dotemu, the _Raiden Legacy_ collection includes **1** emulatable ga
 
 [Return to top of article](#top)
 
-#### SNK 40th Anniversary Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=30 "Edit section: SNK 40th Anniversary Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=30 "Edit section: SNK 40th Anniversary Collection")]
+#### SNK 40th Anniversary Collection 
 
 Published by SNK, the _SNK 40th Anniversary Collection_ includes **32** emulatable games, of which twenty-three are for _Arcade_ systems and nine are for the _NES_. It can be purchased on [Steam](https://store.steampowered.com/app/865940/SNK_40th_ANNIVERSARY_COLLECTION/) for **$29.99**. Since the game ROMs are not accessible by default, in order to put them onto the FunKey S this [guide](https://www.reddit.com/r/emulation/comments/8u22o0/cheap_and_legal_way_to_get_mega_man_16_roms/) (using this [script](https://gitlab.com/vaiski/romextract/blob/master/scripts/STEAM-865940.sh)) must first be used to extract them from the collection.
 
@@ -714,7 +711,7 @@ Published by SNK, the _SNK 40th Anniversary Collection_ includes **32** emulatab
 
 [Return to top of article](#top)
 
-#### Street Fighter 30th Anniversary Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=31 "Edit section: Street Fighter 30th Anniversary Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=31 "Edit section: Street Fighter 30th Anniversary Collection")]
+#### Street Fighter 30th Anniversary Collection 
 
 Published by Capcom, the _Street Fighter 30th Anniversary Collection_ includes **12** emulatable games, all being _Arcade_ games. It can be purchased on [Steam](https://store.steampowered.com/app/586200/Street_Fighter_30th_Anniversary_Collection/) for **$29.99**. Since the game ROMs are not accessible by default, in order to put them onto the FunKey S this [guide](https://github.com/ValadAmoleo/sf30ac-extractor/tree/mame) must first be used to extract them from the collection.
 
@@ -740,7 +737,7 @@ Published by Capcom, the _Street Fighter 30th Anniversary Collection_ includes *
 
 [Return to top of article](#top)
 
-#### The Disney Afternoon Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=32 "Edit section: The Disney Afternoon Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=32 "Edit section: The Disney Afternoon Collection")]
+#### The Disney Afternoon Collection 
 
 Published by Capcom, _The Disney Afternoon Collection_ includes **6** emulatable games, all being for the _NES_. It can be purchased on [Steam](https://store.steampowered.com/app/525040/The_Disney_Afternoon_Collection/) for **$19.99**. Since the game ROMs are not accessible by default, in order to put them onto the FunKey S this [guide](https://www.reddit.com/r/emulation/comments/8u22o0/cheap_and_legal_way_to_get_mega_man_16_roms/) (using this [script](https://gitlab.com/vaiski/romextract/blob/master/scripts/STEAM-525040.sh)) must first be used to extract them from the collection.
 
@@ -760,17 +757,17 @@ Published by Capcom, _The Disney Afternoon Collection_ includes **6** emulatable
 
 [Return to top of article](#top)
 
-## ROMs accessible with third-party hardware [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=33 "Edit section: ROMs accessible with third-party hardware") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=33 "Edit section: ROMs accessible with third-party hardware")]
+## ROMs accessible with third-party hardware 
 
 This section lists commercial emulatable games that are currently only being sold physically. Games in this section require the use of a [game backup device](https://en.wikipedia.org/wiki/Game_backup_device "w:Game backup device") to extract the ROMs of those games from their cartridges or discs for use on the FunKey S. An example of one such device is the [Retrode](https://en.wikipedia.org/wiki/Retrode "w:Retrode"), which can backup SNES and Sega Genesis games out of the box. For the systems of games listed below, the Retrode also has add-on cartridges available to backup TurboGrafx-16, Game Boy Color, and Game Boy Advance games. Since the Retrode is no longer available for sale from its manufacturer, however, it would have to be purchased from a third-party seller. Another option that includes support for NES games is the [INLretro](http://www.infiniteneslives.com/inlretro.php), however, it does not automatically put ROM headers on ROM files, and thus is not as simple to use as the Retrode.
 
-Since the primary purpose of the game lists on this wiki is to provide a means for FunKey S users to find digital copies of games to put onto their devices, the following lists do not include all commercially available physically released games for FunKey S emulatable systems, only games that are not available from their publishers digitally. While this means that digitally released games with physical releases are not listed on the following tables, such games are marked with a **¹** symbol on the lists of digital [freeware](/wiki/List_of_emulatable_games_(freeware) "List of emulatable games (freeware)") and [commercial](#roms-directly-accessible) games. Also not included are physically released games only available for a limited time or in limited quantities. Additionally, if a game is no longer being sold, it will be removed from its list.
+Since the primary purpose of the game lists on this wiki is to provide a means for FunKey S users to find digital copies of games to put onto their devices, the following lists do not include all commercially available physically released games for FunKey S emulatable systems, only games that are not available from their publishers digitally. While this means that digitally released games with physical releases are not listed on the following tables, such games are marked with a **¹** symbol on the lists of digital [freeware](/wiki/List_of_emulatable_games_(freeware).md "List of emulatable games (freeware)") and [commercial](#roms-directly-accessible) games. Also not included are physically released games only available for a limited time or in limited quantities. Additionally, if a game is no longer being sold, it will be removed from its list.
 
 Games that are available on another emulatable platform digitally are marked with a **²** symbol, though remain on the following list as the versions listed here are not available digitally. Games are listed at their lowest commercially available price, and thus the price for many of the following games only includes a cartridge with the corresponding game on it, though for many there are additional purchase options that include a box, dust sleeve, and/or manual for an additional $10-$20.
 
-### Individual releases [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=34 "Edit section: Individual releases") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=34 "Edit section: Individual releases")]
+### Individual releases 
 
-#### List [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=35 "Edit section: List") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=35 "Edit section: List")]
+#### List 
 
 | Name of Game | Link | Genre | Price | System | Release Type | Game Art |
 | 2 in 1 Geminim/Siamond | [Link](https://www.retrousb.com/product_info.php?cPath=30&products_id=59&osCsid=6aaf32aba72c6b1a6051f306e13c6d2d) | [Puzzle](https://en.wikipedia.org/wiki/Puzzle_game "w:Puzzle game") | $27.00 | NES | Unlicensed |  |
@@ -861,9 +858,9 @@ Games that are available on another emulatable platform digitally are marked wit
 
 [Return to top of article](#top)
 
-### Collections [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=36 "Edit section: Collections") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=36 "Edit section: Collections")]
+### Collections 
 
-#### List [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=37 "Edit section: List") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=37 "Edit section: List")]
+#### List 
 
 | Name of Collection | Link | Genre | Game Count | Price | System(s) | Game List |
 | Bovinium Quest & Exit Loop NES Package | [Link](https://www.midwestgamingclassic.com/product/bovinium-quest-exit-loop-nes-package/) | [Platformer](https://en.wikipedia.org/wiki/Platforming_game "w:Platforming game") | 2 | $60.00 | NES | [Link](#bovinium-quest--exit-loop-nes-package) |
@@ -882,7 +879,7 @@ Games that are available on another emulatable platform digitally are marked wit
 
 [Return to top of article](#top)
 
-#### Bovinium Quest & Exit Loop NES Package [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=38 "Edit section: Bovinium Quest & Exit Loop NES Package") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=38 "Edit section: Bovinium Quest & Exit Loop NES Package")]
+#### Bovinium Quest & Exit Loop NES Package 
 
 Published by Midwest Gaming Classic, the _Bovinium Quest & Exit Loop NES Package_ includes **2** emulatable games, both being unlicensed NES cartridge games: Bovinium Quest and Exit Loop. It can be purchased on the [publisher's website](https://www.midwestgamingclassic.com/product/bovinium-quest-exit-loop-nes-package/) for **$60**. As the games come on cartridges, a [game backup device](https://en.wikipedia.org/wiki/Game_backup_device "w:Game backup device") would also be needed to play the games on the FunKey S.
 
@@ -898,7 +895,7 @@ Published by Midwest Gaming Classic, the _Bovinium Quest & Exit Loop NES Package
 
 [Return to top of article](#top)
 
-#### Data East All Star Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=39 "Edit section: Data East All Star Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=39 "Edit section: Data East All Star Collection")]
+#### Data East All Star Collection 
 
 Published by Retro-Bit, the _Data East All Star Collection_ includes **5** emulatable games, all NES games on one collection cartridge. It can be purchased on [Amazon](https://www.amazon.com/gp/product/B0777PY33X) for **$29.99**. As the games come on a cartridge, a [game backup device](https://en.wikipedia.org/wiki/Game_backup_device "w:Game backup device") would also be needed to play the games on the FunKey S.
 
@@ -917,7 +914,7 @@ Published by Retro-Bit, the _Data East All Star Collection_ includes **5** emula
 
 [Return to top of article](#top)
 
-#### Jaleco Brawler's Pack [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=40 "Edit section: Jaleco Brawler's Pack") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=40 "Edit section: Jaleco Brawler's Pack")]
+#### Jaleco Brawler's Pack 
 
 Published by Retro-Bit, the _Jaleco Brawler's Pack_ includes **4** emulatable games, all SNES games on one collection cartridge. It can be purchased on [Amazon](https://www.amazon.com/gp/product/B0773V8VJ8) for **$34.99**. As the games come on a cartridge, a [game backup device](https://en.wikipedia.org/wiki/Game_backup_device "w:Game backup device") would also be needed to play the games on the FunKey S.
 
@@ -935,7 +932,7 @@ Published by Retro-Bit, the _Jaleco Brawler's Pack_ includes **4** emulatable ga
 
 [Return to top of article](#top)
 
-#### Joe & Mac: Ultimate Caveman Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=41 "Edit section: Joe & Mac: Ultimate Caveman Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=41 "Edit section: Joe & Mac: Ultimate Caveman Collection")]
+#### Joe & Mac: Ultimate Caveman Collection 
 
 Published by Retro-Bit, the _Joe & Mac: Ultimate Caveman Collection_ includes **3** emulatable games, all SNES games on one collection cartridge. It can be purchased on [Amazon](https://www.amazon.com/gp/product/B07778D1M5) for **$34.99**. As the games come on a cartridge, a [game backup device](https://en.wikipedia.org/wiki/Game_backup_device "w:Game backup device") would also be needed to play the games on the FunKey S.
 
@@ -952,7 +949,7 @@ Published by Retro-Bit, the _Joe & Mac: Ultimate Caveman Collection_ includes **
 
 [Return to top of article](#top)
 
-#### Wisdom Tree Collection NES [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=42 "Edit section: Wisdom Tree Collection NES") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=42 "Edit section: Wisdom Tree Collection NES")]
+#### Wisdom Tree Collection NES 
 
 Published by Wisdom Tree, _Wisdom Tree Collection NES_ includes **7** emulatable games, all unlicensed NES games on one collection cartridge. It can be purchased on [the publisher's website](https://www.wisdomtreegames.com/store.html#!/Wisdom-Tree-Collection-NES/p/72433164/category=0) for **$49.99**. As the games come on a cartridge, a [game backup device](https://en.wikipedia.org/wiki/Game_backup_device "w:Game backup device") would also be needed to play the games on the FunKey S.
 
@@ -972,7 +969,7 @@ Published by Wisdom Tree, _Wisdom Tree Collection NES_ includes **7** emulatable
 
 [Return to top of article](#top)
 
-#### Wisdom Tree Sega Genesis/Mega Drive Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=43 "Edit section: Wisdom Tree Sega Genesis/Mega Drive Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=43 "Edit section: Wisdom Tree Sega Genesis/Mega Drive Collection")]
+#### Wisdom Tree Sega Genesis/Mega Drive Collection 
 
 Published by Piko Interactive, _Wisdom Tree Sega Genesis/Mega Drive Collection_ includes **4** emulatable games, all unlicensed Sega Genesis (Mega Drive) games on one collection cartridge. It can be purchased on [the publisher's website](https://pikointeractive.com/phone/store.html#!/Wisdom-Tree-Sega-Genesis-Mega-Drive-Collection/p/72267077/category=14008387) for **$29.99**. As the games come on a cartridge, a [game backup device](https://en.wikipedia.org/wiki/Game_backup_device "w:Game backup device") would also be needed to play the games on the FunKey S.
 
@@ -990,13 +987,13 @@ Published by Piko Interactive, _Wisdom Tree Sega Genesis/Mega Drive Collection_ 
 
 [Return to top of article](#top)
 
-## ROMs not accessible [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=44 "Edit section: ROMs not accessible") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=44 "Edit section: ROMs not accessible")]
+## ROMs not accessible 
 
 This section lists commercially available emulated games that do not have their ROM files directly available to the user upon purchase and currently have no known methods of extracting them. While this means these games cannot currently be emulated on the FunKey S, if methods of extracting their ROMs are found, they will be moved to one of the lists above.
 
-### Individual releases [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=45 "Edit section: Individual releases") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=45 "Edit section: Individual releases")]
+### Individual releases 
 
-#### List [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=46 "Edit section: List") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=46 "Edit section: List")]
+#### List 
 
 | Name of Game | Genre | System | Release Type |
 | Actua Golf 3 | [Sports](https://en.wikipedia.org/wiki/Sports_game "w:Sports game") | PS1 | Licensed |
@@ -1015,9 +1012,9 @@ This section lists commercially available emulated games that do not have their 
 
 [Return to top of article](#top)
 
-### Collections [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=47 "Edit section: Collections") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=47 "Edit section: Collections")]
+### Collections 
 
-#### List [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=48 "Edit section: List") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=48 "Edit section: List")]
+#### List 
 
 | Name of Collection | Genre | Game Count | System(s) | Game List |
 | Anniversary Collection Arcade Classics | [Arcade](https://en.wikipedia.org/wiki/Arcade_game "w:Arcade game") | 8 | Arcade | [Link](#anniversary-collection-arcade-classics) |
@@ -1033,7 +1030,7 @@ This section lists commercially available emulated games that do not have their 
 
 [Return to top of article](#top)
 
-#### Anniversary Collection Arcade Classics [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=49 "Edit section: Anniversary Collection Arcade Classics") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=49 "Edit section: Anniversary Collection Arcade Classics")]
+#### Anniversary Collection Arcade Classics 
 
 | Name of Game | Genre | System | Release Type |
 | A-Jax | [Arcade](https://en.wikipedia.org/wiki/Arcade_game "w:Arcade game") | Arcade | N/A |
@@ -1053,7 +1050,7 @@ This section lists commercially available emulated games that do not have their 
 
 [Return to top of article](#top)
 
-#### Capcom Beat 'Em Up Bundle [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=50 "Edit section: Capcom Beat 'Em Up Bundle") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=50 "Edit section: Capcom Beat 'Em Up Bundle")]
+#### Capcom Beat 'Em Up Bundle 
 
 | Name of Game | Genre | System | Release Type |
 | Armored Warriors | [Fighting](https://en.wikipedia.org/wiki/Fighting_game "w:Fighting game") | Arcade | N/A |
@@ -1072,7 +1069,7 @@ This section lists commercially available emulated games that do not have their 
 
 [Return to top of article](#top)
 
-#### Dungeons & Dragons: Chronicles of Mystara [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=51 "Edit section: Dungeons & Dragons: Chronicles of Mystara") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=51 "Edit section: Dungeons & Dragons: Chronicles of Mystara")]
+#### Dungeons & Dragons: Chronicles of Mystara 
 
 | Name of Game | Genre | System | Release Type |
 | Dungeons & Dragons: Shadow over Mystara | Arcade | Arcade | N/A |
@@ -1086,7 +1083,7 @@ This section lists commercially available emulated games that do not have their 
 
 [Return to top of article](#top)
 
-#### Samurai Shodown NeoGeo Collection [[edit](/w/index.php?title=List_of_emulatable_games_(commercial)&veaction=edit&section=52 "Edit section: Samurai Shodown NeoGeo Collection") | [edit source](/w/index.php?title=List_of_emulatable_games_(commercial)&action=edit&section=52 "Edit section: Samurai Shodown NeoGeo Collection")]
+#### Samurai Shodown NeoGeo Collection 
 
 | Name of Game | Genre | System | Release Type |
 | Samurai Shodown | [Fighting](https://en.wikipedia.org/wiki/Fighting_game "w:Fighting game") | Arcade - Neo Geo | N/A |

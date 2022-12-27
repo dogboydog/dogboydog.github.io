@@ -1,10 +1,7 @@
 # List of games with hotseat multiplayer
 
-From The FunKey Wiki
 
-
-
-This article lists any games playable on systems officially emulated by the [FunKey S](/wiki/FunKey_S "FunKey S") (including the [Sega Genesis/Mega Drive](https://en.wikipedia.org/wiki/Sega_Genesis "w:Sega Genesis"), [Game Boy](https://en.wikipedia.org/wiki/Game_Boy "w:Game Boy"), [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System "w:Super Nintendo Entertainment System"), [PlayStation](https://en.wikipedia.org/wiki/PlayStation_(console) "w:PlayStation (console)"), and [Game Boy Advance](https://en.wikipedia.org/wiki/Game_Boy_Advance "w:Game Boy Advance")) that support [hotseat multiplayer](https://en.wikipedia.org/wiki/Hotseat_(multiplayer_mode) "w:Hotseat (multiplayer mode)"). These include both freeware and commercial games, with the former having linked-to download pages and the latter having linked-to Wikipedia articles, where applicable. Hotseat multiplayer games are sorted on the basis of their control scheme, either [pass-and-play](#pass-and-play) or [simultaneous](#simultaneous), with the former having turn-based multiplayer modes where the controller is passed around and the latter having real-time multiplayer modes where the controller is shared among participants. Games without an implemented hotseat multiplayer mode are not listed as the FunKey S does not support the link cables and additional controllers required for other multiplayer game modes.
+This article lists any games playable on systems officially emulated by the [FunKey S](/wiki/FunKey_S.md "FunKey S") (including the [Sega Genesis/Mega Drive](https://en.wikipedia.org/wiki/Sega_Genesis "w:Sega Genesis"), [Game Boy](https://en.wikipedia.org/wiki/Game_Boy "w:Game Boy"), [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System "w:Super Nintendo Entertainment System"), [PlayStation](https://en.wikipedia.org/wiki/PlayStation_(console) "w:PlayStation (console)"), and [Game Boy Advance](https://en.wikipedia.org/wiki/Game_Boy_Advance "w:Game Boy Advance")) that support [hotseat multiplayer](https://en.wikipedia.org/wiki/Hotseat_(multiplayer_mode) "w:Hotseat (multiplayer mode)"). These include both freeware and commercial games, with the former having linked-to download pages and the latter having linked-to Wikipedia articles, where applicable. Hotseat multiplayer games are sorted on the basis of their control scheme, either [pass-and-play](#pass-and-play) or [simultaneous](#simultaneous), with the former having turn-based multiplayer modes where the controller is passed around and the latter having real-time multiplayer modes where the controller is shared among participants. Games without an implemented hotseat multiplayer mode are not listed as the FunKey S does not support the link cables and additional controllers required for other multiplayer game modes.
 
 ## Contents
 
@@ -41,7 +38,7 @@ To ensure the accuracy of these lists as much as possible, a number of inclusion
 * Games must have at least one section, minigame, or mode designed to be played by two or more players synchronously or asynchronously using one controller on one console. Games without any intended form of multiplayer or with a multiplayer mode that requires two or more controllers and/or consoles cannot be included.
 * Games must be in English or playable without understanding another language. This criteria is used to ensure that the multiplayer features of a game can be ascertained during the research process.
 
-While the editors have attempted to make these lists as comprehensive as possible, there are likely several games that may need to be removed or added based on the above criteria. If you know of any such games, feel free to modify the lists yourself or inform [the wiki admin](/wiki/User_talk:CoolieCoolster "User talk:CoolieCoolster").
+While the editors have attempted to make these lists as comprehensive as possible, there are likely several games that may need to be removed or added based on the above criteria. If you know of any such games, feel free to modify the lists yourself or inform [the wiki admin](/wiki/User_talk:CoolieCoolster.md "User talk:CoolieCoolster").
 
 ### List contents
 
@@ -50,7 +47,7 @@ The games on this page are divided into pass-and-play and simultaneous lists bas
 This article currently lists **266** games, with 12 of these being simultaneous and 254 being pass-and-play. Of the pass-and-play games, 29 are arcade games, 12 are game show games, 17 are pinball games, 7 are platformer games, 111 are sports games, 13 are strategy games, and 64 are tabletop games. When taking into account multiple platform variants of each game there are **350** games in total, divided into the following categories:
 NES         **17** Game Gear     **22** Master System  **12** SNES          **24** Turbografx-16  **1** PlayStation     **48** Lynx          **4** Game Boy Color **43** Genesis      **33** Wonderswan    **2** Game Boy    **50** GBA          **91**
 
-Of the following 266 games with hotseat functionality **13** are homebrew, with links to ROM download pages for those games being legally available. If more games from the wiki's [homebrew game database](/wiki/List_of_emulatable_games_(freeware) "List of emulatable games (freeware)") are found to have hotseat multiplayer capabilities, they will be added to this page as well.
+Of the following 266 games with hotseat functionality **13** are homebrew, with links to ROM download pages for those games being legally available. If more games from the wiki's [homebrew game database](/wiki/List_of_emulatable_games_(freeware).md "List of emulatable games (freeware)") are found to have hotseat multiplayer capabilities, they will be added to this page as well.
 
 ### Pass-and-play
 
