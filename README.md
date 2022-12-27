@@ -24,7 +24,7 @@ Welcome to The FunKey Wiki, the host of information, tutorials, and user-generat
 
 [ the FunKey S store?](/wiki/FunKey_Wiki_Knowledge_Center.md#where-can-i-buy-a-funkey-s "FunKey Wiki Knowledge Center")
 [ FunKey S news updates?](/wiki/FunKey_Wiki_Knowledge_Center.md#where-can-i-find-funkey-s-news-updates "FunKey Wiki Knowledge Center")
-[ review videos?](/wiki/The_FunKey_Times#media-reviews "The FunKey Times")
+[ review videos?](/wiki/The_FunKey_Times.md#media-reviews "The FunKey Times")
 [ gameplay videos?](/wiki/List_of_games_with_FunKey_S_gameplay_footage.md "List of games with FunKey S gameplay footage")
 
 **<u>Who...</u>**
@@ -51,7 +51,7 @@ Welcome to The FunKey Wiki, the host of information, tutorials, and user-generat
 
 [ the FunKey S store?](/wiki/FunKey_Wiki_Knowledge_Center.md#where-can-i-buy-a-funkey-s "FunKey Wiki Knowledge Center")
 [ FunKey S news updates?](/wiki/FunKey_Wiki_Knowledge_Center.md#where-can-i-find-funkey-s-news-updates "FunKey Wiki Knowledge Center")
-[ review videos?](/wiki/The_FunKey_Times#Media-Reviews "The FunKey Times")
+[ review videos?](/wiki/The_FunKey_Times.md#Media-Reviews "The FunKey Times")
 [ gameplay videos?](/wiki/List_of_games_with_FunKey_S_gameplay_footage.md "List of games with FunKey S gameplay footage")
 
 **<u>Who...</u>**
