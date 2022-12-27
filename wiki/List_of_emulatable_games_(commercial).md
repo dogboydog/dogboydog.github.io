@@ -1,7 +1,7 @@
 # List of emulatable games (commercial)
 
 
-This article lists commercial software available for systems emulated by the FunKey S. To maintain the quality and consistency of these lists, a set of [inclusion criteria](/wiki/Available_third-party_software#Inclusion_criteria "Available third-party software") has been defined for all software listed on The FunKey Wiki. For completeness sake, the prices of games and game collections are listed, though the final price paid may differ from the one listed here due to sales, pricing changes, taxes, shipping costs, and/or other factors.
+This article lists commercial software available for systems emulated by the FunKey S. To maintain the quality and consistency of these lists, a set of [inclusion criteria](/wiki/Available_third-party_software.md#inclusion-criteria "Available third-party software") has been defined for all software listed on The FunKey Wiki. For completeness sake, the prices of games and game collections are listed, though the final price paid may differ from the one listed here due to sales, pricing changes, taxes, shipping costs, and/or other factors.
 
 ## Contents
 
@@ -89,7 +89,7 @@ If a console officially emulatable by the FunKey S is not listed above, no comme
 
 ## ROMs directly accessible 
 
-This section lists commercial games that have their ROM files directly available to the user upon purchase. Games that also have physical versions currently being sold are marked with a **¹** symbol. As _NEScape!_ is incompatible with the default NES emulator of the FunKey S, it requires the use of the [third-party](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") _FCEUmm_ emulator.
+This section lists commercial games that have their ROM files directly available to the user upon purchase. Games that also have physical versions currently being sold are marked with a **¹** symbol. As _NEScape!_ is incompatible with the default NES emulator of the FunKey S, it requires the use of the [third-party](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications") _FCEUmm_ emulator.
 
 ### Individual releases 
 
@@ -186,11 +186,11 @@ This section lists 87 individually released DRM-free games.
 
 [Return to top of section](#da-ir)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-ir)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Collections 
 
@@ -214,11 +214,11 @@ This section currently lists 144 DRM-free games sold in collections.
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Atari Vault 
 
@@ -246,11 +246,11 @@ Published by Atari, the _Atari Vault_ includes **18** DRM-free, eventually emula
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Atari Vault - 50 Game Add-On Pack 
 
@@ -274,11 +274,11 @@ Published by Atari, the _Atari Vault - 50 Game Add-On Pack_ includes **14** DRM-
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Blizzard Arcade Collection 
 
@@ -293,11 +293,11 @@ Published by Activision-Blizzard, the _Blizzard Arcade Collection_ includes **5*
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Bubsy Two-Fur 
 
@@ -309,11 +309,11 @@ Published by Retroism, _Bubsy Two-Fur_ includes **2** DRM-free _SNES_ games: [Bu
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### By Land and Air Bundle 
 
@@ -325,11 +325,11 @@ Published by Throwback Entertainment, the _By Land and Air Bundle_ includes **2*
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### DERE EVIL .EXE 
 
@@ -341,11 +341,11 @@ Published by AppSir, the game _DERE EVIL .EXE_ includes **2** DRM-free, DLC _NES
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### NeoGeo Classic Complete Collection 
 
@@ -378,11 +378,11 @@ Published by SNK, the _NeoGeo Classic Complete Collection_ includes **23** DRM-f
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### NeoGeo Pocket Color Selection Vol. 1 
 
@@ -402,11 +402,11 @@ Published by SNK, the _NeoGeo Pocket Color Selection Vol. 1_ includes **10** DRM
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Retro Action SNES Volume 1 
 
@@ -420,11 +420,11 @@ Published by Piko Interactive, _Retro Action SNES Volume 1_ includes **4** DRM-f
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Second Dimension RetroPak Vol. 1 
 
@@ -441,11 +441,11 @@ Published by Second Dimension, the _Second Dimension RetroPak Vol. 1_ includes *
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### SEGA Mega Drive and Genesis Classics 
 
@@ -508,11 +508,11 @@ Published by Sega, _SEGA Mega Drive and Genesis Classics_ includes **53** DRM-fr
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### The First Samurai + The Second Samurai Bundle 
 
@@ -524,15 +524,15 @@ Published by Piko Interactive, _The First Samurai + The Second Samurai Bundle_ i
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### The Iridion Collection 
 
-Published by Majesco Entertainment, the _The Iridion Collection_ includes **2** DRM-free _GBA_ games. It can be purchased on [Steam](https://store.steampowered.com/bundle/14064/The_Iridion_Collection/) for **$16.88**. The collection's games are also sold individually for $12.99 each. As _Iridion II_ is incompatible with the default FunKey S GBA emulator, it can only be played on the FunKey S via the use of an [alternate](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") GBA emulator. Note that as the game ROMs lack file extensions by default, the _.GBA_ extension should be added to each to allow other emulators to detect them.
+Published by Majesco Entertainment, the _The Iridion Collection_ includes **2** DRM-free _GBA_ games. It can be purchased on [Steam](https://store.steampowered.com/bundle/14064/The_Iridion_Collection/) for **$16.88**. The collection's games are also sold individually for $12.99 each. As _Iridion II_ is incompatible with the default FunKey S GBA emulator, it can only be played on the FunKey S via the use of an [alternate](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications") GBA emulator. Note that as the game ROMs lack file extensions by default, the _.GBA_ extension should be added to each to allow other emulators to detect them.
 
 | Name of Game | Genre | System | Release Type | Game Art |
 | Iridion 3D | [Action](https://en.wikipedia.org/wiki/Action_game "w:Action game") | GBA | Licensed |  |
@@ -540,11 +540,11 @@ Published by Majesco Entertainment, the _The Iridion Collection_ includes **2** 
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#da-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ## ROMs accessible with third-party software 
 
@@ -562,16 +562,16 @@ Finally, to allow PCSX-ReARMed to locate the audio data present within the _BIN_
 
 | Name of Game | Link | Genre | Price | Game Art | BIN File Name | CUE File |
 | Gunbird | [Link](https://www.humblebundle.com/store/mobile-light-force-aka-gunbird) | [Shoot 'em up](https://en.wikipedia.org/wiki/Shoot_%27em_up "w:Shoot 'em up") | $4.99 |  | MobileLightForceGunbird | [Download](/wiki/files/Gunbird CUE File.zip) |
-| N2O: Nitrous Oxide | [Link](https://store.steampowered.com/app/364840/N2O_Nitrous_Oxide/) | [Arcade](https://en.wikipedia.org/wiki/Arcade_game.md "w:Arcade game") | $4.99 |  | N2O | [Download](/wiki/files/N20 - Nitrous Oxide CUE File.zip) |
+| N2O: Nitrous Oxide | [Link](https://store.steampowered.com/app/364840/N2O_Nitrous_Oxide/) | [Arcade](https://en.wikipedia.org/wiki/Arcade_game "w:Arcade game") | $4.99 |  | N2O | [Download](/wiki/files/N20 - Nitrous Oxide CUE File.zip) |
 | Sol Divide | [Link](https://www.humblebundle.com/store/sol-divide) | $4.99 |  | SolDivide | [Download](/wiki/files/Sol Divide CUE File.zip) |
 
 [Return to top of section](#sa-ir)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-ir)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Collections 
 
@@ -596,11 +596,11 @@ This section currently lists 132 digital games sold in collections.
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Castlevania Advance Collection 
 
@@ -609,25 +609,25 @@ Published by Konami, the _Castlevania Advance Collection_ includes **4** emulata
 Note that due to how the sound for the GBA games in the collection was re-implemented, the ROM files of those games do not have sound when extracted. To fix this issue, patches have been created to allow users who purchased the _Castlevania Advance Collection_ to reenable the audio for the collection's extracted Game Boy Advance games. Available for download [here](/wiki/files/Floating IPS %28Linux%29.zip). To use Floating IPS, begin by launching the application and selecting  Apply Patch . After selecting your matching IPS and ROM files, the application will apply the modifications to the ROM file and finish with a  The file was successfully patched!  message. The game can then be put into the  Game Boy Advance  folder of the FunKey S.
 
 | Name of Game | Genre | System | Release Type | Game Art |
-| Castlevania: Aria of Sorrow | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania.md "w:Metroidvania") | GBA | Licensed |  |
+| Castlevania: Aria of Sorrow | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania "w:Metroidvania") | GBA | Licensed |  |
 | Castlevania: Circle of the Moon |  |
 | Castlevania: Dracula X | SNES |  |
 | Castlevania: Harmony of Dissonance | GBA |  |
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Castlevania Anniversary Collection 
 
 Published by Konami, the _Castlevania Anniversary Collection_ includes **8** emulatable games, of which four are for the _NES_, one is for the _Sega Genesis (Mega Drive)_, two are for the _Game Boy_, and one is for the _SNES_. It can be purchased on [Steam](https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/) for **$19.99**. As the collection's game ROM files are not accessible by default, they must be extracted before they can be put onto the FunKey S. To do this, begin by downloading the [.NET framework](http://dotnet.microsoft.com/download) and the [Windows](/wiki/files/u>. Lastly, locate the extracted ROM files in the  \alldata.psb.m extracted\system\roms  location of your computer's file system and copy the ones you wish to use onto your FunKey S.
 
 | Name of Game | Genre | System | Release Type | Game Art |
-| Castlevania | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania.md "w:Metroidvania") | NES | Licensed |  |
+| Castlevania | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania "w:Metroidvania") | NES | Licensed |  |
 | Castlevania II: Belmont's Revenge | GB |  |
 | Castlevania II: Simon's Quest | NES |  |
 | Castlevania III: Dracula's Curse |  |
@@ -638,11 +638,11 @@ Published by Konami, the _Castlevania Anniversary Collection_ includes **8** emu
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Contra Anniversary Collection 
 
@@ -657,11 +657,11 @@ Published by Konami, the _Contra Anniversary Collection_ includes **5** emulatab
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Disney Classic Games Aladdin & Lion King 
 
@@ -676,11 +676,11 @@ Published by Disney, the _Disney Classic Games Aladdin & Lion King_ collection i
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Double Dragon Trilogy 
 
@@ -693,11 +693,11 @@ Published by Dotemu, the _Double Dragon Trilogy_ includes **3** eventually emula
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Irem Arcade Hits 
 
@@ -725,11 +725,11 @@ Published by Dotemu, _Irem Arcade Hits_ includes **18** eventually emulatable _A
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Lucasfilm Classic Games: Zombies Ate My Neighbors & Ghoul Patrol 
 
@@ -741,11 +741,11 @@ Published by Disney, _Lucasfilm Classic Games: Zombies Ate My Neighbors & Ghoul 
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Mega Man Legacy Collection 
 
@@ -761,11 +761,11 @@ Published by Capcom, the _Mega Man Legacy Collection_ includes **6** emulatable 
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Mega Man X Legacy Collection 
 
@@ -778,11 +778,11 @@ Published by Capcom, the _Mega Man X Legacy Collection_ includes **3** emulatabl
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Namco Museum Archives Vol. 1 
 
@@ -803,11 +803,11 @@ Published by Bandai Namco, _Namco Museum Archives Vol. 1_ includes **11** emulat
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Namco Museum Archives Vol. 2 
 
@@ -828,11 +828,11 @@ Published by Bandai Namco, _Namco Museum Archives Vol. 2_ includes **11** emulat
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Raiden Legacy 
 
@@ -846,11 +846,11 @@ Published by Dotemu, the _Raiden Legacy_ collection includes **4** eventually em
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### SNK 40th Anniversary Collection 
 
@@ -892,11 +892,11 @@ Published by SNK, the _SNK 40th Anniversary Collection_ includes **32** emulatab
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Street Fighter 30th Anniversary Collection 
 
@@ -918,11 +918,11 @@ Published by Capcom, the _Street Fighter 30th Anniversary Collection_ includes *
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### The Disney Afternoon Collection 
 
@@ -938,11 +938,11 @@ Published by Capcom, _The Disney Afternoon Collection_ includes **6** emulatable
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#sa-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ## ROMs accessible with third-party hardware 
 
@@ -1038,11 +1038,11 @@ This section lists 78 individually released games only available in a physical f
 
 [Return to top of section](#ha-ir)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#ha-ir)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Collections 
 
@@ -1058,11 +1058,11 @@ This section lists 25 games only available on collection cartridges.
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Bovinium Quest & Exit Loop NES Package 
 
@@ -1074,11 +1074,11 @@ Published by Midwest Gaming Classic, the _Bovinium Quest & Exit Loop NES Package
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Data East All Star Collection 
 
@@ -1093,11 +1093,11 @@ Published by Retro-Bit, the _Data East All Star Collection_ includes **5** emula
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Jaleco Brawler's Pack 
 
@@ -1111,11 +1111,11 @@ Published by Retro-Bit, the _Jaleco Brawler's Pack_ includes **4** emulatable _S
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Joe & Mac: Ultimate Caveman Collection 
 
@@ -1128,11 +1128,11 @@ Published by Retro-Bit, the _Joe & Mac: Ultimate Caveman Collection_ includes **
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Wisdom Tree Collection NES 
 
@@ -1148,11 +1148,11 @@ Published by Wisdom Tree, _Wisdom Tree Collection NES_ includes **7** emulatable
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Wisdom Tree Sega Genesis/Mega Drive Collection 
 
@@ -1166,11 +1166,11 @@ Published by Piko Interactive, _Wisdom Tree Sega Genesis/Mega Drive Collection_ 
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#ha-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ## ROMs not accessible 
 
@@ -1191,11 +1191,11 @@ This section lists commercially available emulated games that do not have their 
 
 [Return to top of section](#na-ir)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#na-ir)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Collections 
 
@@ -1209,11 +1209,11 @@ This section lists commercially available emulated games that do not have their 
 
 [Return to top of section](#na-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#na-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Anniversary Collection Arcade Classics 
 
@@ -1231,11 +1231,11 @@ Published by Konami, _Anniversary Collection Arcade Classics_ includes **8** eve
 
 [Return to top of section](#na-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#na-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Capcom Beat 'Em Up Bundle 
 
@@ -1252,11 +1252,11 @@ Published by Capcom, the _Capcom Beat 'Em Up Bundle_ includes **7** eventually e
 
 [Return to top of section](#na-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#na-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Dungeons & Dragons: Chronicles of Mystara 
 
@@ -1268,11 +1268,11 @@ Published by Capcom, _Dungeons & Dragons: Chronicles of Mystara_ includes **2** 
 
 [Return to top of section](#na-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#na-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 #### Samurai Shodown NeoGeo Collection 
 
@@ -1289,8 +1289,8 @@ Published by SNK, the _Samurai Shodown NeoGeo Collection_ includes **7** eventua
 
 [Return to top of section](#na-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [Return to top of section](#na-c)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)

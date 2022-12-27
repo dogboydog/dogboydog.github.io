@@ -1,7 +1,7 @@
 # List of games with compatibility issues
 
 
-This article lists games that have compatibility issues with the default FunKey S emulators. As the compatibility of such games can range from fully-compatible to fully-incompatible, compatibility issues have been divided into four main categories based on severity: [fully-compatible](#fully-compatible-games), [fully-playable](#fully-playable-games), [partially-compatible](#partially-compatible-games), and [incompatible](#incompatible-games). These categories list games that are glitch-free if configured correctly, slightly-glitched, heavily-glitched, and incompatible, respectively. While games in the first two sections should generally be played via the default emulators and those in the last two should generally be played via [third-party emulators](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications"), any game listed in this article not marked in bold should have improved compatibility in at least one of the higher CPU usage third-party emulators. Bold-formatted games that are also italicized require additional testing to see if a change of settings and/or emulators fixes their compatibility issue. The [fifth section](#playstation-games-that-have-compatibility-issues-with-the-default-bios) of this article lists PlayStation games that have compatibility issues if the official PlayStation BIOS file is not added to the FunKey S [as instructed here](https://doc.funkey-project.com/user_manual/tutorials/software/gba_bios/). Conversely, games with improved compatibility via the use of the default BIOS rather than the official PlayStation one have their listings highlighted in grey. While FunKey S Game Boy Advance emulation has a default compatibility rate of approximately 91 percent when games from the latter two categories are combined and subtracted (compared to [96 to 100 percent](/wiki/FunKey_Wiki_Knowledge_Center#are_there_any_games_that_aren't_emulated_properly_on_the_funkey_s "FunKey Wiki Knowledge Center") for the other default emulators), nearly all games from the remaining nine percent can be played at full or near-full speed via the use one of the aforementioned third-party emulators. As this article does not seek to list accurately emulated games as some compatibility lists do, if you cannot find a game by searching for it via your browser's search tool, it is most likely emulated without issue on the FunKey S. If a new compatibility issue is found, however, please inform the [the wiki admin](/wiki/User_talk:CoolieCoolster.md "User talk:CoolieCoolster") so that this article may be amended. While this article exists primarily to document the capabilities of the FunKey S [default emulators](https://github.com/FunKey-Project), as many of these emulators are multi-platform and different emulators can share compatibility issues, many of the glitches documented here occur on other devices as well.
+This article lists games that have compatibility issues with the default FunKey S emulators. As the compatibility of such games can range from fully-compatible to fully-incompatible, compatibility issues have been divided into four main categories based on severity: [fully-compatible](#fully-compatible-games), [fully-playable](#fully-playable-games), [partially-compatible](#partially-compatible-games), and [incompatible](#incompatible-games). These categories list games that are glitch-free if configured correctly, slightly-glitched, heavily-glitched, and incompatible, respectively. While games in the first two sections should generally be played via the default emulators and those in the last two should generally be played via [third-party emulators](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications"), any game listed in this article not marked in bold should have improved compatibility in at least one of the higher CPU usage third-party emulators. Bold-formatted games that are also italicized require additional testing to see if a change of settings and/or emulators fixes their compatibility issue. The [fifth section](#playstation-games-that-have-compatibility-issues-with-the-default-bios) of this article lists PlayStation games that have compatibility issues if the official PlayStation BIOS file is not added to the FunKey S [as instructed here](https://doc.funkey-project.com/user_manual/tutorials/software/gba_bios/). Conversely, games with improved compatibility via the use of the default BIOS rather than the official PlayStation one have their listings highlighted in grey. While FunKey S Game Boy Advance emulation has a default compatibility rate of approximately 91 percent when games from the latter two categories are combined and subtracted (compared to [96 to 100 percent](/wiki/FunKey_Wiki_Knowledge_Center.md#are_there_any_games_that_aren't_emulated_properly_on_the_funkey_s "FunKey Wiki Knowledge Center") for the other default emulators), nearly all games from the remaining nine percent can be played at full or near-full speed via the use one of the aforementioned third-party emulators. As this article does not seek to list accurately emulated games as some compatibility lists do, if you cannot find a game by searching for it via your browser's search tool, it is most likely emulated without issue on the FunKey S. If a new compatibility issue is found, however, please inform the [the wiki admin](/wiki/User_talk:CoolieCoolster.md "User talk:CoolieCoolster") so that this article may be amended. While this article exists primarily to document the capabilities of the FunKey S [default emulators](https://github.com/FunKey-Project), as many of these emulators are multi-platform and different emulators can share compatibility issues, many of the glitches documented here occur on other devices as well.
 
 ## Contents
 
@@ -70,28 +70,28 @@ In _Koro Koro Puzzle - Happy Panechu!_, _WarioWare: Twisted!_, and _Yoshi Topsy-
 
 | Game | Article | System | Version | Patch |
 | Arkanoid | [Link](https://en.wikipedia.org/wiki/Arkanoid "w:Arkanoid") | NES |  | [Download](/wiki/files/Arkanoid %28US%29.ips) |
-| **Boktai: The Sun Is in Your Hand** | [Link](https://en.wikipedia.org/wiki/Boktai:_The_Sun_Is_in_Your_Hand.md "w:Boktai: The Sun Is in Your Hand") | GBA |  | [Download](/wiki/files/Boktai - The Sun Is in Your Hand %28EU%29.ips) |
+| **Boktai: The Sun Is in Your Hand** | [Link](https://en.wikipedia.org/wiki/Boktai:_The_Sun_Is_in_Your_Hand "w:Boktai: The Sun Is in Your Hand") | GBA |  | [Download](/wiki/files/Boktai - The Sun Is in Your Hand %28EU%29.ips) |
 |  | [Download](/wiki/files/Boktai - The Sun Is in Your Hand %28JP%29.ips) |
 |  | [Download](/wiki/files/Boktai - The Sun Is in Your Hand %28US%29.ips) |
 | Beta |  | [Download](/wiki/files/Boktai - The Sun Is in Your Hand %28US%29 %28Beta%29.ips) |
-| **Boktai 2: Solar Boy Django** | [Link](https://en.wikipedia.org/wiki/Boktai_2:_Solar_Boy_Django.md "w:Boktai 2: Solar Boy Django") |  | [Download](/wiki/files/Boktai 2 - Solar Boy Django %28EU%29.ips) |
+| **Boktai 2: Solar Boy Django** | [Link](https://en.wikipedia.org/wiki/Boktai_2:_Solar_Boy_Django "w:Boktai 2: Solar Boy Django") |  | [Download](/wiki/files/Boktai 2 - Solar Boy Django %28EU%29.ips) |
 |  | [Download](/wiki/files/Boktai 2 - Solar Boy Django %28JP%29.ips) |
 | Rev 1 |  | [Download](/wiki/files/Boktai 2 - Solar Boy Django %28JP%29 %28Rev 1%29.ips) |
 |  | [Download](/wiki/files/Boktai 2 - Solar Boy Django %28US%29.ips) |
 | **Boktai 3: Sabata's Counterattack** |  |  | [Download](/wiki/files/Boktai 3 - Sabata's Counterattack %28JP%29.ips) |
 | Dragon Ball Z: Buu's Fury | [Link](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_The_Legacy_of_Goku#Buu's_Fury "w:Dragon Ball Z: The Legacy of Goku") |  | [Download](/wiki/files/Dragon Ball Z - Buu's Fury %28US%29.ips) |
-| Dragon Ball Z: Taiketsu | [Link](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Taiketsu.md "w:Dragon Ball Z: Taiketsu") |  | [Download](/wiki/files/Dragon Ball Z - Taiketsu %28EU%29.ips) |
+| Dragon Ball Z: Taiketsu | [Link](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Taiketsu "w:Dragon Ball Z: Taiketsu") |  | [Download](/wiki/files/Dragon Ball Z - Taiketsu %28EU%29.ips) |
 |  | [Download](/wiki/files/Dragon Ball Z - Taiketsu %28US%29.ips) |
 | Dragon Ball Z: The Legacy of Goku II | [Link](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_The_Legacy_of_Goku#The_Legacy_of_Goku_II "w:Dragon Ball Z: The Legacy of Goku") |  | [Download](/wiki/files/Dragon Ball Z - The Legacy of Goku II %28EU%29.ips) |
 |  | [Download](/wiki/files/Dragon Ball Z - The Legacy of Goku II %28US%29.ips) |
-| Hamtaro: Ham-Ham Heartbreak | [Link](https://en.wikipedia.org/wiki/Hamtaro:_Ham-Ham_Heartbreak.md "w:Hamtaro: Ham-Ham Heartbreak") |  | [Download](/wiki/files/Hamtaro - Ham-Ham Heartbreak %28EU%29.ips) |
+| Hamtaro: Ham-Ham Heartbreak | [Link](https://en.wikipedia.org/wiki/Hamtaro:_Ham-Ham_Heartbreak "w:Hamtaro: Ham-Ham Heartbreak") |  | [Download](/wiki/files/Hamtaro - Ham-Ham Heartbreak %28EU%29.ips) |
 |  | [Download](/wiki/files/Hamtaro - Ham-Ham Heartbreak %28US%29.ips) |
-| **Koro Koro Puzzle - Happy Panechu!** | [Link](https://en.wikipedia.org/wiki/Koro_Koro_Puzzle_-_Happy_Panechu!.md "w:Koro Koro Puzzle - Happy Panechu!") |  | [Download](/wiki/files/Koro Koro Puzzle %28JP%29.ips) |
-| **Mario & Wario** | [Link](https://en.wikipedia.org/wiki/Mario_%26_Wario.md "w:Mario & Wario") | SNES | [Download](/wiki/files/Mario %26 Wario.ips) |
-| Shamu's Deep Sea Adventures | [Link](https://en.wikipedia.org/wiki/Shamu%27s_Deep_Sea_Adventures.md "w:Shamu's Deep Sea Adventures") | GBA |  | [Download](/wiki/files/Shamu's Deep Sea Adventures.ips) |
-| Top Gun: Combat Zones | [Link](https://en.wikipedia.org/wiki/Top_Gun:_Combat_Zones.md "w:Top Gun: Combat Zones") |  | [Download](/wiki/files/Top Gun - Combat Zones %28US%29.ips) |
-| **WarioWare: Twisted!** | [Link](https://en.wikipedia.org/wiki/WarioWare:_Twisted!.md "w:WarioWare: Twisted!") | [Download](/wiki/files/WarioWare - Twisted%21 %28US%29.ips) |
-| **Yoshi Topsy-Turvy** | [Link](https://en.wikipedia.org/wiki/Yoshi%27s_Universal_Gravitation.md "w:Yoshi's Universal Gravitation") | [Download](/wiki/files/Yoshi Topsy Turvy %28US%29.ips) |
+| **Koro Koro Puzzle - Happy Panechu!** | [Link](https://en.wikipedia.org/wiki/Koro_Koro_Puzzle_-_Happy_Panechu! "w:Koro Koro Puzzle - Happy Panechu!") |  | [Download](/wiki/files/Koro Koro Puzzle %28JP%29.ips) |
+| **Mario & Wario** | [Link](https://en.wikipedia.org/wiki/Mario_%26_Wario "w:Mario & Wario") | SNES | [Download](/wiki/files/Mario %26 Wario.ips) |
+| Shamu's Deep Sea Adventures | [Link](https://en.wikipedia.org/wiki/Shamu%27s_Deep_Sea_Adventures "w:Shamu's Deep Sea Adventures") | GBA |  | [Download](/wiki/files/Shamu's Deep Sea Adventures.ips) |
+| Top Gun: Combat Zones | [Link](https://en.wikipedia.org/wiki/Top_Gun:_Combat_Zones "w:Top Gun: Combat Zones") |  | [Download](/wiki/files/Top Gun - Combat Zones %28US%29.ips) |
+| **WarioWare: Twisted!** | [Link](https://en.wikipedia.org/wiki/WarioWare:_Twisted! "w:WarioWare: Twisted!") | [Download](/wiki/files/WarioWare - Twisted%21 %28US%29.ips) |
+| **Yoshi Topsy-Turvy** | [Link](https://en.wikipedia.org/wiki/Yoshi%27s_Universal_Gravitation "w:Yoshi's Universal Gravitation") | [Download](/wiki/files/Yoshi Topsy Turvy %28US%29.ips) |
 
 ### Games that require an SBI file 
 
@@ -100,61 +100,61 @@ The [PAL](https://en.wikipedia.org/wiki/PAL_region "w:PAL region") regional vari
 | Game | Article | NTSC Alternative? | Language(s) | SBI File |
 | **Actua Air Hockey 2** |  | No |  | [Download](/wiki/files/Actua Air Hockey 2.zip) |
 | **Asterix: Mega Madness** |  | [Download](/wiki/files/Asterix - Mega Madness.zip) |
-| **Barbie Super Sports****Barbie: Sports Extrême** | [Link](https://en.wikipedia.org/wiki/Barbie_Super_Sports.md "w:Barbie Super Sports") | Yes |  | [Download](/wiki/files/Barbie Super Sports %28DE%29.zip) |
+| **Barbie Super Sports****Barbie: Sports Extrême** | [Link](https://en.wikipedia.org/wiki/Barbie_Super_Sports "w:Barbie Super Sports") | Yes |  | [Download](/wiki/files/Barbie Super Sports %28DE%29.zip) |
 |  | [Download](/wiki/files/Barbie Super Sports.zip) |
 |  | [Download](/wiki/files/Barbie Super Sports %28ES%29.zip) |
 |  | [Download](/wiki/files/Barbie Super Sports %28IT%29.zip) |
 |  | [Download](/wiki/files/Barbie - Sports Extr%C3%AAme.zip) |
-| **Barbie: Race & Ride****Barbie: Aventure Equestre** | [Link](https://en.wikipedia.org/wiki/Barbie:_Race_%26_Ride.md "w:Barbie: Race & Ride") |  | [Download](/wiki/files/Barbie - Race %26 Ride %28DE%29.zip) |
+| **Barbie: Race & Ride****Barbie: Aventure Equestre** | [Link](https://en.wikipedia.org/wiki/Barbie:_Race_%26_Ride "w:Barbie: Race & Ride") |  | [Download](/wiki/files/Barbie - Race %26 Ride %28DE%29.zip) |
 |  | [Download](/wiki/files/Barbie - Race %26 Ride.zip) |
 |  | [Download](/wiki/files/Barbie - Race %26 Ride %28ES%29.zip) |
 |  | [Download](/wiki/files/Barbie - Race %26 Ride %28IT%29.zip) |
 |  | [Download](/wiki/files/Barbie - Aventure Equestre.zip) |
-| **Crash Bash** | [Link](https://en.wikipedia.org/wiki/Crash_Bash.md "w:Crash Bash") |  | [Download](/wiki/files/Crash Bash.zip) |
-| **Crash Team Racing** | EDC | [Link](https://en.wikipedia.org/wiki/Crash_Team_Racing.md "w:Crash Team Racing") | [Download](/wiki/files/Crash Team Racing %28EDC%29.zip) |
+| **Crash Bash** | [Link](https://en.wikipedia.org/wiki/Crash_Bash "w:Crash Bash") |  | [Download](/wiki/files/Crash Bash.zip) |
+| **Crash Team Racing** | EDC | [Link](https://en.wikipedia.org/wiki/Crash_Team_Racing "w:Crash Team Racing") | [Download](/wiki/files/Crash Team Racing %28EDC%29.zip) |
 | No EDC | [Download](/wiki/files/Crash Team Racing %28No EDC%29.zip) |
-| **Dino Crisis** | [Link](https://en.wikipedia.org/wiki/Dino_Crisis_(video_game).md "w:Dino Crisis (video game)") |  | [Download](/wiki/files/Dino Crisis %28DE%29.zip) |
+| **Dino Crisis** | [Link](https://en.wikipedia.org/wiki/Dino_Crisis_(video_game) "w:Dino Crisis (video game)") |  | [Download](/wiki/files/Dino Crisis %28DE%29.zip) |
 |  | [Download](/wiki/files/Dino Crisis.zip) |
 |  | [Download](/wiki/files/Dino Crisis %28ES%29.zip) |
 |  | [Download](/wiki/files/Dino Crisis %28FR%29.zip) |
 |  | [Download](/wiki/files/Dino Crisis %28IT%29.zip) |
-| **Disney's 102 Dalmatians: Puppies to the Rescue** | [Link](https://en.wikipedia.org/wiki/Disney%27s_102_Dalmatians:_Puppies_to_the_Rescue.md "w:Disney's 102 Dalmatians: Puppies to the Rescue") |  | [Download](/wiki/files/Disney's 102 Dalmations - Puppies to the Rescue %28DE-ES-FR-IT%29.zip) |
+| **Disney's 102 Dalmatians: Puppies to the Rescue** | [Link](https://en.wikipedia.org/wiki/Disney%27s_102_Dalmatians:_Puppies_to_the_Rescue "w:Disney's 102 Dalmatians: Puppies to the Rescue") |  | [Download](/wiki/files/Disney's 102 Dalmations - Puppies to the Rescue %28DE-ES-FR-IT%29.zip) |
 |  | [Download](/wiki/files/Disney's 102 Dalmations - Puppies to the Rescue.zip) |
-| **Disney's Story Studio: Mulan****Disney Libro Animato Creativo - Mulan****Disney's Mulan****Disney's Verhalenstudio - Mulan** | [Link](https://en.wikipedia.org/wiki/Disney%27s_Animated_Storybook.md "w:Disney's Animated Storybook") | [Download](/wiki/files/Disney's Story Studio - Mulan.zip) |
+| **Disney's Story Studio: Mulan****Disney Libro Animato Creativo - Mulan****Disney's Mulan****Disney's Verhalenstudio - Mulan** | [Link](https://en.wikipedia.org/wiki/Disney%27s_Animated_Storybook "w:Disney's Animated Storybook") | [Download](/wiki/files/Disney's Story Studio - Mulan.zip) |
 |  | [Download](/wiki/files/Disney Libro Animato Creativo - Mulan.zip) |
 |  | [Download](/wiki/files/Disney's Mulan %28DE%29.zip) |
 |  | [Download](/wiki/files/Disney's Mulan %28ES%29.zip) |
 |  | [Download](/wiki/files/Disney's Verhalenstudio - Mulan.zip) |
-| **Disney's Tarzan** | [Link](https://en.wikipedia.org/wiki/Disney%27s_Tarzan_(video_game).md "w:Disney's Tarzan (video game)") |  | [Download](/wiki/files/Disney's Tarzan %28DE%29.zip) |
+| **Disney's Tarzan** | [Link](https://en.wikipedia.org/wiki/Disney%27s_Tarzan_(video_game) "w:Disney's Tarzan (video game)") |  | [Download](/wiki/files/Disney's Tarzan %28DE%29.zip) |
 |  | [Download](/wiki/files/Disney's Tarzan.zip) |
 |  | [Download](/wiki/files/Disney's Tarzan %28ES%29.zip) |
 |  | [Download](/wiki/files/Disney's Tarzan %28FR%29.zip) |
 |  | [Download](/wiki/files/Disney's Tarzan %28IT%29.zip) |
 |  | [Download](/wiki/files/Disney's Tarzan %28NL%29.zip) |
 |  | [Download](/wiki/files/Disney's Tarzan %28SV%29.zip) |
-| **Eagle One: Harrier Attack** | [Link](https://en.wikipedia.org/wiki/Eagle_One:_Harrier_Attack.md "w:Eagle One: Harrier Attack") |  | [Download](/wiki/files/Eagle One - Harrier Attack.zip) |
-| **Final Fantasy IX** | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_IX.md "w:Final Fantasy IX") |  | [Download](/wiki/files/Final Fantasy IX %28DE%29.zip) |
+| **Eagle One: Harrier Attack** | [Link](https://en.wikipedia.org/wiki/Eagle_One:_Harrier_Attack "w:Eagle One: Harrier Attack") |  | [Download](/wiki/files/Eagle One - Harrier Attack.zip) |
+| **Final Fantasy IX** | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_IX "w:Final Fantasy IX") |  | [Download](/wiki/files/Final Fantasy IX %28DE%29.zip) |
 |  | [Download](/wiki/files/Final Fantasy IX.zip) |
 |  | [Download](/wiki/files/Final Fantasy IX %28ES%29.zip) |
 |  | [Download](/wiki/files/Final Fantasy IX %28FR%29.zip) |
 |  | [Download](/wiki/files/Final Fantasy IX %28IT%29.zip) |
-| **Final Fantasy VIII** | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VIII.md "w:Final Fantasy VIII") |  | [Download](/wiki/files/Final Fantasy VIII %28DE%29.zip) |
+| **Final Fantasy VIII** | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VIII "w:Final Fantasy VIII") |  | [Download](/wiki/files/Final Fantasy VIII %28DE%29.zip) |
 |  | [Download](/wiki/files/Final Fantasy VIII.zip) |
 |  | [Download](/wiki/files/Final Fantasy VIII %28ES%29.zip) |
 |  | [Download](/wiki/files/Final Fantasy VIII %28FR%29.zip) |
 |  | [Download](/wiki/files/Final Fantasy VIII %28IT%29.zip) |
 | **Fussball Manager 2001** | [Link](https://en.wikipedia.org/wiki/FIFA_Manager#The_F.A._Premier_League_Football_Manager_2001 "w:FIFA Manager") |  | [Download](/wiki/files/Fussball Manager 2001.zip) |
-| **Galerians** | [Link](https://en.wikipedia.org/wiki/Galerians.md "w:Galerians") | [Download](/wiki/files/Galerians %28DE%29.zip) |
+| **Galerians** | [Link](https://en.wikipedia.org/wiki/Galerians "w:Galerians") | [Download](/wiki/files/Galerians %28DE%29.zip) |
 |  | [Download](/wiki/files/Galerians.zip) |
 |  | [Download](/wiki/files/Galerians %28FR%29.zip) |
-| **Gekido: Urban Fighters** | [Link](https://en.wikipedia.org/wiki/Gekido.md "w:Gekido") |  | [Download](/wiki/files/Gekido - Urban Fighters.zip) |
-| **Hogs of War****Frontschweine****Les Cochons de Guerre** | [Link](https://en.wikipedia.org/wiki/Hogs_of_War.md "w:Hogs of War") |  | [Download](/wiki/files/Hogs of War.zip) |
+| **Gekido: Urban Fighters** | [Link](https://en.wikipedia.org/wiki/Gekido "w:Gekido") |  | [Download](/wiki/files/Gekido - Urban Fighters.zip) |
+| **Hogs of War****Frontschweine****Les Cochons de Guerre** | [Link](https://en.wikipedia.org/wiki/Hogs_of_War "w:Hogs of War") |  | [Download](/wiki/files/Hogs of War.zip) |
 |  | [Download](/wiki/files/Frontschweine.zip) |
 |  | [Download](/wiki/files/Les Cochons de Guerre.zip) |
-| **Jackie Chan Stuntmaster** | [Link](https://en.wikipedia.org/wiki/Jackie_Chan_Stuntmaster.md "w:Jackie Chan Stuntmaster") |  | [Download](/wiki/files/Jackie Chan Stuntmaster.zip) |
-| **Le Mans 24 Hours** | [Link](https://en.wikipedia.org/wiki/Le_Mans_24_Hours_(video_game).md "w:Le Mans 24 Hours (video game)") |  | [Download](/wiki/files/Le Mans 24 Hours.zip) |
+| **Jackie Chan Stuntmaster** | [Link](https://en.wikipedia.org/wiki/Jackie_Chan_Stuntmaster "w:Jackie Chan Stuntmaster") |  | [Download](/wiki/files/Jackie Chan Stuntmaster.zip) |
+| **Le Mans 24 Hours** | [Link](https://en.wikipedia.org/wiki/Le_Mans_24_Hours_(video_game) "w:Le Mans 24 Hours (video game)") |  | [Download](/wiki/files/Le Mans 24 Hours.zip) |
 | **Le Monde des Bleus: Le Jeu Officiel de l'Équipe de France** |  | No |  | [Download](/wiki/files/Le Monde des Bleus - Le jeu officiel de l'equipe de France.zip) |
-| **Legacy of Kain: Soul Reaver** | [Link](https://en.wikipedia.org/wiki/Legacy_of_Kain:_Soul_Reaver.md "w:Legacy of Kain: Soul Reaver") | Yes |  | [Download](/wiki/files/Legacy of Kain - Soul Reaver %28DE%29.zip) |
+| **Legacy of Kain: Soul Reaver** | [Link](https://en.wikipedia.org/wiki/Legacy_of_Kain:_Soul_Reaver "w:Legacy of Kain: Soul Reaver") | Yes |  | [Download](/wiki/files/Legacy of Kain - Soul Reaver %28DE%29.zip) |
 |  | [Download](/wiki/files/Legacy of Kain - Soul Reaver.zip) |
 |  | [Download](/wiki/files/Legacy of Kain - Soul Reaver %28ES%29.zip) |
 |  | [Download](/wiki/files/Legacy of Kain - Soul Reaver %28FR%29.zip) |
@@ -165,86 +165,86 @@ The [PAL](https://en.wikipedia.org/wiki/PAL_region "w:PAL region") regional vari
 | **LMA Manager 2002****BDFL Manager 2002** | [Link](https://en.wikipedia.org/wiki/LMA_Manager#LMA_Manager_2002 "w:LMA Manager") |  | [Download](/wiki/files/LMA Manager 2002.zip) |
 |  | [Download](/wiki/files/BDFL Manager 2002.zip) |
 | **Lucky Luke: Western Fever** |  |  | [Download](/wiki/files/Lucky Luke - Western Fever.zip) |
-| **MediEvil** | [Link](https://en.wikipedia.org/wiki/MediEvil.md "w:MediEvil") | Yes |  | [Download](/wiki/files/MediEvil %28DE%29.zip) |
+| **MediEvil** | [Link](https://en.wikipedia.org/wiki/MediEvil "w:MediEvil") | Yes |  | [Download](/wiki/files/MediEvil %28DE%29.zip) |
 |  | [Download](/wiki/files/MediEvil.zip) |
 |  | [Download](/wiki/files/MediEvil %28ES%29.zip) |
 |  | [Download](/wiki/files/MediEvil %28FR%29.zip) |
 |  | [Download](/wiki/files/MediEvil %28IT%29.zip) |
-| **MediEvil 2** | [Link](https://en.wikipedia.org/wiki/MediEvil_2.md "w:MediEvil 2") |  | [Download](/wiki/files/MediEvil 2.zip) |
+| **MediEvil 2** | [Link](https://en.wikipedia.org/wiki/MediEvil_2 "w:MediEvil 2") |  | [Download](/wiki/files/MediEvil 2.zip) |
 |  | [Download](/wiki/files/MediEvil 2 %28ES%29 %28IT%29 %28PT%29.zip) |
 |  | [Download](/wiki/files/MediEvil 2 %28RU%29.zip) |
-| **Men in Black: The Series – Crashdown** | [Link](https://en.wikipedia.org/wiki/Men_in_Black:_The_Series_%E2%80%93_Crashdown.md "w:Men in Black: The Series – Crashdown") |  | [Download](/wiki/files/Men in Black - The Series - Crashdown %28DE%29.zip) |
+| **Men in Black: The Series – Crashdown** | [Link](https://en.wikipedia.org/wiki/Men_in_Black:_The_Series_%E2%80%93_Crashdown "w:Men in Black: The Series – Crashdown") |  | [Download](/wiki/files/Men in Black - The Series - Crashdown %28DE%29.zip) |
 |  | [Download](/wiki/files/Men in Black - The Series - Crashdown.zip) |
 |  | [Download](/wiki/files/Men in Black - The Series - Crashdown %28ES%29.zip) |
 |  | [Download](/wiki/files/Men in Black - The Series - Crashdown %28FR%29.zip) |
 |  | [Download](/wiki/files/Men in Black - The Series - Crashdown %28IT%29.zip) |
-| **Michelin Rally Masters: Race of Champions** | [Link](https://en.wikipedia.org/wiki/Michelin_Rally_Masters:_Race_of_Champions.md "w:Michelin Rally Masters: Race of Champions") |  | [Download](/wiki/files/Michelin Rally Masters - Race of Champions.zip) |
+| **Michelin Rally Masters: Race of Champions** | [Link](https://en.wikipedia.org/wiki/Michelin_Rally_Masters:_Race_of_Champions "w:Michelin Rally Masters: Race of Champions") |  | [Download](/wiki/files/Michelin Rally Masters - Race of Champions.zip) |
 |  | [Download](/wiki/files/Michelin Rally Masters - Race of Champions %28ES-FR-IT%29.zip) |
-| **Mike Tyson Boxing****Prince Naseem Boxing** | [Link](https://en.wikipedia.org/wiki/Mike_Tyson_Boxing.md "w:Mike Tyson Boxing") |  | [Download](/wiki/files/Mike Tyson Boxing.zip) |
+| **Mike Tyson Boxing****Prince Naseem Boxing** | [Link](https://en.wikipedia.org/wiki/Mike_Tyson_Boxing "w:Mike Tyson Boxing") |  | [Download](/wiki/files/Mike Tyson Boxing.zip) |
 | [Download](/wiki/files/Prince Naseem Boxing.zip) |
-| **Mission: Impossible** | [Link](https://en.wikipedia.org/wiki/Mission:_Impossible_(1998_video_game).md "w:Mission: Impossible (1998 video game)") |  | [Download](/wiki/files/Mission - Impossible.zip) |
-| **MoHo** | [Link](https://en.wikipedia.org/wiki/Ball_Breakers.md "w:Ball Breakers") |  | [Download](/wiki/files/MoHo.zip) |
-| **Need for Speed: Porsche 2000** | [Link](https://en.wikipedia.org/wiki/Need_for_Speed:_Porsche_Unleashed.md "w:Need for Speed: Porsche Unleashed") |  | [Download](/wiki/files/Need for Speed - Porsche 2000.zip) |
+| **Mission: Impossible** | [Link](https://en.wikipedia.org/wiki/Mission:_Impossible_(1998_video_game) "w:Mission: Impossible (1998 video game)") |  | [Download](/wiki/files/Mission - Impossible.zip) |
+| **MoHo** | [Link](https://en.wikipedia.org/wiki/Ball_Breakers "w:Ball Breakers") |  | [Download](/wiki/files/MoHo.zip) |
+| **Need for Speed: Porsche 2000** | [Link](https://en.wikipedia.org/wiki/Need_for_Speed:_Porsche_Unleashed "w:Need for Speed: Porsche Unleashed") |  | [Download](/wiki/files/Need for Speed - Porsche 2000.zip) |
 |  | [Download](/wiki/files/Need for Speed - Porsche 2000 %28ES-FR-IT%29.zip) |
-| **NGEN Racing** | [Link](https://en.wikipedia.org/wiki/NGEN_Racing.md "w:NGEN Racing") |  | [Download](/wiki/files/NGEN Racing.zip) |
+| **NGEN Racing** | [Link](https://en.wikipedia.org/wiki/NGEN_Racing "w:NGEN Racing") |  | [Download](/wiki/files/NGEN Racing.zip) |
 | **PGA European Tour Golf** | [Link](https://en.wikipedia.org/wiki/PGA_Tour_(video_game_series)#PGA_European_Tour_(1994) "w:PGA Tour (video game series)") | No |  | [Download](/wiki/files/PGA European Tour Golf.zip) |
 | **Premier Manager 2000****Canal+ Premier Manager****Anstoss: Premier Manager** | [Link](https://en.wikipedia.org/wiki/Premier_Manager#Premier_Manager_2000 "w:Premier Manager") | [Download](/wiki/files/Premier Manager 2000.zip) |
 |  | [Download](/wiki/files/Canal%2B Premier Manager.zip) |
 |  | [Download](/wiki/files/Antoss - Premier Manager.zip) |
-| **Radikal Bikers** | [Link](https://en.wikipedia.org/wiki/Radikal_Bikers.md "w:Radikal Bikers") |  | [Download](/wiki/files/Radikal Bikers.zip) |
-| **RC Revenge** | [Link](https://en.wikipedia.org/wiki/RC_Revenge.md "w:RC Revenge") | Yes |  | [Download](/wiki/files/RC Revenge.zip) |
-| **Resident Evil 3: Nemesis** | [Link](https://en.wikipedia.org/wiki/Resident_Evil_3:_Nemesis.md "w:Resident Evil 3: Nemesis") |  | [Download](/wiki/files/Resident Evil 3 - Nemesis %28DE%29.zip) |
+| **Radikal Bikers** | [Link](https://en.wikipedia.org/wiki/Radikal_Bikers "w:Radikal Bikers") |  | [Download](/wiki/files/Radikal Bikers.zip) |
+| **RC Revenge** | [Link](https://en.wikipedia.org/wiki/RC_Revenge "w:RC Revenge") | Yes |  | [Download](/wiki/files/RC Revenge.zip) |
+| **Resident Evil 3: Nemesis** | [Link](https://en.wikipedia.org/wiki/Resident_Evil_3:_Nemesis "w:Resident Evil 3: Nemesis") |  | [Download](/wiki/files/Resident Evil 3 - Nemesis %28DE%29.zip) |
 |  | [Download](/wiki/files/Resident Evil 3 - Nemesis %28IR%29.zip) |
 |  | [Download](/wiki/files/Resident Evil 3 - Nemesis.zip) |
 |  | [Download](/wiki/files/Resident Evil 3 - Nemesis %28ES%29.zip) |
 |  | [Download](/wiki/files/Resident Evil - Nemesis %28FR%29.zip) |
 |  | [Download](/wiki/files/Resident Evil - Nemesis %28IT%29.zip) |
-| **Ronaldo V-Football** | [Link](https://en.wikipedia.org/wiki/Ronaldo_V-Football.md "w:Ronaldo V-Football") | No |  | [Download](/wiki/files/Ronaldo V-Football.zip) |
+| **Ronaldo V-Football** | [Link](https://en.wikipedia.org/wiki/Ronaldo_V-Football "w:Ronaldo V-Football") | No |  | [Download](/wiki/files/Ronaldo V-Football.zip) |
 |  | [Download](/wiki/files/Ronaldo V-Football %28DE-ES-IT-PT%29.zip) |
-| **SaGa Frontier 2** | [Link](https://en.wikipedia.org/wiki/SaGa_Frontier_2.md "w:SaGa Frontier 2") | Yes |  | [Download](/wiki/files/SaGa Frontier 2 %28DE%29.zip) |
+| **SaGa Frontier 2** | [Link](https://en.wikipedia.org/wiki/SaGa_Frontier_2 "w:SaGa Frontier 2") | Yes |  | [Download](/wiki/files/SaGa Frontier 2 %28DE%29.zip) |
 |  | [Download](/wiki/files/SaGa Frontier 2.zip) |
 |  | [Download](/wiki/files/SaGa Frontier 2 %28FR%29.zip) |
-| **Sno-Cross Championship Racing** | [Link](https://en.wikipedia.org/wiki/Sno-Cross_Championship_Racing.md "w:Sno-Cross Championship Racing") |  | [Download](/wiki/files/Sno-Cross Championship Racing.zip) |
+| **Sno-Cross Championship Racing** | [Link](https://en.wikipedia.org/wiki/Sno-Cross_Championship_Racing "w:Sno-Cross Championship Racing") |  | [Download](/wiki/files/Sno-Cross Championship Racing.zip) |
 | **Space Debris** |  | No |  | [Download](/wiki/files/Space Debris %28DE%29.zip) |
 |  | [Download](/wiki/files/Space Debris.zip) |
 |  | [Download](/wiki/files/Space Debris %28FR%29.zip) |
 |  | [Download](/wiki/files/Space Debris %28IT%29.zip) |
-| **Speed Freaks** | [Link](https://en.wikipedia.org/wiki/Speed_Freaks.md "w:Speed Freaks") | Yes |  | [Download](/wiki/files/Speed Freaks.zip) |
-| **Spyro 2: Gateway to Glimmer** | [Link](https://en.wikipedia.org/wiki/Spyro_2:_Ripto%27s_Rage!.md "w:Spyro 2: Ripto's Rage!") |  | [Download](/wiki/files/Spyro 2 - Gateway to Glimmer.zip) |
-| **Spyro: Year of the Dragon** | Regular | [Link](https://en.wikipedia.org/wiki/Spyro:_Year_of_the_Dragon.md "w:Spyro: Year of the Dragon") | [Download](/wiki/files/Spyro - Year of the Dragon %28Regular%29.zip) |
+| **Speed Freaks** | [Link](https://en.wikipedia.org/wiki/Speed_Freaks "w:Speed Freaks") | Yes |  | [Download](/wiki/files/Speed Freaks.zip) |
+| **Spyro 2: Gateway to Glimmer** | [Link](https://en.wikipedia.org/wiki/Spyro_2:_Ripto%27s_Rage! "w:Spyro 2: Ripto's Rage!") |  | [Download](/wiki/files/Spyro 2 - Gateway to Glimmer.zip) |
+| **Spyro: Year of the Dragon** | Regular | [Link](https://en.wikipedia.org/wiki/Spyro:_Year_of_the_Dragon "w:Spyro: Year of the Dragon") | [Download](/wiki/files/Spyro - Year of the Dragon %28Regular%29.zip) |
 | Platinum | [Download](/wiki/files/Spyro - Year of the Dragon.zip) |
-| **Superbike 2000** | [Link](https://en.wikipedia.org/wiki/Superbike_2000.md "w:Superbike 2000") |  | [Download](/wiki/files/Superbike 2000.zip) |
-| **Sydney 2000** | [Link](https://en.wikipedia.org/wiki/Sydney_2000_(video_game).md "w:Sydney 2000 (video game)") |  | [Download](/wiki/files/Sydney 2000 %28DE%29.zip) |
+| **Superbike 2000** | [Link](https://en.wikipedia.org/wiki/Superbike_2000 "w:Superbike 2000") |  | [Download](/wiki/files/Superbike 2000.zip) |
+| **Sydney 2000** | [Link](https://en.wikipedia.org/wiki/Sydney_2000_(video_game) "w:Sydney 2000 (video game)") |  | [Download](/wiki/files/Sydney 2000 %28DE%29.zip) |
 |  | [Download](/wiki/files/Sydney 2000.zip) |
 |  | [Download](/wiki/files/Sydney 2000 %28ES%29.zip) |
 |  | [Download](/wiki/files/Sydney 2000 %28FR%29.zip) |
-| **Technomage: Return of Eternity****Technomage: De Terugkeer der Eeuwigheid****Technomage: Die Rueckehr der Ewigkeit****Technomage: En Quête de l'Éternité** | [Link](https://en.wikipedia.org/wiki/Technomage_(video_game).md "w:Technomage (video game)") | No |  | [Download](/wiki/files/TechnoMage - Return of Eternity.zip) |
+| **Technomage: Return of Eternity****Technomage: De Terugkeer der Eeuwigheid****Technomage: Die Rueckehr der Ewigkeit****Technomage: En Quête de l'Éternité** | [Link](https://en.wikipedia.org/wiki/Technomage_(video_game) "w:Technomage (video game)") | No |  | [Download](/wiki/files/TechnoMage - Return of Eternity.zip) |
 |  | [Download](/wiki/files/TechnoMage - De Terugkeer der Eeuwigheid.zip) |
 |  | [Download](/wiki/files/TechnoMage - Die Rueckkehr der Ewigkeit.zip) |
 |  | [Download](/wiki/files/Technomage - En Qu%C3%AAte de l'%C3%89ternit%C3%A9.zip) |
-| **The Italian Job** | [Link](https://en.wikipedia.org/wiki/The_Italian_Job_(2001_video_game).md "w:The Italian Job (2001 video game)") | Yes |  | [Download](/wiki/files/The Italian Job %28DE%29.zip) |
+| **The Italian Job** | [Link](https://en.wikipedia.org/wiki/The_Italian_Job_(2001_video_game) "w:The Italian Job (2001 video game)") | Yes |  | [Download](/wiki/files/The Italian Job %28DE%29.zip) |
 |  | [Download](/wiki/files/The Italian Job.zip) |
-| **Theme Park World** | [Link](https://en.wikipedia.org/wiki/Theme_Park_World.md "w:Theme Park World") |  | [Download](/wiki/files/Theme Park World.zip) |
-| **This is Football****Esto es Futbol****Fussball Live** | [Link](https://en.wikipedia.org/wiki/This_is_Football_(video_game).md "w:This is Football (video game)") | No |  | [Download](/wiki/files/This is Football.zip) |
+| **Theme Park World** | [Link](https://en.wikipedia.org/wiki/Theme_Park_World "w:Theme Park World") |  | [Download](/wiki/files/Theme Park World.zip) |
+| **This is Football****Esto es Futbol****Fussball Live** | [Link](https://en.wikipedia.org/wiki/This_is_Football_(video_game) "w:This is Football (video game)") | No |  | [Download](/wiki/files/This is Football.zip) |
 |  | [Download](/wiki/files/This is Football %28FR-NL%29.zip) |
 |  | [Download](/wiki/files/This is Football %28IT%29.zip) |
 |  | [Download](/wiki/files/Esto es Futbol.zip) |
 |  | [Download](/wiki/files/Fussball Live.zip) |
-| **TOCA World Touring Cars** | [Link](https://en.wikipedia.org/wiki/TOCA_World_Touring_Cars.md "w:TOCA World Touring Cars") | Yes |  | [Download](/wiki/files/TOCA World Touring Cars.zip) |
+| **TOCA World Touring Cars** | [Link](https://en.wikipedia.org/wiki/TOCA_World_Touring_Cars "w:TOCA World Touring Cars") | Yes |  | [Download](/wiki/files/TOCA World Touring Cars.zip) |
 |  | [Download](/wiki/files/TOCA World Touring Cars %28ES-IT%29.zip) |
-| **UEFA Euro 2000** | [Link](https://en.wikipedia.org/wiki/UEFA_Euro_2000_(video_game).md "w:UEFA Euro 2000 (video game)") | No |  | [Download](/wiki/files/EUFA Euro 2000 %28DE%29.zip) |
+| **UEFA Euro 2000** | [Link](https://en.wikipedia.org/wiki/UEFA_Euro_2000_(video_game) "w:UEFA Euro 2000 (video game)") | No |  | [Download](/wiki/files/EUFA Euro 2000 %28DE%29.zip) |
 |  | [Download](/wiki/files/UEFA Euro 2000.zip) |
 |  | [Download](/wiki/files/EUFA Euro 2000 %28FR%29.zip) |
 |  | [Download](/wiki/files/UEFA Euro 2000 %28IT%29.zip) |
-| **UEFA Striker** | [Link](https://en.wikipedia.org/wiki/UEFA_Striker.md "w:UEFA Striker") | Yes |  | [Download](/wiki/files/UEFA Striker.zip) |
-| **Urban Chaos** | [Link](https://en.wikipedia.org/wiki/Urban_Chaos.md "w:Urban Chaos") |  | [Download](/wiki/files/Urban Chaos %28DE%29.zip) |
+| **UEFA Striker** | [Link](https://en.wikipedia.org/wiki/UEFA_Striker "w:UEFA Striker") | Yes |  | [Download](/wiki/files/UEFA Striker.zip) |
+| **Urban Chaos** | [Link](https://en.wikipedia.org/wiki/Urban_Chaos "w:Urban Chaos") |  | [Download](/wiki/files/Urban Chaos %28DE%29.zip) |
 |  | [Download](/wiki/files/Urban Chaos.zip) |
-| **Vagrant Story** | [Link](https://en.wikipedia.org/wiki/Vagrant_Story.md "w:Vagrant Story") |  | [Download](/wiki/files/Vagrant Story %28DE%29.zip) |
+| **Vagrant Story** | [Link](https://en.wikipedia.org/wiki/Vagrant_Story "w:Vagrant Story") |  | [Download](/wiki/files/Vagrant Story %28DE%29.zip) |
 |  | [Download](/wiki/files/Vagrant Story.zip) |
 |  | [Download](/wiki/files/Vagrant Story %28FR%29.zip) |
-| **V-Rally: Championship Edition 2** | [Link](https://en.wikipedia.org/wiki/V-Rally_2.md "w:V-Rally 2") |  | [Download](/wiki/files/V-Rally - Championship Edition 2.zip) |
-| **Walt Disney World Quest: Magical Racing Tour** | [Link](https://en.wikipedia.org/wiki/Walt_Disney_World_Quest:_Magical_Racing_Tour.md "w:Walt Disney World Quest: Magical Racing Tour") |  | [Download](/wiki/files/Walt Disney World Quest - Magical Racing Tour.zip) |
-| **Wip3out** | [Link](https://en.wikipedia.org/wiki/Wipeout_3.md "w:Wipeout 3") |  | [Download](/wiki/files/Wip3out.zip) |
+| **V-Rally: Championship Edition 2** | [Link](https://en.wikipedia.org/wiki/V-Rally_2 "w:V-Rally 2") |  | [Download](/wiki/files/V-Rally - Championship Edition 2.zip) |
+| **Walt Disney World Quest: Magical Racing Tour** | [Link](https://en.wikipedia.org/wiki/Walt_Disney_World_Quest:_Magical_Racing_Tour "w:Walt Disney World Quest: Magical Racing Tour") |  | [Download](/wiki/files/Walt Disney World Quest - Magical Racing Tour.zip) |
+| **Wip3out** | [Link](https://en.wikipedia.org/wiki/Wipeout_3 "w:Wipeout 3") |  | [Download](/wiki/files/Wip3out.zip) |
 
 ### Games that require adapted controls 
 
@@ -253,17 +253,17 @@ Since the SELECT and FN inputs share one button, it is possible for gameplay fun
 While _KEY_ files are the primary method of button remapping, Game Boy and Game Boy Color games can have their inputs alternatively remapped via the use of their emulator's configuration file. Should you wish to remap your device's buttons via this method, a pre-configured configuration file that adds additional mappings of SELECT (without FN tied to it) and START to the device's shoulder buttons can be downloaded [here](/wiki/files/Final Fantasy VIII Alternate KEY File.zip) that returns the mapping of the shoulder and trigger inputs to normal can subsequently be used.
 
 | Game | Article | System | Button Combination(s) | Modifications | KEY File |
-| Boktai 2: Solar Boy Django | [Link](https://en.wikipedia.org/wiki/Boktai_2:_Solar_Boy_Django.md "w:Boktai 2: Solar Boy Django") | GBA | <u>Select + Left/Right</u> Adjusting sunlight level | Zoom + → R2 Zoom − → L2 | [Download](/wiki/files/Boktai 2 - Solar Boy Django Key File.zip) |
+| Boktai 2: Solar Boy Django | [Link](https://en.wikipedia.org/wiki/Boktai_2:_Solar_Boy_Django "w:Boktai 2: Solar Boy Django") | GBA | <u>Select + Left/Right</u> Adjusting sunlight level | Zoom + → R2 Zoom − → L2 | [Download](/wiki/files/Boktai 2 - Solar Boy Django Key File.zip) |
 | Boktai 3: Sabata's Counterattack |  | [Download](/wiki/files/Boktai 3 - Sabata's Counterattack Key File.zip) |
-| Driver 2 | [Link](https://en.wikipedia.org/wiki/Driver_2.md "w:Driver 2") | PS1 | <u>L2 + R2</u> Looking backwards while driving | L/R ↔ L2/R2 | [Download](/wiki/files/Driver 2 Key File.zip) |
+| Driver 2 | [Link](https://en.wikipedia.org/wiki/Driver_2 "w:Driver 2") | PS1 | <u>L2 + R2</u> Looking backwards while driving | L/R ↔ L2/R2 | [Download](/wiki/files/Driver 2 Key File.zip) |
 | System statistics → FN+START | [Download](/wiki/files/Driver 2 Alternative Key File.zip) |
-| Final Fantasy VII | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VII.md "w:Final Fantasy VII") | <u>R + R2</u> Replenishing stamina while Chocobo racing | L → L2 R → L L2 → R2 R2 → R | [Download](/wiki/files/Final Fantasy VII KEY File.zip) |
-| Final Fantasy VIII | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VIII.md "w:Final Fantasy VIII") | <u>L2 + R2</u> Running away from battles <u>Select + Y</u> Boosting attack power | L/R ↔ L2/R2 Volume + → FN+UP Volume − → FN+DOWN Screenshot → FN+A Aspect ratio → FN+START | [Download](/wiki/files/Final Fantasy VIII KEY File.zip) |
+| Final Fantasy VII | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VII "w:Final Fantasy VII") | <u>R + R2</u> Replenishing stamina while Chocobo racing | L → L2 R → L L2 → R2 R2 → R | [Download](/wiki/files/Final Fantasy VII KEY File.zip) |
+| Final Fantasy VIII | [Link](https://en.wikipedia.org/wiki/Final_Fantasy_VIII "w:Final Fantasy VIII") | <u>L2 + R2</u> Running away from battles <u>Select + Y</u> Boosting attack power | L/R ↔ L2/R2 Volume + → FN+UP Volume − → FN+DOWN Screenshot → FN+A Aspect ratio → FN+START | [Download](/wiki/files/Final Fantasy VIII KEY File.zip) |
 | GB-8 (Homebrew) | [Link](/wiki/List_of_emulatable_utilities#Emulation "List of emulatable utilities") | GB | <u>Select + Start + A + B</u> Closing meta-emulator | Volume + → R2 Volume − → L2 Brightness − → FN+Y | [Download](/wiki/files/GB-8 Key File.zip) |
-| Treasures of the Deep | [Link](https://en.wikipedia.org/wiki/Treasures_in_the_Deep.md "w:Treasures in the Deep") | PS1 | <u>Select + Action buttons</u> General submarine controls <u>Select + Trigger buttons</u> Submarine light controls <u>Shoulder buttons + Trigger buttons</u> Getting on and off the submarine <u>L2 + R2</u> Submarine thrust controls | UP/DOWN ↔ L/R LEFT/RIGHT ↔ L2/R2 No volume, brightness, and zoom shortcuts | [Download](/wiki/files/Treasures of the Deep Key File.zip) |
+| Treasures of the Deep | [Link](https://en.wikipedia.org/wiki/Treasures_in_the_Deep "w:Treasures in the Deep") | PS1 | <u>Select + Action buttons</u> General submarine controls <u>Select + Trigger buttons</u> Submarine light controls <u>Shoulder buttons + Trigger buttons</u> Getting on and off the submarine <u>L2 + R2</u> Submarine thrust controls | UP/DOWN ↔ L/R LEFT/RIGHT ↔ L2/R2 No volume, brightness, and zoom shortcuts | [Download](/wiki/files/Treasures of the Deep Key File.zip) |
 | UP/DOWN ↔ L/R LEFT/RIGHT ↔ L2/R2 Volume + → FN+UP Volume − → FN+DOWN Screenshot → L2+R2 No brightness, zoom, system statistic, and aspect ratio shortcuts | [Download](/wiki/files/Treasures of the Deep Alternative Key File.zip) |
-| Turok: Battle of the Bionosaurs | [Link](https://en.wikipedia.org/wiki/Turok:_Battle_of_the_Bionosaurs.md "w:Turok: Battle of the Bionosaurs") | GB | <u>Select + Left/Right</u> Swapping weapons | Zoom + → R2 Zoom − → L2 | [Download](/wiki/files/Turok - Battle of the Bionosaurs Key File.zip) |
-| Wing Commander | [Link](https://en.wikipedia.org/wiki/Wing_Commander_(video_game).md "w:Wing Commander (video game)") | SNES | <u>Select + Action buttons</u> Combat controls <u>Select + Shoulder buttons</u> Game settings | Volume + → FN+RIGHT Volume − → FN+LEFT Brightness + → FN+UP Brightness − → FN+DOWN Screenshot → FN+START No zoom and aspect ratio shortcuts | [Download](/wiki/files/Wing Commander Key File.zip) |
+| Turok: Battle of the Bionosaurs | [Link](https://en.wikipedia.org/wiki/Turok:_Battle_of_the_Bionosaurs "w:Turok: Battle of the Bionosaurs") | GB | <u>Select + Left/Right</u> Swapping weapons | Zoom + → R2 Zoom − → L2 | [Download](/wiki/files/Turok - Battle of the Bionosaurs Key File.zip) |
+| Wing Commander | [Link](https://en.wikipedia.org/wiki/Wing_Commander_(video_game) "w:Wing Commander (video game)") | SNES | <u>Select + Action buttons</u> Combat controls <u>Select + Shoulder buttons</u> Game settings | Volume + → FN+RIGHT Volume − → FN+LEFT Brightness + → FN+UP Brightness − → FN+DOWN Screenshot → FN+START No zoom and aspect ratio shortcuts | [Download](/wiki/files/Wing Commander Key File.zip) |
 | Wing Commander: The Secret Missions | [Link](https://en.wikipedia.org/wiki/Wing_Commander_(franchise)#The_Secret_Missions "w:Wing Commander (franchise)") | [Download](/wiki/files/Wing Commander - The Secret Missions Key File.zip) |
 
 ### Games with other glitches 
@@ -272,11 +272,11 @@ The following games have emulation issues by default that do not fit into any of
 
 #### Games that require a pre-existing save file 
 
-This subsection lists Game Boy Advance games that require the presence of a pre-prepared _SAV_ format save file to allow the user to bypass the opening sequences, ensuring full-playability. While such a save file can be created for any of the listed games by simply loading each game's ROM file in a computer Game Boy Advance emulator (or the natively-running [third-party mGBA emulator](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications")) and generating save data as soon as possible, users who don't mind having a default name associated with their save data can download one of the pre-prepared _SAV_ files linked-to below instead. Once this file is generated or downloaded, it should be placed in the _GBA_ folder of the FunKey S, replacing any existing _SAV_ file for the respective game. From then on, if selecting _New Game_ rather than _Resume Game_, users should be sure to always load their pre-existing save file rather than creating a new one to prevent a crash from occurring.
+This subsection lists Game Boy Advance games that require the presence of a pre-prepared _SAV_ format save file to allow the user to bypass the opening sequences, ensuring full-playability. While such a save file can be created for any of the listed games by simply loading each game's ROM file in a computer Game Boy Advance emulator (or the natively-running [third-party mGBA emulator](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications")) and generating save data as soon as possible, users who don't mind having a default name associated with their save data can download one of the pre-prepared _SAV_ files linked-to below instead. Once this file is generated or downloaded, it should be placed in the _GBA_ folder of the FunKey S, replacing any existing _SAV_ file for the respective game. From then on, if selecting _New Game_ rather than _Resume Game_, users should be sure to always load their pre-existing save file rather than creating a new one to prevent a crash from occurring.
 
 | Game | Article | SAV File |
 | Denki Blocks! | [Link](https://en.wikipedia.org/wiki/Denki_Blocks! "w:Denki Blocks!") | [Download](/wiki/files/Denki Blocks%21.zip) |
-| Grand Theft Auto Advance | [Link](https://en.wikipedia.org/wiki/Grand_Theft_Auto_Advance.md "w:Grand Theft Auto Advance") | [Download](/wiki/files/Grand Theft Auto Advance.zip) |
+| Grand Theft Auto Advance | [Link](https://en.wikipedia.org/wiki/Grand_Theft_Auto_Advance "w:Grand Theft Auto Advance") | [Download](/wiki/files/Grand Theft Auto Advance.zip) |
 | Woody Woodpecker in Crazy Castle 5 |  | [Download](/wiki/files/Woody Woodpecker in Crazy Castle 5.zip) |
 
 #### Games that require a default BIOS 
@@ -293,7 +293,7 @@ The PAL versions of the following NES games have severe graphical glitches due t
 
 | Game | Article | Glitch(es) | NTSC Alternative? | CFG File |
 | Elite | [Link](https://en.wikipedia.org/wiki/Elite_(video_game) "w:Elite (video game)") |  ​Severe graphical glitches ​ | No | [Download](/wiki/files/Elite.zip) |
-| Ferrari Grand Prix Challenge | [Link](https://en.wikipedia.org/wiki/F-1_Hero_MD#NES_and_Game_Boy_versions "w:F-1 Hero MD") | Yes | [Download](/wiki/files/Ferrari Grand Prix Challenge.zip) |
+| Ferrari Grand Prix Challenge | [Link](https://en.wikipedia.org/wiki/F-1_Hero#NES_and_Game_Boy_versions "w:F-1 Hero MD") | Yes | [Download](/wiki/files/Ferrari Grand Prix Challenge.zip) |
 | Sped up audio |
 
 #### Games that temporarily freeze 
@@ -423,7 +423,7 @@ The following Game Boy Advance games have been found to have graphical glitching
 
 ### Games with other graphical glitches 
 
-The following games have graphical glitches that do not fit into any graphical glitch category above. Graphical glitches in the following games range from barely to extremely noticeable, but none prevent the player from playing the game to completion. While compatible games with more severe graphical glitches are listed [further down the page](#games-with-severe-graphical-glitches), should you find the graphical glitches of any of the following GBA games to be too extreme, it is suggested that you use one of the potentially slower, but more compatible, [third-party GBA emulators](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") instead.
+The following games have graphical glitches that do not fit into any graphical glitch category above. Graphical glitches in the following games range from barely to extremely noticeable, but none prevent the player from playing the game to completion. While compatible games with more severe graphical glitches are listed [further down the page](#games-with-severe-graphical-glitches), should you find the graphical glitches of any of the following GBA games to be too extreme, it is suggested that you use one of the potentially slower, but more compatible, [third-party GBA emulators](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications") instead.
 
 | Game | Article | System | Severity |
 | **AirGrave** |  | PS1 | Mild |
@@ -578,7 +578,7 @@ Games listed below have light to moderate speedup or slowdown, though not suffic
 
 ### Games with avoidable non-sporadic crashing 
 
-The following games have been found to crash non-sporadically during gameplay. As games that crash this way unavoidably are listed [further down the page](#games-with-unavoidable-non-sporadic-crashing), most games listed below have accompanying instructions detailing how to prevent the respective game from crashing. The one exception to this is _Snatcher_ for the Sega CD, which has at least three points during gameplay where the game temporary freezes for several minutes, with background animation and, in some cases, music continuing until text appears and gameplay can continue. While none of these instances of crashing prevent main game completion and most not be discovered by chance very often, should you wish to improve the emulation accuracy of the GBA games on the list, you can use one of the more accurate, though potentially slower, [third-party GBA emulators](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications").
+The following games have been found to crash non-sporadically during gameplay. As games that crash this way unavoidably are listed [further down the page](#games-with-unavoidable-non-sporadic-crashing), most games listed below have accompanying instructions detailing how to prevent the respective game from crashing. The one exception to this is _Snatcher_ for the Sega CD, which has at least three points during gameplay where the game temporary freezes for several minutes, with background animation and, in some cases, music continuing until text appears and gameplay can continue. While none of these instances of crashing prevent main game completion and most not be discovered by chance very often, should you wish to improve the emulation accuracy of the GBA games on the list, you can use one of the more accurate, though potentially slower, [third-party GBA emulators](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications").
 
 | Game | Article | System | Description |
 | Series | Edition |
@@ -605,11 +605,11 @@ The following games have been found to crash non-sporadically during gameplay. A
 
 ## Partially-compatible games 
 
-Games listed below are believed to be playable to completion on the FunKey S, but have severe emulation glitches that hamper gameplay. Because of this, it is recommended that, where available, [third-party](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") emulators be used to play these games on the FunKey S. This section currently lists **22** licensed games confirmed to be partially-compatible.
+Games listed below are believed to be playable to completion on the FunKey S, but have severe emulation glitches that hamper gameplay. Because of this, it is recommended that, where available, [third-party](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications") emulators be used to play these games on the FunKey S. This section currently lists **22** licensed games confirmed to be partially-compatible.
 
 ### Games with severe graphical glitches 
 
-The following games have severe graphical glitches that are constantly noticeable. While all games listed here are believed to still be fully-playable, in the case of Game Boy Advance games it is recommended that one of the more demanding, yet more accurate, [third-party emulators](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") be used instead. Note that while the Game Boy Advance game _Risk / Battleship / Clue_ is listed here, only the _Battleship_ portion of it is impacted by a severe graphical glitch.
+The following games have severe graphical glitches that are constantly noticeable. While all games listed here are believed to still be fully-playable, in the case of Game Boy Advance games it is recommended that one of the more demanding, yet more accurate, [third-party emulators](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications") be used instead. Note that while the Game Boy Advance game _Risk / Battleship / Clue_ is listed here, only the _Battleship_ portion of it is impacted by a severe graphical glitch.
 
 As the Sega Master System version of _Micro Machines_ crashes in the system's default emulator, to avoid its complete incompatibility it must be converted to the Game Gear format. To do this, simply change the file extension of the game's ROM file from _SMS_ to _GG_ and place that file in the _Game Gear_, rather than _Sega Master System_, folder of the FunKey S. While the game will be zoomed in and graphically glitched due to the differences of the Game Gear hardware, the game itself remains entirely playable. Despite this, the use of a third-party emulator to emulate _Micro Machines_ and the twelve incompatible Sega Master System games that remain unplayable when converted this way is still recommended.
 
@@ -631,7 +631,7 @@ As the Sega Master System version of _Micro Machines_ crashes in the system's de
 
 ### Games with sporadic crashing 
 
-The following games have been found to crash sporadically during gameplay. _Chrono Cross_ has been found to randomly get stuck on a black screen after closing the in-game menu. Videos illustrating the issue can be found [here](https://www.youtube.com/watch?v=6CSBdXC8Hn8) and [here](https://www.youtube.com/watch?v=cNyc_s-3C5w); the regular updating of save states and/or in-game saves to restore the game to is the recommended counter-measure. In addition to freezing sporadically when cutscenes are triggered, _Roswell Conspiracies: Aliens, Myths & Legends_ also freezes if audio from the game's logbook is played. _Thrasher Presents Skate and Destroy_ has been found to sporadically crash infrequently during gameplay, though this issue has so far not been found in the [PAL](https://en.wikipedia.org/wiki/PAL_region "w:PAL region") variants of the game. As there is no set point at which the GBA games on the list crash, they are partially compatible, though it is recommended that one of the [alternate](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications"), albeit potentially slower, emulators be used with these games instead to entirely avoid the risk of crashing. If you decide to play these games in the default gpSP emulator, be sure to create regular save states as a means of reloading in case a crash does occur.
+The following games have been found to crash sporadically during gameplay. _Chrono Cross_ has been found to randomly get stuck on a black screen after closing the in-game menu. Videos illustrating the issue can be found [here](https://www.youtube.com/watch?v=6CSBdXC8Hn8) and [here](https://www.youtube.com/watch?v=cNyc_s-3C5w); the regular updating of save states and/or in-game saves to restore the game to is the recommended counter-measure. In addition to freezing sporadically when cutscenes are triggered, _Roswell Conspiracies: Aliens, Myths & Legends_ also freezes if audio from the game's logbook is played. _Thrasher Presents Skate and Destroy_ has been found to sporadically crash infrequently during gameplay, though this issue has so far not been found in the [PAL](https://en.wikipedia.org/wiki/PAL_region "w:PAL region") variants of the game. As there is no set point at which the GBA games on the list crash, they are partially compatible, though it is recommended that one of the [alternate](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications"), albeit potentially slower, emulators be used with these games instead to entirely avoid the risk of crashing. If you decide to play these games in the default gpSP emulator, be sure to create regular save states as a means of reloading in case a crash does occur.
 
 | Game | Article | System |
 | _**Chrono Cross**_ | [Link](https://en.wikipedia.org/wiki/Chrono_Cross "w:Chrono Cross") | PS1 |
@@ -645,7 +645,7 @@ The following games have been found to crash sporadically during gameplay. _Chro
 
 ### Games with unavoidable non-sporadic crashing 
 
-The following games have been found to crash non-sporadically during gameplay. As games that crash this way avoidably are listed [further up the page](#games-with-unavoidable-non-sporadic-crashing), all games listed below cannot be played without an unavoidable crash occurring at some point during gameplay. The solutions to these instances of crashing vary; as _Air Hockey_ only crashes when a match ends, only a restart is required. As _The Legend of Zelda: The Minish Cap_ and _Final Fantasy VIII_ only crash at a certain point, one option would be to save, continue in a computer GBA emulator (or the natively-running [third-party mGBA emulator](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications")) to bypass the crash point, and subsequently continue gameplay on the FunKey S. For a more consistent gameplay experience, however, the use of [third-party emulators](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") for these games is recommended.
+The following games have been found to crash non-sporadically during gameplay. As games that crash this way avoidably are listed [further up the page](#games-with-unavoidable-non-sporadic-crashing), all games listed below cannot be played without an unavoidable crash occurring at some point during gameplay. The solutions to these instances of crashing vary; as _Air Hockey_ only crashes when a match ends, only a restart is required. As _The Legend of Zelda: The Minish Cap_ and _Final Fantasy VIII_ only crash at a certain point, one option would be to save, continue in a computer GBA emulator (or the natively-running [third-party mGBA emulator](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications")) to bypass the crash point, and subsequently continue gameplay on the FunKey S. For a more consistent gameplay experience, however, the use of [third-party emulators](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications") for these games is recommended.
 
 | Game | Article | System | Description |
 | Air Hockey (Homebrew) | [Link](https://pdroms.de/files/nintendo-gameboyadvance-gba/air-hockey-final) | GBA | Crashes when match ends; restart required |
@@ -666,7 +666,7 @@ While the following games initially appear to be emulated accurately, they have 
 
 ### Games with other issues 
 
-Even when not listed as fully-incompatible [below](#games-that-require-improved-emulation), [GBA video paks](https://en.wikipedia.org/wiki/Game_Boy_Advance_Video "w:Game Boy Advance Video") often have severe emulation issues, such as audio glitching and crashing, that render them unpleasant to use in the default Game Boy Advance emulator. While a [third-party](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") emulator could be used to solve many of these glitches, it is recommended that the natively-running MPlayer application be [downloaded](/wiki/files/MPlayer-V2.opk) instead for video playback on the FunKey S.
+Even when not listed as fully-incompatible [below](#games-that-require-improved-emulation), [GBA video paks](https://en.wikipedia.org/wiki/Game_Boy_Advance_Video "w:Game Boy Advance Video") often have severe emulation issues, such as audio glitching and crashing, that render them unpleasant to use in the default Game Boy Advance emulator. While a [third-party](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications") emulator could be used to solve many of these glitches, it is recommended that the natively-running MPlayer application be [downloaded](/wiki/files/MPlayer-V2.opk) instead for video playback on the FunKey S.
 
 ## Incompatible games 
 
@@ -674,7 +674,7 @@ Games listed below either do not run at all on the FunKey S or cannot be played 
 
 ### Games that require disk swapping 
 
-As neither the default Famicom Disk System nor PlayStation emulators currently have user-accessible disk swapping capabilities, games that require such functionality are currently not fully-compatible. Aside from _Parasite Eve II_, all PlayStation games listed below can still be played on the FunKey S via a [third-party](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") version of the default PlayStation emulator with implemented disk-swapping support. As the contents of _Metal Gear Solid_ and _Command & Conquer: Red Alert_ are contained in their equally incompatible _Metal Gear Solid: Integral_ and _Command & Conquer Red Alert: Retaliation_ re-releases, to avoid repetition, the initial releases are not listed in the table below. While _Final Fantasy Anthology_, _Final Fantasy Chronicles_, and _Gran Turismo 2_ are also multi-disk releases, as their disks can be played independently of each other, they remain fully-compatible. While the Family Computer Disk System version of _Zelda II: The Adventure of Link_ requires the user to swap the disk for game completion, as the game is available for the Nintendo Entertainment System as a cartridge as well, it remains fully-compatible. Excluding games for the yet-to-be fully-supported Famicom Disk System, at least **60** games are currently incompatible due to unimplemented disk-swapping capabilities.
+As neither the default Famicom Disk System nor PlayStation emulators currently have user-accessible disk swapping capabilities, games that require such functionality are currently not fully-compatible. Aside from _Parasite Eve II_, all PlayStation games listed below can still be played on the FunKey S via a [third-party](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications") version of the default PlayStation emulator with implemented disk-swapping support. As the contents of _Metal Gear Solid_ and _Command & Conquer: Red Alert_ are contained in their equally incompatible _Metal Gear Solid: Integral_ and _Command & Conquer Red Alert: Retaliation_ re-releases, to avoid repetition, the initial releases are not listed in the table below. While _Final Fantasy Anthology_, _Final Fantasy Chronicles_, and _Gran Turismo 2_ are also multi-disk releases, as their disks can be played independently of each other, they remain fully-compatible. While the Family Computer Disk System version of _Zelda II: The Adventure of Link_ requires the user to swap the disk for game completion, as the game is available for the Nintendo Entertainment System as a cartridge as well, it remains fully-compatible. Excluding games for the yet-to-be fully-supported Famicom Disk System, at least **60** games are currently incompatible due to unimplemented disk-swapping capabilities.
 
 | Game | Article | System |
 | Alone in the Dark: The New Nightmare | [Link](https://en.wikipedia.org/wiki/Alone_in_the_Dark:_The_New_Nightmare "w:Alone in the Dark: The New Nightmare") | PS1 |
@@ -786,7 +786,7 @@ The following table lists games that cannot be played on the FunKey S due to the
 The table below lists **213** licensed games that are incompatible with the FunKey S due to inaccuracies in the official emulation of the following systems:
 SMS         **12** PS1         **35** GB           **5** GBC          **2** GG          **10** WS/WSC      **5** SNES         **21** GBA        **123**
 
-Unless otherwise noted in the last column of the table, however, the following [third-party emulators](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") can be used as fast alternatives to accurately emulate games that are otherwise incompatible due to inaccurate emulation:
+Unless otherwise noted in the last column of the table, however, the following [third-party emulators](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications") can be used as fast alternatives to accurately emulate games that are otherwise incompatible due to inaccurate emulation:
 
 | Master System / Game Gear |
 | Game Boy / Game Boy Color |
@@ -802,7 +802,7 @@ Unless otherwise noted in the last column of the table, however, the following [
 | SwanEmu |
 | gpSP _(SDL Retro)_ |
 
-In addition to the incompatibilities numerated above, at least **19** multi-pak, **8** [GBA Video](https://en.wikipedia.org/wiki/Game_Boy_Advance_Video "w:Game Boy Advance Video"), **16** homebrew, and **1** event-only games have also been found to be incompatible due to faulty emulation. While for a variety of reasons these games are not included in the main numerical counts, they are still listed below for the sake of completeness. To differentiate them, they are have been both highlighted as a means of recognizing them and marked on in the leftmost column as a means of sorting them. A set of icons above the table serves as a legend for the associated colors and markings. As the multi-pak incompatibilities listed below are due to incompatible methods of 'multi-packing', games within these multi-paks are usually compatible if played separately. If you find that the list is missing a game or that one of the games listed works as intended, feel free to edit the list yourself or inform [the wiki admin](/wiki/User_talk:CoolieCoolster.md "User talk:CoolieCoolster")!
+In addition to the incompatibilities numerated above, at least **19** multi-pak, **8** [GBA Video](https://en.wikipedia.org/wiki/Game_Boy_Advance_Video "w:Game Boy Advance Video"), **16** homebrew, and **1** event-only games have also been found to be incompatible due to faulty emulation. While for a variety of reasons these games are not included in the main numerical counts, they are still listed below for the sake of completeness. To differentiate them, they are have been both highlighted as a means of recognizing them and marked on in the leftmost column as a means of sorting them. A set of icons above the table serves as a legend for the associated colors and markings. As the multi-pak incompatibilities listed below are due to incompatible methods of 'multi-packing', games within these multi-paks are usually compatible if played separately. If you find that the list is missing a game or that one of the games listed works as intended, feel free to edit the list yourself or inform [the wiki admin](/wiki/User_talk:CoolieCoolster "User talk:CoolieCoolster")!
 
 Multi-paks Ⅱ
 

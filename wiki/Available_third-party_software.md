@@ -1,7 +1,7 @@
 # Available third-party software
 
 
-This article is a compilation of different lists of software available for FunKey S users. For direct access to the list articles, use the following wikilinks: [third-party OPK applications](/wiki/List_of_third-party_OPK_applications.md "List of third-party OPK applications"), [emulatable freeware games](/wiki/List_of_emulatable_games_(freeware).md "List of emulatable games (freeware)"), [emulatable commercial games](/wiki/List_of_emulatable_games_(commercial).md "List of emulatable games (commercial)"), or [emulatable utilities](/wiki/List_of_emulatable_utilities.md "List of emulatable utilities"). This page also hosts this wiki's inclusion criteria that define which types of programs are and are not included in the linked-to lists. As the default emulators of the FunKey S are not perfect, users interested in the device's out of the box incompatible games should consult [this list](/wiki/List_of_games_with_compatibility_issues#Incompatible_games "List of games with compatibility issues").
+This article is a compilation of different lists of software available for FunKey S users. For direct access to the list articles, use the following wikilinks: [third-party OPK applications](/wiki/List_of_third-party_OPK_applications.md "List of third-party OPK applications"), [emulatable freeware games](/wiki/List_of_emulatable_games_(freeware).md "List of emulatable games (freeware)"), [emulatable commercial games](/wiki/List_of_emulatable_games_(commercial).md "List of emulatable games (commercial)"), or [emulatable utilities](/wiki/List_of_emulatable_utilities.md "List of emulatable utilities"). This page also hosts this wiki's inclusion criteria that define which types of programs are and are not included in the linked-to lists. As the default emulators of the FunKey S are not perfect, users interested in the device's out of the box incompatible games should consult [this list](/wiki/List_of_games_with_compatibility_issues.md#incompatible-games "List of games with compatibility issues").
 
 ## Contents
 
@@ -59,7 +59,7 @@ The following list includes all of the systems that the FunKey S can currently e
 
 **
 
-To give readers an idea of which systems could be supported by the FunKey S in the future, below this paragraph are listed various systems that are not currently officially emulated on the FunKey S. To begin, the following list consists of systems that can currently be emulated accurately at a reasonable speed on the FunKey S via one or more [third-party emulators](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") (with those in italics emulatable via [meta-emulation](/wiki/List_of_emulatable_utilities#Emulation "List of emulatable utilities")):
+To give readers an idea of which systems could be supported by the FunKey S in the future, below this paragraph are listed various systems that are not currently officially emulated on the FunKey S. To begin, the following list consists of systems that can currently be emulated accurately at a reasonable speed on the FunKey S via one or more [third-party emulators](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications") (with those in italics emulatable via [meta-emulation](/wiki/List_of_emulatable_utilities#Emulation "List of emulatable utilities")):
 **
 
 | [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC "w:Amstrad CPC") |

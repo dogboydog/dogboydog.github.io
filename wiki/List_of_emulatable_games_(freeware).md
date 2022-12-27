@@ -1,7 +1,7 @@
 # List of emulatable games (freeware)
 
 
-This article is a repository of links to homebrew and freeware games that are or will be playable on the FunKey S via emulation. Each supported system has its own section that contains a chart with that console's homebrew software. Currently, the systems supported by the FunKey S are, from oldest to newest: the NES, Master System, Sega Genesis, Game Boy, TurboGrafx-16, Atari Lynx, Game Gear, SNES, PS1, Game Boy Color, Neo Geo Pocket, and Game Boy Advance. While WonderSwan emulation is also possible on the FunKey, no completed homebrew or freeware games were found for the system. Additionally, a list for arcade games is present as well due to the confirmation of future support for arcade emulation on the FunKey S. While these lists have been compiled to include as many games as possible, they are not intended to be comprehensive lists of all unlicensed software available for the aforementioned systems, due to several [inclusion criteria](/wiki/Available_third-party_software#Inclusion_criteria "Available third-party software"). As more systems are made emulatable on the FunKey S, this article will grow to include homebrew game lists for those systems as well. Yellow-highlighted games listed below have been found to be incompatible with the default FunKey S emulators and should therefore be emulated via a [third-party emulator](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") instead.
+This article is a repository of links to homebrew and freeware games that are or will be playable on the FunKey S via emulation. Each supported system has its own section that contains a chart with that console's homebrew software. Currently, the systems supported by the FunKey S are, from oldest to newest: the NES, Master System, Sega Genesis, Game Boy, TurboGrafx-16, Atari Lynx, Game Gear, SNES, PS1, Game Boy Color, Neo Geo Pocket, and Game Boy Advance. While WonderSwan emulation is also possible on the FunKey, no completed homebrew or freeware games were found for the system. Additionally, a list for arcade games is present as well due to the confirmation of future support for arcade emulation on the FunKey S. While these lists have been compiled to include as many games as possible, they are not intended to be comprehensive lists of all unlicensed software available for the aforementioned systems, due to several [inclusion criteria](/wiki/Available_third-party_software.md#Inclusion_criteria "Available third-party software"). As more systems are made emulatable on the FunKey S, this article will grow to include homebrew game lists for those systems as well. Yellow-highlighted games listed below have been found to be incompatible with the default FunKey S emulators and should therefore be emulated via a [third-party emulator](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications") instead.
 
 ## Contents
 
@@ -46,61 +46,61 @@ This article currently lists **1106** freeware games available for the following
 
 ## Lists 
 
-[Arcade](/wiki/List_of_emulatable_games_(freeware)#Arcade_(not_yet_compatible) "List of emulatable games (freeware)")
+[Arcade](/wiki/List_of_emulatable_games_(freeware).md#arcade-not-yet-compatible "List of emulatable games (freeware)")
 
-[NES](/wiki/List_of_emulatable_games_(freeware)#Nintendo_Entertainment_System "List of emulatable games (freeware)")
+[NES](/wiki/List_of_emulatable_games_(freeware).md#nintendo-entertainment-system "List of emulatable games (freeware)")
 
-[Master System](/wiki/List_of_emulatable_games_(freeware)#Sega_Master_System "List of emulatable games (freeware)")
+[Master System](/wiki/List_of_emulatable_games_(freeware).md#sega-master-system "List of emulatable games (freeware)")
 
-[TurboGrafx-16](/wiki/List_of_emulatable_games_(freeware)#TurboGrafx-16_/_PC_Engine "List of emulatable games (freeware)")
+[TurboGrafx-16](/wiki/List_of_emulatable_games_(freeware).md#TurboGrafx-16-PC-Engine "List of emulatable games (freeware)")
 
-[Genesis](/wiki/List_of_emulatable_games_(freeware)#Sega_Genesis_/_Sega_Mega_Drive "List of emulatable games (freeware)")
+[Genesis](/wiki/List_of_emulatable_games_(freeware).md#Sega-Genesis-Sega-Mega-Drive "List of emulatable games (freeware)")
 
-[Game Boy](/wiki/List_of_emulatable_games_(freeware)#Game_Boy "List of emulatable games (freeware)")
+[Game Boy](/wiki/List_of_emulatable_games_(freeware).md#Game-Boy "List of emulatable games (freeware)")
 
-[Lynx](/wiki/List_of_emulatable_games_(freeware)#Atari_Lynx "List of emulatable games (freeware)")
+[Lynx](/wiki/List_of_emulatable_games_(freeware).md#Atari-Lynx "List of emulatable games (freeware)")
 
-[Game Gear](/wiki/List_of_emulatable_games_(freeware)#Sega_Game_Gear "List of emulatable games (freeware)")
+[Game Gear](/wiki/List_of_emulatable_games_(freeware).md#Sega-Game-Gear "List of emulatable games (freeware)")
 
-[SNES](/wiki/List_of_emulatable_games_(freeware)#Super_Nintendo_Entertainment_System "List of emulatable games (freeware)")
+[SNES](/wiki/List_of_emulatable_games_(freeware).md#Super-Nintendo-Entertainment-System "List of emulatable games (freeware)")
 
-[PS1](/wiki/List_of_emulatable_games_(freeware)#PlayStation "List of emulatable games (freeware)")
+[PS1](/wiki/List_of_emulatable_games_(freeware).md#PlayStation "List of emulatable games (freeware)")
 
-[GBC](/wiki/List_of_emulatable_games_(freeware)#Game_Boy_Color "List of emulatable games (freeware)")
+[GBC](/wiki/List_of_emulatable_games_(freeware).md#Game-Boy-Color "List of emulatable games (freeware)")
 
-[Neo Geo Pocket](/wiki/List_of_emulatable_games_(freeware)#Neo_Geo_Pocket "List of emulatable games (freeware)")
+[Neo Geo Pocket](/wiki/List_of_emulatable_games_(freeware).md#Neo-Geo-Pocket "List of emulatable games (freeware)")
 
-[WonderSwan](/wiki/List_of_emulatable_games_(freeware)#WonderSwan "List of emulatable games (freeware)")
+[WonderSwan](/wiki/List_of_emulatable_games_(freeware).md#WonderSwan "List of emulatable games (freeware)")
 
-[GBA](/wiki/List_of_emulatable_games_(freeware)#Game_Boy_Advance "List of emulatable games (freeware)")
+[GBA](/wiki/List_of_emulatable_games_(freeware).md#Game-Boy-Advance "List of emulatable games (freeware)")
 
-[Arcade](/wiki/List_of_emulatable_games_(freeware)#Arcade_(not_yet_compatible) "List of emulatable games (freeware)")
+[Arcade](/wiki/List_of_emulatable_games_(freeware).md#Arcade-not-yet-compatible "List of emulatable games (freeware)")
 
-[NES](/wiki/List_of_emulatable_games_(freeware)#Nintendo_Entertainment_System "List of emulatable games (freeware)")
+[NES](/wiki/List_of_emulatable_games_(freeware).md#Nintendo-Entertainment-System "List of emulatable games (freeware)")
 
-[Master System](/wiki/List_of_emulatable_games_(freeware)#Sega_Master_System "List of emulatable games (freeware)")
+[Master System](/wiki/List_of_emulatable_games_(freeware).md#Sega-Master-System "List of emulatable games (freeware)")
 
-[TurboGrafx-16](/wiki/List_of_emulatable_games_(freeware)#TurboGrafx-16_/_PC_Engine "List of emulatable games (freeware)")
+[TurboGrafx-16](/wiki/List_of_emulatable_games_(freeware).md#TurboGrafx-16-PC-Engine "List of emulatable games (freeware)")
 
-[Genesis](/wiki/List_of_emulatable_games_(freeware)#Sega_Genesis_/_Sega_Mega_Drive "List of emulatable games (freeware)")
+[Genesis](/wiki/List_of_emulatable_games_(freeware).md#Sega-Genesis-Sega-Mega-Drive "List of emulatable games (freeware)")
 
-[Game Boy](/wiki/List_of_emulatable_games_(freeware)#Game_Boy "List of emulatable games (freeware)")
+[Game Boy](/wiki/List_of_emulatable_games_(freeware).md#Game-Boy "List of emulatable games (freeware)")
 
-[Lynx](/wiki/List_of_emulatable_games_(freeware)#Atari_Lynx "List of emulatable games (freeware)")
+[Lynx](/wiki/List_of_emulatable_games_(freeware).md#Atari-Lynx "List of emulatable games (freeware)")
 
-[Game Gear](/wiki/List_of_emulatable_games_(freeware)#Sega_Game_Gear "List of emulatable games (freeware)")
+[Game Gear](/wiki/List_of_emulatable_games_(freeware).md#Sega-Game-Gear "List of emulatable games (freeware)")
 
-[SNES](/wiki/List_of_emulatable_games_(freeware)#Super_Nintendo_Entertainment_System "List of emulatable games (freeware)")
+[SNES](/wiki/List_of_emulatable_games_(freeware).md#Super-Nintendo-Entertainment-System "List of emulatable games (freeware)")
 
-[PS1](/wiki/List_of_emulatable_games_(freeware)#PlayStation "List of emulatable games (freeware)")
+[PS1](/wiki/List_of_emulatable_games_(freeware).md#PlayStation "List of emulatable games (freeware)")
 
-[GBC](/wiki/List_of_emulatable_games_(freeware)#Game_Boy_Color "List of emulatable games (freeware)")
+[GBC](/wiki/List_of_emulatable_games_(freeware).md#Game-Boy-Color "List of emulatable games (freeware)")
 
-[Neo Geo Pocket](/wiki/List_of_emulatable_games_(freeware)#Neo_Geo_Pocket "List of emulatable games (freeware)")
+[Neo Geo Pocket](/wiki/List_of_emulatable_games_(freeware).md#Neo-Geo-Pocket "List of emulatable games (freeware)")
 
-[WonderSwan](/wiki/List_of_emulatable_games_(freeware)#WonderSwan "List of emulatable games (freeware)")
+[WonderSwan](/wiki/List_of_emulatable_games_(freeware).md#WonderSwan "List of emulatable games (freeware)")
 
-[GBA](/wiki/List_of_emulatable_games_(freeware)#Game_Boy_Advance "List of emulatable games (freeware)")
+[GBA](/wiki/List_of_emulatable_games_(freeware).md#game-boy-advance "List of emulatable games (freeware)")
 
 ### Arcade (not yet compatible)
 
@@ -140,11 +140,11 @@ This list currently includes 28 games. All were actual arcade games that were la
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#arcade-not-yet-compatible)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Nintendo Entertainment System 
 
@@ -199,7 +199,7 @@ This list currently includes 186 games.
 | Dreamworld Pogie | [Link](http://yolkfolk.com/games/dreamworld-pogie) |  |  |  |
 | Driar | [Link](http://www.romhacking.net/homebrew/58/) |  |  |  |
 | Dúshlán **¹** | [Link](https://pdroms.de/files/nintendo-nintendoentertainmentsystem-nes-famicom-fc/dushlan) |  |  |  |
-| Elite ([requires modified CFG file](/wiki/List_of_games_with_compatibility_issues#Games_that_require_a_modified_configuration_file "List of games with compatibility issues")) | [Link](https://www.zophar.net/pdroms/nes/elite.html) |  |  |  |
+| Elite ([requires modified CFG file](/wiki/List_of_games_with_compatibility_issues.md#games-that-require-a-modified-configuration-file "List of games with compatibility issues")) | [Link](https://www.zophar.net/pdroms/nes/elite.html) |  |  |  |
 | ET | [Link](https://www.khangames.com/file-share) |  |  |  |
 | Euchre | [Link](https://nesdoug.com/2018/09/05/downloads-free-games/) |  |  |  |
 | Falldown | [Link](http://www.romhacking.net/homebrew/57/) |  |  |  |
@@ -342,11 +342,11 @@ This list currently includes 186 games.
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#nintendo-entertainment-system)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Sega Master System 
 
@@ -448,11 +448,11 @@ This list currently includes 90 games.
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#sega-master-system)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### TurboGrafx-16 / PC Engine 
 
@@ -478,11 +478,11 @@ This list currently includes 14 games.
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#turbografx-16--pc-engine)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Sega Genesis / Sega Mega Drive 
 
@@ -576,11 +576,11 @@ This list currently includes 82 games.
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#sega-genesis--sega-mega-drive)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Game Boy 
 
@@ -753,11 +753,11 @@ This list currently includes 161 games.
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#game-boy)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Atari Lynx 
 
@@ -837,11 +837,11 @@ This list currently includes 68 games.
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#atari-lynx)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Sega Game Gear 
 
@@ -865,11 +865,11 @@ This list currently includes 12 games.
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#sega-game-gear)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Super Nintendo Entertainment System 
 
@@ -909,11 +909,11 @@ This list currently includes 28 games.
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#super-nintendo-entertainment-system)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### PlayStation 
 
@@ -928,11 +928,11 @@ This list currently includes 3 games.
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#playstation)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Game Boy Color 
 
@@ -1035,11 +1035,11 @@ This list currently includes 91 games.
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#game-boy-color)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### Neo Geo Pocket 
 
@@ -1069,11 +1069,11 @@ This list currently includes 18 games.
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#neo-geo-pocket)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 ### WonderSwan 
 
@@ -1081,7 +1081,7 @@ No homebrew or freeware games matching the specified criteria have been found fo
 
 ### Game Boy Advance 
 
-This list currently includes 325 games. As the games highlighted in yellow below are incompatible with the default GBA emulator of the FunKey S, a [third-party emulator](/wiki/List_of_third-party_OPK_applications#Emulators "List of third-party OPK applications") if required for their emulation.
+This list currently includes 325 games. As the games highlighted in yellow below are incompatible with the default GBA emulator of the FunKey S, a [third-party emulator](/wiki/List_of_third-party_OPK_applications.md#Emulators "List of third-party OPK applications") if required for their emulation.
 
 | Name of Game | Link | Archetype | Genre | Game Art |
 | 1942 | [Link](https://www.gbadev.org/demos.php?showinfo=675) | [1942](https://en.wikipedia.org/wiki/1942_(video_game) "w:1942 (video game)") |  |  |
@@ -1413,8 +1413,8 @@ This list currently includes 325 games. As the games highlighted in yellow below
 
 [Return to top of section](#lists)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)
 
 [ Return to top of table](#game-boy-advance)
 
-[Return to top of article](#top)
+[Return to top of article](#contents)

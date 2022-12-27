@@ -8,7 +8,7 @@ This page lists speedruns that have been completed using the [FunKey S](/wiki/Fu
 * [1 Qualification criteria](#qualification-criteria)
 * [2 Games](#games)
   - [2.1 Pokémon Mystery Dungeon: Red Rescue Team](#pokemon-mystery-dungeon-red-rescue-team)
-    + [2.1.1 Any% (No Quicksaving or Wondermail)](#any%-no-quicksaving-or-wondermail)
+    + [2.1.1 Any% (No Quicksaving or Wondermail)](#any-no-quicksaving-or-wondermail)
 
 ## Qualification criteria 
 

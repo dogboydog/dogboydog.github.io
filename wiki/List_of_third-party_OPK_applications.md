@@ -189,24 +189,24 @@ Make note of the following information for the following games:
 | Name | Genre | Author(s) / Compiler(s) | Repository | Data Files | Folder | OPK |
 | OPK | Game |
 | Bibi | [Arcade](https://en.wikipedia.org/wiki/Arcade_game "w:Arcade game") | Vincent (FunKey Team) | [Link](https://github.com/DrUm78/Bibi) | N/A | [Download](/wiki/files/Bibi.opk) |
-| NXEngine | Cave Story | [Platformer](https://en.wikipedia.org/wiki/Platform_game.md "w:Platform game") | Drum78 | [Link](https://github.com/DrUm78/nxengine-libretro) | **_Cave Story_game files; launch via EXE file** | Any | [Download](/wiki/files/Cave Story-V1.opk) |
-| Dinothawr | [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game.md "w:Puzzle video game") |  | ** [Game files](/wiki/files/Dinothawr-V1.opk) |
-| Divi-Dead | [Visual Novel](https://en.wikipedia.org/wiki/Visual_novel.md "w:Visual novel") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/dividead_funkey-s.opk) | **DL1*****MPEG*** | [Download](/wiki/files/Divi-Dead.opk) |
-| PrBoom | Doom | [FPS](https://en.wikipedia.org/wiki/First-person_shooter.md "w:First-person shooter") | Coverilla Drum78 | [Link](https://github.com/DrUm78/libretro-prboom/releases) | **WAD** | [Download](/wiki/files/PrBoom-V2.opk) |
+| NXEngine | Cave Story | [Platformer](https://en.wikipedia.org/wiki/Platform_game "w:Platform game") | Drum78 | [Link](https://github.com/DrUm78/nxengine-libretro) | **_Cave Story_game files; launch via EXE file** | Any | [Download](/wiki/files/Cave Story-V1.opk) |
+| Dinothawr | [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game "w:Puzzle video game") |  | ** [Game files](/wiki/files/Dinothawr-V1.opk) |
+| Divi-Dead | [Visual Novel](https://en.wikipedia.org/wiki/Visual_novel "w:Visual novel") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/dividead_funkey-s.opk) | **DL1*****MPEG*** | [Download](/wiki/files/Divi-Dead.opk) |
+| PrBoom | Doom | [FPS](https://en.wikipedia.org/wiki/First-person_shooter "w:First-person shooter") | Coverilla Drum78 | [Link](https://github.com/DrUm78/libretro-prboom/releases) | **WAD** | [Download](/wiki/files/PrBoom-V2.opk) |
 | Doom II |
 | Final Doom |
-| Ganbare-Natuskian | [Platformer](https://en.wikipedia.org/wiki/Platform_game.md "w:Platform game") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/gnp_funkey-s.opk) | N/A | [Download](/wiki/files/Ganbare-Natuskian.opk) |
-| Heboris | [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game.md "w:Puzzle video game") | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/heboris_funkey-s.opk) | [Download](/wiki/files/Heboris funkey-s.opk) |
-| Cannonball | Out Run | [Driving](https://en.wikipedia.org/wiki/Driving_video_game.md "w:Driving video game") | Drum78 | [Link](https://github.com/DrUm78/Cannonball-C/releases/tag/v0.3-funkey-s) | **_Out Run_Arcade Rev. B ROM files** | /Funkey/.cannonball | [Download](/wiki/files/Cannonball-V3.opk) |
+| Ganbare-Natuskian | [Platformer](https://en.wikipedia.org/wiki/Platform_game "w:Platform game") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/gnp_funkey-s.opk) | N/A | [Download](/wiki/files/Ganbare-Natuskian.opk) |
+| Heboris | [Puzzle](https://en.wikipedia.org/wiki/Puzzle_video_game "w:Puzzle video game") | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/heboris_funkey-s.opk) | [Download](/wiki/files/Heboris funkey-s.opk) |
+| Cannonball | Out Run | [Driving](https://en.wikipedia.org/wiki/Driving_video_game "w:Driving video game") | Drum78 | [Link](https://github.com/DrUm78/Cannonball-C/releases/tag/v0.3-funkey-s) | **_Out Run_Arcade Rev. B ROM files** | /Funkey/.cannonball | [Download](/wiki/files/Cannonball-V3.opk) |
 | Gameblabla |
-| Quake | [FPS](https://en.wikipedia.org/wiki/First-person_shooter.md "w:First-person shooter") | LordEnum | [Link](https://github.com/DrUm78/tyrquake/releases/tag/v0.62-funkey-s) | **PAK0.PAK** PAK1.PAK | Any | [Download](/wiki/files/TyrQuake-V2.opk) |
+| Quake | [FPS](https://en.wikipedia.org/wiki/First-person_shooter "w:First-person shooter") | LordEnum | [Link](https://github.com/DrUm78/tyrquake/releases/tag/v0.62-funkey-s) | **PAK0.PAK** PAK1.PAK | Any | [Download](/wiki/files/TyrQuake-V2.opk) |
 | Drum78 |
-| ScummVM | [SCUMM](https://en.wikipedia.org/wiki/SCUMM.md "w:SCUMM") engine games | Various | [Link](https://github.com/DrUm78/scummvm/releases) | **Game's data files****_EXAMPLE.SCUMMVM_launch file** | [Download](/wiki/files/ScummVM-V6.opk) |
-| Sonic Robo Blast 2 | [Platformer](https://en.wikipedia.org/wiki/Platform_game.md "w:Platform game") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/srb2_funkey-s.opk) | N/A | [Download](https://gitlab.com/gameblabla/gameblabla-releases/-/raw/master/opk/funkey/srb2_funkey-s.opk) |
+| ScummVM | [SCUMM](https://en.wikipedia.org/wiki/SCUMM "w:SCUMM") engine games | Various | [Link](https://github.com/DrUm78/scummvm/releases) | **Game's data files****_EXAMPLE.SCUMMVM_launch file** | [Download](/wiki/files/ScummVM-V6.opk) |
+| Sonic Robo Blast 2 | [Platformer](https://en.wikipedia.org/wiki/Platform_game "w:Platform game") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/srb2_funkey-s.opk) | N/A | [Download](https://gitlab.com/gameblabla/gameblabla-releases/-/raw/master/opk/funkey/srb2_funkey-s.opk) |
 | Supertuxkart | [Racing](https://en.wikipedia.org/wiki/Racing_game "w:Racing game") | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/stk_funkey-s.opk) | [Download](https://gitlab.com/gameblabla/gameblabla-releases/-/raw/master/opk/funkey/stk_funkey-s.opk) |
 | VVVVVV | [Platformer](https://en.wikipedia.org/wiki/Platform_game "w:Platform game") | Jack | [Link](https://github.com/RetroPorts/fks-VVVVVV) | **data.zip** | /FunKey/.local/share/VVVVVV | [Download](/wiki/files/VVVVVV.opk) |
-| Wolfenstein 3D | [FPS](https://en.wikipedia.org/wiki/First-person_shooter.md "w:First-person shooter") | [Link](https://github.com/RetroPorts/fks-ecwolf) | **WL6*** | /FunKey/.ecwolf | [Download](/wiki/files/Wolfenstein 3D.opk) |
-| Worship Vector | [Tower Defense](https://en.wikipedia.org/wiki/Tower_defense.md "w:Tower defense") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/worship_vector_funkey-s.opk) | N/A | [Download](/wiki/files/Worship Vector.opk) |
+| Wolfenstein 3D | [FPS](https://en.wikipedia.org/wiki/First-person_shooter "w:First-person shooter") | [Link](https://github.com/RetroPorts/fks-ecwolf) | **WL6*** | /FunKey/.ecwolf | [Download](/wiki/files/Wolfenstein 3D.opk) |
+| Worship Vector | [Tower Defense](https://en.wikipedia.org/wiki/Tower_defense "w:Tower defense") | Gameblabla | [Link](https://gitlab.com/gameblabla/gameblabla-releases/-/blob/master/opk/funkey/worship_vector_funkey-s.opk) | N/A | [Download](/wiki/files/Worship Vector.opk) |
 
 <br>
 
