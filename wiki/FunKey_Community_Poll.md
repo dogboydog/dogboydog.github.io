@@ -6,13 +6,13 @@ The **FunKey Community Poll** is a series of weekly polls conducted by FunKey co
 ## Contents
 
 * [1 Previous polls](#previous-polls)
-  - [1.1 #1: Favorite Emulated System](##1-favorite-emulated-system)
+  - [1.1 #1: Favorite Emulated System](#1-favorite-emulated-system)
   - [1.2 #2: Preferred Potentially Emulatable System](##2-preferred-potentially-emulatable-system)
-  - [1.3 #3: Default Aspect Ratios](##3-default-aspect-ratios)
-  - [1.4 #4: Emulation Handhelds](##4-emulation-handhelds)
-  - [1.5 #5: Other Colors](##5-other-colors)
-  - [1.6 #6: Multiplayer](##6-multiplayer)
-  - [1.7 #7: Purchase Preferences](##7-purchase-preferences)
+  - [1.3 #3: Default Aspect Ratios](#3-default-aspect-ratios)
+  - [1.4 #4: Emulation Handhelds](#4-emulation-handhelds)
+  - [1.5 #5: Other Colors](#5-other-colors)
+  - [1.6 #6: Multiplayer](#6-multiplayer)
+  - [1.7 #7: Purchase Preferences](#7-purchase-preferences)
 
 ## Previous polls
 

@@ -50,29 +50,29 @@ To use one of the Gmenu2x skins listed below, begin by downloading and extractin
 
 | Name | Screenshots | Download |
 | 2x2 | 2x3 | 3x3 | 2x2 | 2x3 | 3x3 |
-| 2Blue2 |  |  |  | [Link](/wiki/files/2Blue2_%28S%29.zip) |
-| Amiga |  |  |  | [Link](/wiki/files/Amiga_%28S%29.zip) |
-| Amiga ST |  |  |  | [Link](/wiki/files/Amiga_ST_%28S%29.zip) |
-| AROS |  |  |  | [Link](/wiki/files/AROS_%28S%29.zip) |
-| BeOS |  |  |  | [Link](/wiki/files/BeOS_%28S%29.zip) |
-| Black |  |  |  | [Link](/wiki/files/Black_%28S%29.zip) |
-| DekUI |  |  |  | [Link](/wiki/files/DekUI_%28S%29.zip) |
-| Flat |  |  |  | [Link](/wiki/files/Flat_%28S%29.zip) |
-| Gnome |  |  |  | [Link](/wiki/files/Gnome_%28S%29.zip) |
-| KDE |  |  |  | [Link](/wiki/files/KDE_%28S%29.zip) |
-| LCARS |  |  |  | [Link](/wiki/files/LCARS_%28S%29.zip) |
-| Liquido |  |  |  | [Link](/wiki/files/Liquido_%28S%29.zip) |
-| Mac OS 9 |  |  |  | [Link](/wiki/files/Mac_OS_9_%28S%29.zip) |
-| Material |  |  |  | [Link](/wiki/files/Material_%28S%29.zip) |
-| OldBoy |  |  |  | [Link](/wiki/files/OldBoy_%28S%29.zip) |
-| OS2 Warp 4 |  |  |  | [Link](/wiki/files/OS2_Warp_4_%28S%29.zip) |
-| PS4 |  |  |  | [Link](/wiki/files/PS4_%28S%29.zip) |
-| PSNext |  |  |  | [Link](/wiki/files/PSNext_%28S%29.zip) |
-| PSNext Dark |  |  |  | [Link](/wiki/files/PSNext_Dark_%28S%29.zip) |
-| QNX |  |  |  | [Link](/wiki/files/QNX_%28S%29.zip) |
-| Star Wars |  |  |  | [Link](/wiki/files/Star_Wars_%28S%29.zip) |
-| Windows 3.1 |  |  |  | [Link](/wiki/files/Windows_3.1_%28S%29.zip) |
-| Windows 7 |  |  |  | [Link](/wiki/files/Windows_7_%28S%29.zip) |
-| Windows XP |  |  |  | [Link](/wiki/files/Windows_XP_%28S%29.zip) |
-| Zelda |  |  |  | [Link](/wiki/files/Zelda_%28S%29.zip) |
+| 2Blue2 |  |  |  | [Link](/wiki/files/2Blue2 %28S%29.zip) |
+| Amiga |  |  |  | [Link](/wiki/files/Amiga %28S%29.zip) |
+| Amiga ST |  |  |  | [Link](/wiki/files/Amiga ST %28S%29.zip) |
+| AROS |  |  |  | [Link](/wiki/files/AROS %28S%29.zip) |
+| BeOS |  |  |  | [Link](/wiki/files/BeOS %28S%29.zip) |
+| Black |  |  |  | [Link](/wiki/files/Black %28S%29.zip) |
+| DekUI |  |  |  | [Link](/wiki/files/DekUI %28S%29.zip) |
+| Flat |  |  |  | [Link](/wiki/files/Flat %28S%29.zip) |
+| Gnome |  |  |  | [Link](/wiki/files/Gnome %28S%29.zip) |
+| KDE |  |  |  | [Link](/wiki/files/KDE %28S%29.zip) |
+| LCARS |  |  |  | [Link](/wiki/files/LCARS %28S%29.zip) |
+| Liquido |  |  |  | [Link](/wiki/files/Liquido %28S%29.zip) |
+| Mac OS 9 |  |  |  | [Link](/wiki/files/Mac OS 9 %28S%29.zip) |
+| Material |  |  |  | [Link](/wiki/files/Material %28S%29.zip) |
+| OldBoy |  |  |  | [Link](/wiki/files/OldBoy %28S%29.zip) |
+| OS2 Warp 4 |  |  |  | [Link](/wiki/files/OS2 Warp 4 %28S%29.zip) |
+| PS4 |  |  |  | [Link](/wiki/files/PS4 %28S%29.zip) |
+| PSNext |  |  |  | [Link](/wiki/files/PSNext %28S%29.zip) |
+| PSNext Dark |  |  |  | [Link](/wiki/files/PSNext Dark %28S%29.zip) |
+| QNX |  |  |  | [Link](/wiki/files/QNX %28S%29.zip) |
+| Star Wars |  |  |  | [Link](/wiki/files/Star Wars %28S%29.zip) |
+| Windows 3.1 |  |  |  | [Link](/wiki/files/Windows 3.1 %28S%29.zip) |
+| Windows 7 |  |  |  | [Link](/wiki/files/Windows 7 %28S%29.zip) |
+| Windows XP |  |  |  | [Link](/wiki/files/Windows XP %28S%29.zip) |
+| Zelda |  |  |  | [Link](/wiki/files/Zelda %28S%29.zip) |
 

@@ -18,25 +18,25 @@ This article lists utility programs that can be emulated on the FunKey S. Utilit
 This section lists public domain books available in a Game Boy and/or Game Boy Advance eBook ROM format.
 
 | Name | GB | GBA |
-| A Christmas Carol |  | [Download](/wiki/files/Dickens_-_A_Christmas_Carol.gba) |
-| Alice's Adventures in Wonderland | [Download](/wiki/files/Carroll_-_Alice%27s_Adventures_in_Wonderland.gba) |
-| Around the World in 80 Days | [Download](/wiki/files/Verne_-_Around_the_World_in_80_Days.gba) |
-| Castle of Otranto | [Download](/wiki/files/Walpole_-_Castle_of_Otranto.gb) |  |
-| Lolita | [Download](/wiki/files/Nabokov_-_Lolita.gba) |
-| Robinson Crusoe | [Download](/wiki/files/Defoe_-_Robinson_Crusoe.gba) |
-| Tarzan of the Apes |  | [Download](/wiki/files/Burroughs_-_Tarzan_of_the_Apes.gba) |
-| The 39 Steps | [Download](/wiki/files/Buchan_-_The_39_Steps.gb) |  |
-| The Adventures of Huckleberry Finn | [Download](/wiki/files/Twain_-_The_Adventures_of_Huckleberry_Finn.gba) |
-| The Adventures of Tom Sawyer | [Download](/wiki/files/Twain_-_The_Adventures_of_Tom_Sawyer.gba) |
-| The Bible (King James version) |  | [Download](/wiki/files/The_Bible_%28King_James_Version%29.gba) |
-| The Complete Sherlock Holmes |  | [Download](/wiki/files/Doyle_-_The_Complete_Sherlock_Holmes.gba) |
-| The Lost World | [Download](/wiki/files/Doyle_-_The_Lost_World.gb) |  |
-| The Mysterious Island | [Download](/wiki/files/Verne_-_The_Mysterious_Island.gba) |
-| The Secret Garden | [Download](/wiki/files/Burnett_-_The_Secret_Garden.gba) |
-| The Underground City | [Download](/wiki/files/Verne_-_The_Underground_City.gba) |
-| Theatre of Cruelty | [Download](/wiki/files/Pratchett_-_Theatre_of_Cruelty.gb) |  |
-| Twenty Thousand Leagues Under the Sea | [Download](/wiki/files/Verne_-_Twenty_Thousand_Leagues_Under_The_Sea.gba) |
-| War of the Worlds | [Download](/wiki/files/Wells_-_War_of_the_Worlds.gba) |
+| A Christmas Carol |  | [Download](/wiki/files/Dickens - A Christmas Carol.gba) |
+| Alice's Adventures in Wonderland | [Download](/wiki/files/Carroll - Alice%27s Adventures in Wonderland.gba) |
+| Around the World in 80 Days | [Download](/wiki/files/Verne - Around the World in 80 Days.gba) |
+| Castle of Otranto | [Download](/wiki/files/Walpole - Castle of Otranto.gb) |  |
+| Lolita | [Download](/wiki/files/Nabokov - Lolita.gba) |
+| Robinson Crusoe | [Download](/wiki/files/Defoe - Robinson Crusoe.gba) |
+| Tarzan of the Apes |  | [Download](/wiki/files/Burroughs - Tarzan of the Apes.gba) |
+| The 39 Steps | [Download](/wiki/files/Buchan - The 39 Steps.gb) |  |
+| The Adventures of Huckleberry Finn | [Download](/wiki/files/Twain - The Adventures of Huckleberry Finn.gba) |
+| The Adventures of Tom Sawyer | [Download](/wiki/files/Twain - The Adventures of Tom Sawyer.gba) |
+| The Bible (King James version) |  | [Download](/wiki/files/The Bible %28King James Version%29.gba) |
+| The Complete Sherlock Holmes |  | [Download](/wiki/files/Doyle - The Complete Sherlock Holmes.gba) |
+| The Lost World | [Download](/wiki/files/Doyle - The Lost World.gb) |  |
+| The Mysterious Island | [Download](/wiki/files/Verne - The Mysterious Island.gba) |
+| The Secret Garden | [Download](/wiki/files/Burnett - The Secret Garden.gba) |
+| The Underground City | [Download](/wiki/files/Verne - The Underground City.gba) |
+| Theatre of Cruelty | [Download](/wiki/files/Pratchett - Theatre of Cruelty.gb) |  |
+| Twenty Thousand Leagues Under the Sea | [Download](/wiki/files/Verne - Twenty Thousand Leagues Under The Sea.gba) |
+| War of the Worlds | [Download](/wiki/files/Wells - War of the Worlds.gba) |
 
 ## Calculation
 
