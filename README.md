@@ -43,7 +43,7 @@ Welcome to The FunKey Wiki, the host of information, tutorials, and user-generat
 
 [ manufactures the FunKey S?](/wiki/FunKey_Wiki_Knowledge_Center.md#where-is-the-funkey-s-manufactured "FunKey Wiki Knowledge Center")
 
-[ runs the FunKey S Discord?](/wiki/FunKey_Wiki_Knowledge_Center.md#how-can-i-translate-the-funkey-wiki "FunKey Wiki Knowledge Center")
+[ runs the FunKey S Discord?](/wiki/FunKey_Wiki_Knowledge_Center.md#who-runs-the-funkey-community-discord-server "FunKey Wiki Knowledge Center")
 
 **<u>How can I...</u>**
 
